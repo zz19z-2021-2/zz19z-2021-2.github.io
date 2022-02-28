@@ -14,7 +14,7 @@
 
 不说废话了，视频在这：
 
-
+<video src="https://github.com/zz19z-2021-2/zz19z-2021-2.github.io/raw/main/Files/2022元旦联欢会.mp4"></video>
 
 （以上视频是由于网站限制而被压缩到了2GiB的版本，但和原视频画质并没有太大区别。视频源文件在[这里](https://www.123pan.com/s/PE5A-TNNF3)，约3.9GiB大小）
 

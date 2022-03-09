@@ -2,7 +2,7 @@
 
 你好，这里是由郑州市第十九初级中学2021级2班——笑草班建立的网站。为保护这个网站，我们没有将它开放给搜索引擎。所以来到这里的大概都是老熟人吧～
 
-我们的网址是https://zz19z-2021-2.github.io/，github.io是固定一级域名（因为我们没有钱购买自己的域名）；“zz19z”即“郑州十九中”，“2021”即“2021级”，“2”即“2班”。这样，我们的网站就有了自己的名字：郑州十九中-2021级-2班。
+我们的网址是https://zz19z-2021-2.github.io/ ，github.io是固定一级域名（因为我们没有钱购买自己的域名）；“zz19z”即“郑州十九中”，“2021”即“2021级”，“2”即“2班”。这样，我们的网站就有了自己的名字：郑州十九中-2021级-2班。
 
 # 新闻
 
@@ -18,11 +18,9 @@
 
 我们原定在七年级上册期末考试前完成视频制作，后来因为要复习便“咕”到了考试之后制作。结果更是人算不如天算——期末考试自己“咕”到了七年级下册。如果这么算的话，我们似乎还提前发布了呢！
 
-不说废话了，视频在这：
+不说废话了，视频在[这](https://www.bilibili.com/video/BV1q44y1M7gy)。
 
-<video src="https://github.com/zz19z-2021-2/zz19z-2021-2.github.io/raw/main/Files/2022元旦联欢会.mp4" preload="auto" controls="controls"></video>
-
-（以上视频是由于网站限制而被压缩到了2GiB的版本，但和原视频画质并没有太大区别。视频源文件在[这里](https://www.123pan.com/s/PE5A-TNNF3)，约3.9GiB大小）
+<iframe src="//player.bilibili.com/player.html?aid=979595108&bvid=BV1q44y1M7gy&cid=544554536&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ## 我们的网站由你来设计
 

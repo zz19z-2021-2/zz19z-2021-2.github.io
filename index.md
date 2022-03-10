@@ -8,6 +8,7 @@ button.link {
   cursor:pointer;
   text-align:center;
   float:left;
+  transition-duration: 0.4s;
 }
 button.link:hover {
   background-color: DodgerBlue;
@@ -15,8 +16,9 @@ button.link:hover {
 }
 </style>
 <head>
-<a href="https://zz19z-2021-2.github.io/"><button class="button link">首页</button></a><a href="https://zz19z-2021-2.github.io/spaces/spaces.html"><button class="button link">个人空间</button></a><a href="https://zz19z-2021-2.github.io/overview.html"><button class="button link">内容总览</button></a>
+<a href="https://zz19z-2021-2.github.io/"><button class="button link">首页</button></a>
 </head>
+<br />
 
 # 欢迎
 
@@ -31,6 +33,7 @@ button.link:hover {
 七上期末考试结束，可谓是“几家欢喜几家愁”。来看看语文考试中，作文在28分及以上的同学都是怎么写的吧！
 
 <a href="https://zz19z-2021-2.github.io/七上期末考试优秀作文.html"><button class="button link">前往《七上期末考试优秀作文》</button></a>
+<br />
 
 ## 2022元旦联欢会
 

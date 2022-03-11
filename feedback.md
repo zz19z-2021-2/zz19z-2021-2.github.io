@@ -1,4 +1,6 @@
-﻿# 帮助 / 反馈
+﻿<link rel="stylesheet" type="text/css" href="style.css">
+
+# 帮助 / 反馈
 
 如果你在阅读我们的网站时遇到问题或有建议想给我提出，请通过下面的表单向我们发送消息：
 
@@ -31,7 +33,7 @@
         'Accept': 'application/json'
     }
   }).then(response => {
-    status.innerHTML = "提交成功！Thank you very much!";
+    status.innerHTML = "提交成功！Thank you very much.";
     form.reset()
   }).catch(error => {
     status.innerHTML = "Oh, no！你的建议提交失败，请稍后再试。"
@@ -39,3 +41,5 @@
 }
 form.addEventListener("submit", handleSubmit)
 </script>
+
+<a href="https://zz19z-2021-2.github.io/"><button class="button link">回到首页</button></a>

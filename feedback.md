@@ -1,4 +1,9 @@
-﻿<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" type="text/css" href="style.css">
+
+<a href="https://zz19z-2021-2.github.io/"><button class="button group-left">首页</button></a><a href="https://zz19z-2021-2.github.io/feedback.html"><button class="button group-left">反馈 / 帮助</button></a><a href="https://zz19z-2021-2.github.io/overview.html"><button class="button group-right">内容总览</button></a>
+
+<br />
+<br />
 
 # 帮助 / 反馈
 
@@ -17,8 +22,7 @@
     <textarea rows="10" cols="20" style="font-size:20px;width:100%" name="消息" required="required" placeholder="必填"></textarea>
   </label>
   <br />
-  <label>
-  <button id="my-form-button" style="font-size:17px;width:10%">提交</button>
+  <button id="my-form-button" class="button link" style="font-size:17px;width:10%">提交</button>
 </form>
 <script>
     var form = document.getElementById("my-form");
@@ -41,5 +45,3 @@
 }
 form.addEventListener("submit", handleSubmit)
 </script>
-
-<a href="https://zz19z-2021-2.github.io/"><button class="button link">回到首页</button></a>

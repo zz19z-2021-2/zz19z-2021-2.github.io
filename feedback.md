@@ -23,6 +23,7 @@
   </label>
   <br />
   <button id="my-form-button" class="button link" style="font-size:17px;width:10%">提交</button>
+  <br />
 </form>
 <script>
     var form = document.getElementById("my-form");

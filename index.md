@@ -18,7 +18,7 @@
 七下语文第一课《邓稼先》，讲述了作者杨振宁与邓稼先在50年的革命友谊，从邓稼先的气质、品格、价值观、人生道路等方面进行细节刻画，使得课文内涵丰富，底蕴厚重， 凸显出一个立体的光芒四射的邓稼先形象。以下是对被授予我国“两弹一星功勋奖章”的23位科学家的系统介绍。
 
 <a href="https://zz19z-2021-2.github.io/两弹一星.html"><button class="button link">前往《语文：“两弹一星”》</button></a>
-
+<br />
 <p style="color:grey;font-size:12px;clear:both">提供：翁睿阳</p>
 
 ---
@@ -28,7 +28,7 @@
 七上期末考试结束，可谓是“几家欢喜几家愁”。来看看语文考试中，作文在28分及以上的同学都是怎么写的吧！
 
 <a href="https://zz19z-2021-2.github.io/七上期末考试优秀作文.html"><button class="button link">前往《七上期末考试优秀作文》</button></a>
-
+<br />
 <p style="color:grey;font-size:12px;clear:both">提供：黄洁</p>
 
 ---
@@ -42,7 +42,7 @@
 不说废话了，视频在Bilibili上，[BV1q44y1M7gy](https://www.bilibili.com/video/BV1q44y1M7gy)。
 
 <iframe src="//player.bilibili.com/player.html?aid=979595108&bvid=BV1q44y1M7gy&cid=544554536&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="853px" height="480px">七二笑草班2022年元旦联欢会视频</iframe>
-
+<br />
 <p style="color:grey;font-size:12px;clear:both">提供：邱家杨、胡志宇</p>
 
 ---
@@ -52,5 +52,5 @@
 建立这个网站以后，我们对它的使用仅仅停留在了“给我们的视频一个家”的地步。设计一个网站是很难的。它不仅要简洁明了，要让别人一看就明白网站的基本结构；而且内容要充实，获取信息的效率要高。这些要求对我们来说太高了，但只要大家集思广益，这并不是一件难事。“只要思想不滑坡，办法总比困难多。”
 
 怎么参与呢？方法有二，第一种则是到学校和我们（邱家杨、胡志宇、赵妙格等）直接谈，第二种则是通过[表单](feedback.md)给我们发送信息。
-
+<br />
 <p style="color:grey;font-size:12px;clear:both">提供：邱家杨</p>

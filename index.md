@@ -1,6 +1,6 @@
-<link rel="stylesheet" type="text/css" href="style.css">
+﻿<link rel="stylesheet" type="text/css" href="style.css">
 
-<a href="https://zz19z-2021-2.github.io/"><button class="button group-left">首页</button></a><a href="https://zz19z-2021-2.github.io/feedback.html"><button class="button group-left">反馈 / 帮助</button></a><a href="https://zz19z-2021-2.github.io/overview.html"><button class="button group-right">内容总览</button></a>
+<a href="https://zz19z-2021-2.github.io/"><button class="button group-left">首页</button></a><a href="https://zz19z-2021-2.github.io/feedback.html"><button class="button group-left">反馈 / 帮助</button></a><a href="https://zz19z-2021-2.github.io/overview.html"><button class="button group-left">内容总览</button></a><a href="https://zz19z-2021-2.github.io/Spaces/Spaces.html"><button class="button group-right">个人空间</button></a>
 
 <br />
 <br />
@@ -41,7 +41,7 @@
 
 不说废话了，视频在Bilibili上，[BV1q44y1M7gy](https://www.bilibili.com/video/BV1q44y1M7gy)。
 
-<iframe src="//player.bilibili.com/player.html?aid=979595108&bvid=BV1q44y1M7gy&cid=544554536&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="853px" height="480px">七二笑草班2022年元旦联欢会视频</iframe>
+<a href="https://zz19z-2021-2.github.io/2022元旦联欢会.html"><button class="button link">前往《2022元旦联欢会》</button></a>
 <br />
 <p style="color:grey;font-size:12px;clear:both">提供：邱家杨、胡志宇</p>
 

@@ -1,6 +1,11 @@
-﻿<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" type="text/css" href="style.css">
 
-<a href="https://zz19z-2021-2.github.io/"><button class="button group-left">首页</button></a><a href="https://zz19z-2021-2.github.io/feedback.html"><button class="button group-left">反馈 / 帮助</button></a><a href="https://zz19z-2021-2.github.io/overview.html"><button class="button group-left">内容总览</button></a><a href="https://zz19z-2021-2.github.io/Spaces/Spaces.html"><button class="button group-right">个人空间</button></a>
+<div class="btn-group">
+<a href="https://zz19z-2021-2.github.io/"><button class="button">首页</button></a>
+<a href="https://zz19z-2021-2.github.io/overview.html"><button class="button">内容总览</button></a>
+<a href="https://zz19z-2021-2.github.io/feedback.html"><button class="button">反馈 / 帮助</button></a>
+<a href="https://zz19z-2021-2.github.io/Spaces/spaces.html"><button class="button">个人空间</button></a>
+</div>
 
 <br />
 <br />
@@ -17,8 +22,9 @@
 
 七下语文第一课《邓稼先》，讲述了作者杨振宁与邓稼先在50年的革命友谊，从邓稼先的气质、品格、价值观、人生道路等方面进行细节刻画，使得课文内涵丰富，底蕴厚重， 凸显出一个立体的光芒四射的邓稼先形象。以下是对被授予我国“两弹一星功勋奖章”的23位科学家的系统介绍。
 
-<a href="https://zz19z-2021-2.github.io/两弹一星.html"><button class="button link">前往《语文：“两弹一星”》</button></a>
+<a href="https://zz19z-2021-2.github.io/两弹一星.html"><button class="button-link">前往《语文：“两弹一星”》</button></a>
 <br />
+
 <p style="color:grey;font-size:12px;clear:both">提供：翁睿阳</p>
 
 ---
@@ -27,8 +33,9 @@
 
 七上期末考试结束，可谓是“几家欢喜几家愁”。来看看语文考试中，作文在28分及以上的同学都是怎么写的吧！
 
-<a href="https://zz19z-2021-2.github.io/七上期末考试优秀作文.html"><button class="button link">前往《七上期末考试优秀作文》</button></a>
+<a href="https://zz19z-2021-2.github.io/七上期末考试优秀作文.html"><button class="button-link">前往《七上期末考试优秀作文》</button></a>
 <br />
+
 <p style="color:grey;font-size:12px;clear:both">提供：黄洁</p>
 
 ---
@@ -41,7 +48,7 @@
 
 不说废话了，视频在Bilibili上，[BV1q44y1M7gy](https://www.bilibili.com/video/BV1q44y1M7gy)。
 
-<a href="https://zz19z-2021-2.github.io/2022元旦联欢会.html"><button class="button link">前往《2022元旦联欢会》</button></a>
+<a href="https://zz19z-2021-2.github.io/2022元旦联欢会.html"><button class="button-link">前往《2022元旦联欢会》</button></a>
 <br />
 <p style="color:grey;font-size:12px;clear:both">提供：邱家杨、胡志宇</p>
 

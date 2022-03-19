@@ -27,7 +27,7 @@
     <textarea rows="10" cols="20" style="font-size:20px;width:100%" name="消息" required="required" placeholder="必填"></textarea>
   </label>
   <br />
-  <button id="my-form-button" class="button link" style="font-size:17px;width:10%">提交</button>
+  <button id="my-form-button" class="button-link">提交</button>
   <br />
 </form>
 <script>

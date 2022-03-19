@@ -32,16 +32,16 @@
   transition-duration: 0.2s;
 }
 
-.btn-group, .button:hover{
+.btn-group .button:hover{
   background-color: DodgerBlue;
   color: white;
 }
 
-.btn-group, .button-link:hover{
+.button-link:hover{
   background-color: DodgerBlue;
   color: white;
 }
 
-.btn-group, .button:not(:last-child) {
+.btn-group .button:not(:last-child) {
   border-right: none; /* 阻止双边框 */
 }

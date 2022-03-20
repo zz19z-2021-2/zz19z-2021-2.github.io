@@ -37,11 +37,11 @@
   color: white;
 }
 
+.btn-group .button:not(:last-child) {
+  border-right: none;
+}
+
 .button-link:hover{
   background-color: DodgerBlue;
   color: white;
-}
-
-.btn-group .button:not(:last-child) {
-  border-right: none; /* 阻止双边框 */
 }

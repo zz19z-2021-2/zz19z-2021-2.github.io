@@ -9,9 +9,7 @@
 <div class="btn-group">
 <a href="https://zz19z-2021-2.github.io/"><button class="button group-right">首页</button></a>
 </div>
-
-<br />
-<br />
+<p style="clear:both"></p>
 
 ---
 
@@ -20,9 +18,7 @@
 <a href="https://zz19z-2021-2.github.io/overview.html"><button class="button">内容总览</button></a>
 <a href="https://zz19z-2021-2.github.io/Spaces/spaces.html"><button class="button">个人空间</button></a>
 </div>
-
-<br />
-<br />
+<p style="clear:both"></p>
 
 ---
 
@@ -32,7 +28,4 @@
 <a href="https://zz19z-2021-2.github.io/两弹一星.html"><button class="button">语文：“两弹一星”</button></a>
 <a href="https://zz19z-2021-2.github.io/2022元旦联欢会.html"><button class="button">2022元旦联欢会</button></a>
 </div>
-
-
-<br />
-<br />
+<p style="clear:both"></p>

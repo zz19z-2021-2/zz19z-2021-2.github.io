@@ -16,7 +16,7 @@
 
 想要编辑个人主页？从这里发送给我们审核！
 
-<form id="my-form" action="https://formspree.io/f/mdoyqljy" method="POST">
+<form id="my-form" action="https://www.maildock.ink/state/send/mail?posId=aea721f3469c4d3291fdb606ede25e21" method="POST">
   <label>
     你的姓名：<br />
     <textarea rows="1" cols="20" style="font-size:20px;width:100%" required="required" placeholder="必填" name="姓名"></textarea>
@@ -51,3 +51,6 @@
 }
 form.addEventListener("submit", handleSubmit)
 </script>
+
+
+Note: 点击提交之后你的设备会直接提交，没有任何反馈。所以点击提交之后你就可以离开这个页面啦！**切记切记不要多点，服务器的接受是有上限的（每月50条）**，你一次性提交的表单过多，别人就有可能无法提交了！

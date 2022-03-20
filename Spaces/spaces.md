@@ -21,6 +21,7 @@
 <a href="https://zz19z-2021-2.github.io/Spaces/周一轩.html"><button class="button">周一轩</button></a>
 <a href="https://zz19z-2021-2.github.io/Spaces/蔡鑫源.html"><button class="button">蔡鑫源</button></a>
 <a href="https://zz19z-2021-2.github.io/Spaces/王子航.html"><button class="button">王子航</button></a>
+<a href="https://zz19z-2021-2.github.io/Spaces/邱家杨.html"><button class="button">邱家杨</button></a>
 <a href="https://zz19z-2021-2.github.io/Spaces/胡志宇.html"><button class="button">胡志宇</button></a>
 <a href="https://zz19z-2021-2.github.io/Spaces/翁睿阳.html"><button class="button">翁睿阳</button></a>
 <a href="https://zz19z-2021-2.github.io/Spaces/刘祖旭.html"><button class="button">刘祖旭</button></a>

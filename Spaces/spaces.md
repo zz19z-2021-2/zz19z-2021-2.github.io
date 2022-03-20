@@ -7,8 +7,7 @@
 <a href="https://zz19z-2021-2.github.io/Spaces/spaces.html"><button class="button">个人空间</button></a>
 </div>
 
-<br />
-<br />
+<p style="clear:both"></p>
 
 # 个人空间：首页
 

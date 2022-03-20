@@ -7,8 +7,7 @@
 <a href="https://zz19z-2021-2.github.io/Spaces/spaces.html"><button class="button">个人空间</button></a>
 </div>
 
-<br />
-<br />
+<p style="clear:both"></p>
 
 # 帮助 / 反馈
 
@@ -53,4 +52,4 @@ form.addEventListener("submit", handleSubmit)
 </script>
 
 
-Note: 点击提交之后你的设备会直接提交，没有任何反馈。所以点击提交之后你就可以离开这个页面啦！**切记切记不要多点，服务器的接受是有上限的（每月50条）**，你一次性提交的表单过多，别人就有可能无法提交了！
+<p style="clear:both">Note: 点击提交之后你的设备会直接提交，没有任何反馈。所以点击提交之后你就可以离开这个页面啦！</p>

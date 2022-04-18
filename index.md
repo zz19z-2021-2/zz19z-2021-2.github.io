@@ -13,7 +13,20 @@
 
 我们的网址是https://zz19z-2021-2.github.io/ ，github.io是固定一级域名（因为我们没有钱购买自己的域名）；“zz19z”即“郑州十九中”，“2021”即“2021级”，“2”即“2班”。这样，我们的网站就有了自己的名字：郑州十九中-2021级-2班。
 
+**注：“新闻”栏目删除的内容您依旧可以在“内容总览”页面中看到。** *本网站文件（包括PPT、图片等所有非文本文件）正在准备迁移至[蓝奏云](http://www.lanzou.com)，如果您认为它不够安全，请及时与我们联系。*
+
 # 新闻
+
+## 七下期中考试
+
+让我们恭喜以下五位同学位于班级前五：
+<ul style="font-size:25px;color:orange">
+  <li>倪振云</li>
+  <li>宋梓睿、秦子清</li>
+  <li>周一轩</li>
+  <li>潘天佑</li>
+</ul>
+
 
 ## 语文：“两弹一星”
 
@@ -23,31 +36,6 @@
 <br />
 
 <p style="color:grey;font-size:12px;clear:both">提供：翁睿阳</p>
-
----
-
-## [七上期末考试优秀作文](七上期末考试优秀作文.md)
-
-七上期末考试结束，可谓是“几家欢喜几家愁”。来看看语文考试中，作文在28分及以上的同学都是怎么写的吧！
-
-<a href="https://zz19z-2021-2.github.io/七上期末考试优秀作文.html"><button class="button-link">前往《七上期末考试优秀作文》</button></a>
-<br />
-
-<p style="color:grey;font-size:12px;clear:both">提供：黄洁</p>
-
----
-
-## 2022元旦联欢会
-
-这个视频可花费了我们不少时间呢……不管怎么说，它终于来了。
-
-我们原定在七年级上册期末考试前完成视频制作，后来因为要复习便“咕”到了考试之后制作。结果更是人算不如天算——期末考试自己“咕”到了七年级下册。如果这么算的话，我们似乎还提前发布了呢！
-
-不说废话了，视频在Bilibili上，[BV1q44y1M7gy](https://www.bilibili.com/video/BV1q44y1M7gy)。
-
-<a href="https://zz19z-2021-2.github.io/2022元旦联欢会.html"><button class="button-link">前往《2022元旦联欢会》</button></a>
-<br />
-<p style="color:grey;font-size:12px;clear:both">提供：邱家杨、胡志宇</p>
 
 ---
 

@@ -26,7 +26,7 @@
     <textarea rows="10" cols="20" style="font-size:20px;width:100%" name="消息" required="required" placeholder="必填"></textarea>
   </label>
   <br />
-  <button id="my-form-button" class="button-link">提交</button>
+  <button id="my-form-button" style="font-size:16px; background-color:white; border:2px solid DodgerBlue; padding:12px; border-radius:4px; cursor:pointer; text-align:center; float:left; transition-duration: 0.2s;">提交</button>
   <br />
 </form>
 <script>
@@ -52,4 +52,5 @@ form.addEventListener("submit", handleSubmit)
 </script>
 
 
-<p style="clear:both">Note: 点击提交之后你的设备会直接提交，没有任何反馈。所以点击提交之后你就可以离开这个页面啦！</p>
+
+<p style="clear:both">Note: 点击提交之后你的设备会直接提交。所以点击提交之后你就可以离开这个页面啦！</p>

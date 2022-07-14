@@ -27,16 +27,15 @@
 
 今天的习题是：**1篇完形填空。**
 
-<p style="white-space: pre; text-indent: 33.3px">There was a king named Bauakas. He was told that there lived a just judge who could tell the 1.________ in one of his cities. The king wante to find out the truth. 2.________ he exchanged clothes with a businessman and traveled on horseback.</p>
-<p style="white-space: pre; text-indent: 33.3px">On the way, a beggar went 3.________ Bauakas, begged for money and asked for a ride. Bauakas agreed and took him to the city square. There the king stopped, but the beggar refused to 4.________ , and said that the horse was his. They had a fight.</p>
-<p style="white-space: pre; text-indent: 33.3px">Then they asked the judge for help. First the judge listened to a scholar and a peasant about whose wife the woman was, and then he said, “5.________ the woman with me, and return tomorrow.”</p>
-<p style="white-space: pre; text-indent: 33.3px">When his 6.________ came, Bauakas told the judge what had happened. The judge listened 7.________, and said, “Leave the horse with me, and return tomorrow.”</p>
-<p style="white-space: pre; text-indent: 33.3px">The following day, the judge first told the scholar, “Take your wife. The peasant will 8.________ fifty lashes.”</p>
-<p style="white-space: pre; text-indent: 33.3px">Next he led Bauakas and the beggar to the stable. Bauakas immediately recognized his horse. Then the beggar pointed out the horse quickly, too.</p>
-<p style="white-space: pre; text-indent: 33.3px">“The horse is 9.________,” the judge directed Bauakas. “The beggar will be given fifty lashes.”</p>
-<p style="white-space: pre; text-indent: 33.3px">Bauakas asked the judge 10.________ he made it. “I required the woman to fill my inkwell. She did the job quickly and 11.________, which made me believe that it was her job,” he answered. “Both you and the beggar recognized the horse in the stable. However, it was more 12.________ to learn which of you the horse recognized. When you went near the animal, it turned its head and reached out its neck towards you. But when the beggar 13.________ it, it laid back its ears and lifted one foot. Therefore I knew you were the horse’s master.”</p>
-<p style="white-space: pre; text-indent: 33.3px">Then Bauakas told him who he was, “14.________ that I heard about you is true. Ask whatever you want as a prize.” “I’m satisfied that my king has 15.________ me.”</p>
-<p style="white-space: pre; text-indent: 33.3px"></p>
+<p style="text-indent: 33.3px">There was a king named Bauakas. He was told that there lived a just judge who could tell the 1.________ in one of his cities. The king wante to find out the truth. 2.________ he exchanged clothes with a businessman and traveled on horseback.</p>
+<p style="text-indent: 33.3px">On the way, a beggar went 3.________ Bauakas, begged for money and asked for a ride. Bauakas agreed and took him to the city square. There the king stopped, but the beggar refused to 4.________ , and said that the horse was his. They had a fight.</p>
+<p style="text-indent: 33.3px">Then they asked the judge for help. First the judge listened to a scholar and a peasant about whose wife the woman was, and then he said, “5.________ the woman with me, and return tomorrow.”</p>
+<p style="text-indent: 33.3px">When his 6.________ came, Bauakas told the judge what had happened. The judge listened 7.________, and said, “Leave the horse with me, and return tomorrow.”</p>
+<p style="text-indent: 33.3px">The following day, the judge first told the scholar, “Take your wife. The peasant will 8.________ fifty lashes.”</p>
+<p style="text-indent: 33.3px">Next he led Bauakas and the beggar to the stable. Bauakas immediately recognized his horse. Then the beggar pointed out the horse quickly, too.</p>
+<p style="text-indent: 33.3px">“The horse is 9.________,” the judge directed Bauakas. “The beggar will be given fifty lashes.”</p>
+<p style="text-indent: 33.3px">Bauakas asked the judge 10.________ he made it. “I required the woman to fill my inkwell. She did the job quickly and 11.________, which made me believe that it was her job,” he answered. “Both you and the beggar recognized the horse in the stable. However, it was more 12.________ to learn which of you the horse recognized. When you went near the animal, it turned its head and reached out its neck towards you. But when the beggar 13.________ it, it laid back its ears and lifted one foot. Therefore I knew you were the horse’s master.”</p>
+<p style="text-indent: 33.3px">Then Bauakas told him who he was, “14.________ that I heard about you is true. Ask whatever you want as a prize.” “I’m satisfied that my king has 15.________ me.”</p>
 
 ## Word Bank
 

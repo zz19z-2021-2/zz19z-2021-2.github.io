@@ -19,9 +19,26 @@
 
 # 目录
 
-1. <a href="#7.14">7月14日</a>
-2. <a href="#7.13">7月13日</a>
-3. <a href="#7.12">7月12日</a>
+1. <a href="#7.15">7月15日</a>
+2. <a href="#7.14">7月14日</a>
+3. <a href="#7.13">7月13日</a>
+4. <a href="#7.12">7月12日</a>
+
+# 7月15日 <a name="7.15"></a>
+
+今天的习题是：**1篇语篇填空。**
+
+<p style="text-indent: 33.3px">Edward Green was tewnty. He visited the manager of a bank, because he wanted 1.________ work there. The manager’s name was Thompson.</p>
+<p style="text-indent: 33.3px">Mr. Thompson said to Edward, “2.________ did you work before?”</p>
+<p style="text-indent: 33.3px">Edward answered, “I was in 3.________ office in London.”</p>
+<p style="text-indent: 33.3px">“How long?” the manager asked.</p>
+<p style="text-indent: 33.3px">“For a year and a half,” Edward answered.</p>
+<p style="text-indent: 33.3px">“Which office?” the manager asked then.</p>
+<p style="text-indent: 33.3px">Edward told him something about that, and Mr. Thompson telephoned the manager there. “How long 4.________ Edward Green work for you?” Mr. Thompson asked.</p>
+<p style="text-indent: 33.3px">“About a week,” the other manager answered.</p>
+<p style="text-indent: 33.3px">“But he said ‘I was for a year and a half’!” Mr. Thompson said.</p>
+<p style="text-indent: 33.3px">“Yes, that’s correct,” the manager said. “He stayed 5.________ us for a year and a half, but he only worked for a week during that time.”</p>
+
 
 # 7月14日 <a name="7.14"></a>
 
@@ -42,6 +59,10 @@
 beg v.乞讨<br />lash n./v.鞭打<br />stable n.马厩<br />recognize v.认出
 
 <img style="width:100%" src="https://s1.ax1x.com/2022/07/13/jWnxMV.jpg" alt="7月13日完形填空选择题部分" border="0" />
+
+## 答案
+
+1~5: ADCBA; 6~10: BADDC; 11~15: BCDBA
 
 # 7月13日 <a name="7.13"></a>
 

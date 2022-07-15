@@ -19,46 +19,69 @@
 
 # 目录
 
-1. <a href="#7.15">7月15日</a>
-2. <a href="#7.14">7月14日</a>
-3. <a href="#7.13">7月13日</a>
-4. <a href="#7.12">7月12日</a>
+1. <a href="#7.16">7月16日</a>
+2. <a href="#7.15">7月15日</a>
+3. <a href="#7.14">7月14日</a>
+4. <a href="#7.13">7月13日</a>
+5. <a href="#7.12">7月12日</a>
+
+# 7月16日 <a name="7.16"></a>
+
+今天的习题是：**1篇语篇填空。**
+
+<div style="border: 2px solid black; padding: 10px; width: 100%; text-align: center">even　reply　new　except　say　order　when　something　cry　around</div>
+
+<p style="text-indent: 33.3px; text-align: justify">Two Irish gentlemen walked into a pub. They both sat down at the counter and placed their 1.________. As they were drinking the wine, one looked at the other and thought that there was 2.________ familiar about him.</p>
+<p style="text-indent: 33.3px; text-align: justify">One man said to the other, “Hey, do I know you from somewhere?” To which the other 3.________, “Well, I’m from Galway, where are you from?”</p>
+<p style="text-indent: 33.3px; text-align: justify">The first guy brightened up and said, "You don't 4.________! I’m from Galway as well! What school did you go to?” The other replied, “I went to St. Paul’s Secondary.” To which the first 5.________, “My God! I went there as well! What year did you finish school?”</p>
+<p style="text-indent: 33.3px; text-align: justify">The second said, “I finished in 1977. You?” The first became 6.________ more excited, “I did as well! I knew that I knew you from somewhere!”</p>
+<p style="text-indent: 33.3px; text-align: justify">Anyway, they got to buy each other drinks and started talking about all past memories and all that 7.________ a customer walked in.</p>
+<p style="text-indent: 33.3px; text-align: justify">He talked to the barkeeper, “Hey, Liam, what's 8.________ ? I haven’t been 9.________ in a while.”</p>
+<p style="text-indent: 33.3px; text-align: justify">The barkeeper replied, “Ah, not a whole lot of anything, really. 10.________ the O’Flaherty twins are drunk again!”</p>
 
 # 7月15日 <a name="7.15"></a>
 
 今天的习题是：**1篇语篇填空。**
 
-<p style="text-indent: 33.3px">Edward Green was tewnty. He visited the manager of a bank, because he wanted 1.________ work there. The manager’s name was Thompson.</p>
-<p style="text-indent: 33.3px">Mr. Thompson said to Edward, “2.________ did you work before?”</p>
-<p style="text-indent: 33.3px">Edward answered, “I was in 3.________ office in London.”</p>
-<p style="text-indent: 33.3px">“How long?” the manager asked.</p>
-<p style="text-indent: 33.3px">“For a year and a half,” Edward answered.</p>
-<p style="text-indent: 33.3px">“Which office?” the manager asked then.</p>
-<p style="text-indent: 33.3px">Edward told him something about that, and Mr. Thompson telephoned the manager there. “How long 4.________ Edward Green work for you?” Mr. Thompson asked.</p>
-<p style="text-indent: 33.3px">“About a week,” the other manager answered.</p>
-<p style="text-indent: 33.3px">“But he said ‘I was for a year and a half’!” Mr. Thompson said.</p>
-<p style="text-indent: 33.3px">“Yes, that’s correct,” the manager said. “He stayed 5.________ us for a year and a half, but he only worked for a week during that time.”</p>
+<p style="text-indent: 33.3px; text-align: justify">Edward Green was tewnty. He visited the manager of a bank, because he wanted 1.________ work there. The manager’s name was Thompson.</p>
+<p style="text-indent: 33.3px; text-align: justify">Mr. Thompson said to Edward, “2.________ did you work before?”</p>
+<p style="text-indent: 33.3px; text-align: justify">Edward answered, “I was in 3.________ office in London.”</p>
+<p style="text-indent: 33.3px; text-align: justify">“How long?” the manager asked.</p>
+<p style="text-indent: 33.3px; text-align: justify">“For a year and a half,” Edward answered.</p>
+<p style="text-indent: 33.3px; text-align: justify">“Which office?” the manager asked then.</p>
+<p style="text-indent: 33.3px; text-align: justify">Edward told him something about that, and Mr. Thompson telephoned the manager there. “How long 4.________ Edward Green work for you?” Mr. Thompson asked.</p>
+<p style="text-indent: 33.3px; text-align: justify">“About a week,” the other manager answered.</p>
+<p style="text-indent: 33.3px; text-align: justify">“But he said ‘I was for a year and a half’!” Mr. Thompson said.</p>
+<p style="text-indent: 33.3px; text-align: justify">“Yes, that’s correct,” the manager said. “He stayed 5.________ us for a year and a half, but he only worked for a week during that time.”</p>
+
+## 答案与解析
+
+1. **to**。 want + to do sth.
+2. **Where**。
+3. **an**。office /ˈɒfɪs/，元音音素开头，用an。
+4. **did**。work原形，时态过去，用一般过去时（Edward已不再为以前的经理工作，不能用现在完成时）。
+5. **with**。stay with sth./sb.
 
 
 # 7月14日 <a name="7.14"></a>
 
 今天的习题是：**1篇完形填空。**
 
-<p style="text-indent: 33.3px">There was a king named Bauakas. He was told that there lived a just judge who could tell the 1.________ in one of his cities. The king wante to find out the truth. 2.________ he exchanged clothes with a businessman and traveled on horseback.</p>
-<p style="text-indent: 33.3px">On the way, a beggar went 3.________ Bauakas, begged for money and asked for a ride. Bauakas agreed and took him to the city square. There the king stopped, but the beggar refused to 4.________ , and said that the horse was his. They had a fight.</p>
-<p style="text-indent: 33.3px">Then they asked the judge for help. First the judge listened to a scholar and a peasant about whose wife the woman was, and then he said, “5.________ the woman with me, and return tomorrow.”</p>
-<p style="text-indent: 33.3px">When his 6.________ came, Bauakas told the judge what had happened. The judge listened 7.________, and said, “Leave the horse with me, and return tomorrow.”</p>
-<p style="text-indent: 33.3px">The following day, the judge first told the scholar, “Take your wife. The peasant will 8.________ fifty lashes.”</p>
-<p style="text-indent: 33.3px">Next he led Bauakas and the beggar to the stable. Bauakas immediately recognized his horse. Then the beggar pointed out the horse quickly, too.</p>
-<p style="text-indent: 33.3px">“The horse is 9.________,” the judge directed Bauakas. “The beggar will be given fifty lashes.”</p>
-<p style="text-indent: 33.3px">Bauakas asked the judge 10.________ he made it. “I required the woman to fill my inkwell. She did the job quickly and 11.________, which made me believe that it was her job,” he answered. “Both you and the beggar recognized the horse in the stable. However, it was more 12.________ to learn which of you the horse recognized. When you went near the animal, it turned its head and reached out its neck towards you. But when the beggar 13.________ it, it laid back its ears and lifted one foot. Therefore I knew you were the horse’s master.”</p>
-<p style="text-indent: 33.3px">Then Bauakas told him who he was, “14.________ that I heard about you is true. Ask whatever you want as a prize.” “I’m satisfied that my king has 15.________ me.”</p>
+<p style="text-indent: 33.3px; text-align: justify">There was a king named Bauakas. He was told that there lived a just judge who could tell the 1.________ in one of his cities. The king wante to find out the truth. 2.________ he exchanged clothes with a businessman and traveled on horseback.</p>
+<p style="text-indent: 33.3px; text-align: justify">On the way, a beggar went 3.________ Bauakas, begged for money and asked for a ride. Bauakas agreed and took him to the city square. There the king stopped, but the beggar refused to 4.________ , and said that the horse was his. They had a fight.</p>
+<p style="text-indent: 33.3px; text-align: justify">Then they asked the judge for help. First the judge listened to a scholar and a peasant about whose wife the woman was, and then he said, “5.________ the woman with me, and return tomorrow.”</p>
+<p style="text-indent: 33.3px; text-align: justify">When his 6.________ came, Bauakas told the judge what had happened. The judge listened 7.________, and said, “Leave the horse with me, and return tomorrow.”</p>
+<p style="text-indent: 33.3px; text-align: justify">The following day, the judge first told the scholar, “Take your wife. The peasant will 8.________ fifty lashes.”</p>
+<p style="text-indent: 33.3px; text-align: justify">Next he led Bauakas and the beggar to the stable. Bauakas immediately recognized his horse. Then the beggar pointed out the horse quickly, too.</p>
+<p style="text-indent: 33.3px; text-align: justify">“The horse is 9.________,” the judge directed Bauakas. “The beggar will be given fifty lashes.”</p>
+<p style="text-indent: 33.3px; text-align: justify">Bauakas asked the judge 10.________ he made it. “I required the woman to fill my inkwell. She did the job quickly and 11.________, which made me believe that it was her job,” he answered. “Both you and the beggar recognized the horse in the stable. However, it was more 12.________ to learn which of you the horse recognized. When you went near the animal, it turned its head and reached out its neck towards you. But when the beggar 13.________ it, it laid back its ears and lifted one foot. Therefore I knew you were the horse’s master.”</p>
+<p style="text-indent: 33.3px; text-align: justify">Then Bauakas told him who he was, “14.________ that I heard about you is true. Ask whatever you want as a prize.” “I’m satisfied that my king has 15.________ me.”</p>
 
 ## Word Bank
 
 beg v.乞讨<br />lash n./v.鞭打<br />stable n.马厩<br />recognize v.认出
 
-<img style="width:100%" src="https://s1.ax1x.com/2022/07/13/jWnxMV.jpg" alt="7月13日完形填空选择题部分" border="0" />
+<img src="https://s1.ax1x.com/2022/07/13/jWnxMV.jpg" alt="7月13日完形填空选择题部分" style="width:100%;" />
 
 ## 答案
 
@@ -74,7 +97,7 @@ beg v.乞讨<br />lash n./v.鞭打<br />stable n.马厩<br />recognize v.认出
 
 —To be honest, the mobile phone is one of the greatest inventions \_\_\_\_\_\_\_\_ have changed our life.
 
-<p style="white-space: pre">A. that        B. which        C. who        D. what</p>
+A. that　　B. which　　C. who　　D. what
 
 ## 第2题
 
@@ -82,26 +105,27 @@ beg v.乞讨<br />lash n./v.鞭打<br />stable n.马厩<br />recognize v.认出
 
 —I \_\_\_\_\_\_\_\_ it. It’s clean and tidy now. Mind your own business.
 
-<p style="white-space: pre">A. have cleaned        B. cleaned        C. clean        D. will clean</p>
+
+A. have cleaned　　B. cleaned　　C. clean　　D. will clean
 
 
 ## 第3题
 
 Adam \_\_\_\_\_\_\_\_ his family every day when he was away from home on business.
 
-<p style="white-space: pre">A. called        B. was calling        C. calls        D. is calling</p>
+A. called　　B. was calling　　C. calls　　D. is calling
 
 ## 第4题
 
 You can’t imagine what difficulty we had \_\_\_\_\_\_\_\_ the problem.
 
-<p style="white-space: pre">A. to solve        B. solve        C. solved        D. solving</p>
+A. to solve　　B. solve　　C. solved　　D. solving
 
 ## 附加题
 
 Has all \_\_\_\_\_\_\_\_ can be done \_\_\_\_\_\_\_\_?
 
-<p style="white-space: pre">A. what; done        B. that; already done        C. what; already        D. what; been done</p>
+A. what; done　　B. that; already done　　C. what; already　　D. what; been done
 
 ## 答案与解析
 
@@ -123,13 +147,13 @@ Has all \_\_\_\_\_\_\_\_ can be done \_\_\_\_\_\_\_\_?
 
 I am too tired to walk any more. \_\_\_\_\_\_\_\_, I am hungry.
 
-<p style="white-space: pre">A. Then        B. Anyway        C. Instead        D. However</p>
+A. Then　　B. Anyway　　C. Instead　　D. However
 
 ## 第2题
 
 Ms. Lee has \_\_\_\_\_\_\_\_ much housework that she can’t go for a game.
 
-<p style="white-space: pre">A. so        B. such</p>
+A. so　　B. such
 
 ## 第3题
 
@@ -137,7 +161,7 @@ Ms. Lee has \_\_\_\_\_\_\_\_ much housework that she can’t go for a game.
 
 —I was no luckier than you. I \_\_\_\_\_\_\_\_ my bike.
 
-<p style="white-space: pre">A. rode        B. have ridden        C. was riding        D. had ridden</p>
+A. rode　　B. have ridden　　C. was riding　　D. had ridden
 
 ## 答案与解析
 

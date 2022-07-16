@@ -19,11 +19,33 @@
 
 # 目录
 
-1. <a href="#7.16">7月16日</a>
-2. <a href="#7.15">7月15日</a>
-3. <a href="#7.14">7月14日</a>
-4. <a href="#7.13">7月13日</a>
-5. <a href="#7.12">7月12日</a>
+1. <a href="#7.17">7月17日</a>
+2. <a href="#7.16">7月16日</a>
+3. <a href="#7.15">7月15日</a>
+4. <a href="#7.14">7月14日</a>
+5. <a href="#7.13">7月13日</a>
+6. <a href="#7.12">7月12日</a>
+
+# 7月17日 <a name="7.17"></a>
+
+今天的习题是：**1篇语篇填空和1道单项选择题。**
+
+## 语篇填空
+
+<p style="text-indent: 33.3px; text-align: justify">Did you ever run off and forget your drink? That’s 1.________ happened to 11-year-old Frank Epperson in 1905. He was mixing drink 2.________ a stick, and left the cup outside all night. In the morning, Frank found a cup of frozen sweet drink — with a handy stick to hold it. He thought that was pretty cool, so he made more for everyone 3.________ enjoy. At first Frank called them Epsicles, but later they got 4.________ second name — Popsicles.</p>
+<p style="text-indent: 33.3px; text-align: justify">Some say kids have always 5.________ perfectly inventive. There is no doubt about it!</p>
+
+### Word Bank
+
+frozen adj.冷冻的<br />popsicle n.冰棍
+
+## 单项选择题
+
+—Did  you go to the concert with your parents yesterday?
+
+—No, I \_\_\_\_\_\_\_\_ for my English test all afternoon.
+
+A. prepared　　B. am preparing　　C. was preparing　　D. have prepared
 
 # 7月16日 <a name="7.16"></a>
 
@@ -38,6 +60,25 @@
 <p style="text-indent: 33.3px; text-align: justify">Anyway, they got to buy each other drinks and started talking about all past memories and all that 7.________ a customer walked in.</p>
 <p style="text-indent: 33.3px; text-align: justify">He talked to the barkeeper, “Hey, Liam, what's 8.________ ? I haven’t been 9.________ in a while.”</p>
 <p style="text-indent: 33.3px; text-align: justify">The barkeeper replied, “Ah, not a whole lot of anything, really. 10.________ the O’Flaherty twins are drunk again!”</p>
+
+## 答案与解析
+
+1. **order**。 place order 下订单
+2. **something**。 形容词修饰复合不定代词后置。
+3. **replied**。 定语从句，… which the other replied to …，to被提前。
+4. **say**。 You don’t say! 真的吗！
+5. **cry**。 v.大声叫喊
+6. **even**。 adv.甚至 + 更加
+7. **when**。 两件事同时发生。
+8. **new**。 adj.新消息
+9. **around**。 adv.在附近
+10. **Except**。 conj.除了
+
+<div style="border: 3px solid gold; border-radius: 50px; padding: 10px; width: 100%; text-align: center">
+  决定词汇量的不是单词量，而是词汇的运用量。
+  <br />
+  这篇文章需要的语法并不难，真正的难度在于熟词生义。
+</div>
 
 # 7月15日 <a name="7.15"></a>
 

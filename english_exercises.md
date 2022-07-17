@@ -1,4 +1,46 @@
 <link rel="stylesheet" type="text/css" href="style.css">
+<style>
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 100px;
+  background-color: #019266;
+  color: white;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 120%;
+  left: 50%;
+  margin-left: -50px;
+  /* 淡入工具提示 - 用 1 秒从完全不可见变为可见： */
+  opacity: 0;
+  transition-duration: 0.15s;
+}
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #019266 transparent transparent transparent;
+}
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+.tooltip:active .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+</style>
 
 <div class="btn-group">
 <a href="https://zz19z-2021-2.github.io/"><button class="button">首页</button></a>
@@ -13,18 +55,31 @@
 
 从7月12日开始，我会每天在这里上传当天应做的英语练习题，完成时间一般不超过15分钟。完成后请把答案发送至自己所在的小组群，当天晚上放出答案、解析和第二天练习。
 
-<p style="color:red; font-weight: bold; font-size:30px">如果你认为题目太难，你也可以选择每天完成3篇阅读理解（至少八年级难度）。【根据自己能力和计划选择！】</p>
+<p style="color:red; font-weight: bold">如果你认为题目太难，你也可以选择每天完成3篇阅读理解（至少八年级难度）。【根据自己能力和计划选择！】</p>
+
+<p style="color:gold">新功能：将鼠标悬浮在或点击（部分手机支持）带<span style="text-indent: 0px" class="tooltip">点式下划线<span style="text-indent: 0px" class="tooltiptext">就是这样</span></span>的文字上时，会出现对应的中文翻译。</p>
 
 答案和解析插入在对应练习题下方，越新的练习越靠页面上方。
 
 # 目录
 
-1. <a href="#7.17">7月17日</a>
-2. <a href="#7.16">7月16日</a>
-3. <a href="#7.15">7月15日</a>
-4. <a href="#7.14">7月14日</a>
-5. <a href="#7.13">7月13日</a>
-6. <a href="#7.12">7月12日</a>
+1. <a href="#7.17">7月18日</a>
+2. <a href="#7.17">7月17日</a>
+3. <a href="#7.16">7月16日</a>
+4. <a href="#7.15">7月15日</a>
+5. <a href="#7.14">7月14日</a>
+6. <a href="#7.13">7月13日</a>
+7. <a href="#7.12">7月12日</a>
+
+# 7月18日 <a name="7.18"></a>
+
+今天的习题是：**1篇语篇填空和1道单项选择题。**
+
+<p style="text-indent: 33.3px; text-align: justify">Frances was reading a storybook. The book 1.________ about people searching for <span style="text-indent: 0px" class="tooltip">ladybugs<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">瓢虫</span></span>, which were a symbol of happiness in the story. Frances fell in love 2.________ the tiny insects when she saw their pictures in the book.</p>
+
+<p style="text-indent: 33.3px; text-align: justify">The next day, Frances decided 3.________ bring her tool to look for <span style="text-indent: 0px" class="tooltip">ladybugs<span style="text-indent: 0px" class="tooltiptext">瓢虫</span></span> in the park near her house. However, though she tried her best, she could not find even one <span style="text-indent: 0px" class="tooltip">ladybug<span style="text-indent: 0px" class="tooltiptext">瓢虫</span></span> 4.________ hours of searching. She felt tired and upset. So she sat down to rest by 5.________ rock and fell asleep.</p>
+
+<p style="text-indent: 33.3px; text-align: justify">When she woke up, she saw a lot of <span style="text-indent: 0px" class="tooltip">ladybugs<span style="text-indent: 0px" class="tooltiptext">瓢虫</span></span> all over her skirt and on the grass around her. It reminded Frances that sometimes what we want the most, like happiness, will appear suddenly when we least expect it.</p>
 
 # 7月17日 <a name="7.17"></a>
 
@@ -32,20 +87,30 @@
 
 ## 语篇填空
 
-<p style="text-indent: 33.3px; text-align: justify">Did you ever run off and forget your drink? That’s 1.________ happened to 11-year-old Frank Epperson in 1905. He was mixing drink 2.________ a stick, and left the cup outside all night. In the morning, Frank found a cup of frozen sweet drink — with a handy stick to hold it. He thought that was pretty cool, so he made more for everyone 3.________ enjoy. At first Frank called them Epsicles, but later they got 4.________ second name — Popsicles.</p>
+<p style="text-indent: 33.3px; text-align: justify">Did you ever run off and forget your drink? That’s 1.________ happened to 11-year-old Frank Epperson in 1905. He was mixing drink 2.________ a stick, and left the cup outside all night. In the morning, Frank found a cup of <span style="text-indent: 0px" class="tooltip">frozen<span style="text-indent: 0px" class="tooltiptext">冷冻的</span></span> sweet drink — with a handy stick to hold it. He thought that was pretty cool, so he made more for everyone 3.________ enjoy. At first Frank called them Epsicles, but later they got 4.________ second name — <span style="text-indent: 0px" class="tooltip">Popsicle<span style="text-indent: 0px" class="tooltiptext">冰棍</span></span>.</p>
 <p style="text-indent: 33.3px; text-align: justify">Some say kids have always 5.________ perfectly inventive. There is no doubt about it!</p>
-
-### Word Bank
-
-frozen adj.冷冻的<br />popsicle n.冰棍
 
 ## 单项选择题
 
-—Did  you go to the concert with your parents yesterday?
+—Did you go to the concert with your parents yesterday?
 
 —No, I \_\_\_\_\_\_\_\_ for my English test all afternoon.
 
 A. prepared　　B. am preparing　　C. was preparing　　D. have prepared
+
+## 答案与解析
+
+### 语篇填空
+
+1. **what**。
+2. **with**。
+3. **to**。 表目的。
+4. **a**。 a + 序数词 表示“又一/再一”。
+5. **been**。现在完成时的主系表结构：have been。
+
+## 单项选择题
+
+**C**。 过去进行时可表示过去一段时间正在发生。
 
 # 7月16日 <a name="7.16"></a>
 
@@ -109,13 +174,13 @@ A. prepared　　B. am preparing　　C. was preparing　　D. have prepared
 今天的习题是：**1篇完形填空。**
 
 <p style="text-indent: 33.3px; text-align: justify">There was a king named Bauakas. He was told that there lived a just judge who could tell the 1.________ in one of his cities. The king wante to find out the truth. 2.________ he exchanged clothes with a businessman and traveled on horseback.</p>
-<p style="text-indent: 33.3px; text-align: justify">On the way, a beggar went 3.________ Bauakas, begged for money and asked for a ride. Bauakas agreed and took him to the city square. There the king stopped, but the beggar refused to 4.________ , and said that the horse was his. They had a fight.</p>
+<p style="text-indent: 33.3px; text-align: justify">On the way, a beggar went 3.________ Bauakas, <span style="text-indent: 0px" class="tooltip">begged<span style="text-indent: 0px" class="tooltiptext">乞讨</span></span> for money and asked for a ride. Bauakas agreed and took him to the city square. There the king stopped, but the beggar refused to 4.________ , and said that the horse was his. They had a fight.</p>
 <p style="text-indent: 33.3px; text-align: justify">Then they asked the judge for help. First the judge listened to a scholar and a peasant about whose wife the woman was, and then he said, “5.________ the woman with me, and return tomorrow.”</p>
 <p style="text-indent: 33.3px; text-align: justify">When his 6.________ came, Bauakas told the judge what had happened. The judge listened 7.________, and said, “Leave the horse with me, and return tomorrow.”</p>
-<p style="text-indent: 33.3px; text-align: justify">The following day, the judge first told the scholar, “Take your wife. The peasant will 8.________ fifty lashes.”</p>
-<p style="text-indent: 33.3px; text-align: justify">Next he led Bauakas and the beggar to the stable. Bauakas immediately recognized his horse. Then the beggar pointed out the horse quickly, too.</p>
-<p style="text-indent: 33.3px; text-align: justify">“The horse is 9.________,” the judge directed Bauakas. “The beggar will be given fifty lashes.”</p>
-<p style="text-indent: 33.3px; text-align: justify">Bauakas asked the judge 10.________ he made it. “I required the woman to fill my inkwell. She did the job quickly and 11.________, which made me believe that it was her job,” he answered. “Both you and the beggar recognized the horse in the stable. However, it was more 12.________ to learn which of you the horse recognized. When you went near the animal, it turned its head and reached out its neck towards you. But when the beggar 13.________ it, it laid back its ears and lifted one foot. Therefore I knew you were the horse’s master.”</p>
+<p style="text-indent: 33.3px; text-align: justify">The following day, the judge first told the scholar, “Take your wife. The peasant will 8.________ fifty <span style="text-indent: 0px" class="tooltip">lashes<span style="text-indent: 0px" class="tooltiptext">鞭打</span></span>.”</p>
+<p style="text-indent: 33.3px; text-align: justify">Next he led Bauakas and the beggar to the <span style="text-indent: 0px" class="tooltip">stable<span style="text-indent: 0px" class="tooltiptext">马厩</span></span>. Bauakas immediately <span style="text-indent: 0px" class="tooltip">recognized<span style="text-indent: 0px" class="tooltiptext">认出</span></span> his horse. Then the beggar pointed out the horse quickly, too.</p>
+<p style="text-indent: 33.3px; text-align: justify">“The horse is 9.________,” the judge directed Bauakas. “The beggar will be given fifty <span style="text-indent: 0px" class="tooltip">lashes<span style="text-indent: 0px" class="tooltiptext">鞭打</span></span>.”</p>
+<p style="text-indent: 33.3px; text-align: justify">Bauakas asked the judge 10.________ he made it. “I required the woman to fill my inkwell. She did the job quickly and 11.________, which made me believe that it was her job,” he answered. “Both you and the beggar <span style="text-indent: 0px" class="tooltip">recognized<span style="text-indent: 0px" class="tooltiptext">认出</span></span> the horse in the <span style="text-indent: 0px" class="tooltip">stable<span style="text-indent: 0px" class="tooltiptext">马厩</span></span>. However, it was more 12.________ to learn which of you the horse <span style="text-indent: 0px" class="tooltip">recognized<span style="text-indent: 0px" class="tooltiptext">认出</span></span>. When you went near the animal, it turned its head and reached out its neck towards you. But when the beggar 13.________ it, it laid back its ears and lifted one foot. Therefore I knew you were the horse’s master.”</p>
 <p style="text-indent: 33.3px; text-align: justify">Then Bauakas told him who he was, “14.________ that I heard about you is true. Ask whatever you want as a prize.” “I’m satisfied that my king has 15.________ me.”</p>
 
 ## Word Bank

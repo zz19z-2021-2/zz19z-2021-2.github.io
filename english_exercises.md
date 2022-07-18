@@ -63,23 +63,38 @@
 
 # 目录
 
-1. <a href="#7.17">7月18日</a>
-2. <a href="#7.17">7月17日</a>
-3. <a href="#7.16">7月16日</a>
-4. <a href="#7.15">7月15日</a>
-5. <a href="#7.14">7月14日</a>
-6. <a href="#7.13">7月13日</a>
-7. <a href="#7.12">7月12日</a>
+1. <a href="#7.19">7月19日</a>
+2. <a href="#7.18">7月18日</a>
+3. <a href="#7.17">7月17日</a>
+4. <a href="#7.16">7月16日</a>
+5. <a href="#7.15">7月15日</a>
+6. <a href="#7.14">7月14日</a>
+7. <a href="#7.13">7月13日</a>
+8. <a href="#7.12">7月12日</a>
+
+# 7月19日 <a name="7.19"></a>
+
+今天的习题：**1篇语篇填空**。
+
+<p style="text-indent: 33.3px; text-align: justify">My primary competed in a yearly drum and <span style="text-indent: 0px" class="tooltip">lyre<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">里拉琴</span></span> competition. Our school always the <span style="text-indent: 0px" class="tooltip">champion<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">冠军</span></span>. My parents signed me up to play 1.________ <span style="text-indent: 0px" class="tooltip">lyre<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">里拉琴</span></span>. The training was really bard and as one of the newcomers to the group, I tried my best 2.________ make progress. I love music 3.________ for some reason it doesn’t come easily for me. After two weeks of hard training, I felt like giving 4.________. I felt embarrassed in front of other students who learned easily.</p>
+<p style="text-indent: 33.3px; text-align: justify">One day, I cried because I failed again. Thankfully the trainer talked with me and encouraged me to try the dancing part. Then I started to 5.________ trained as a dancer for the performance. And finally I did well in it! After months of practicing, we won the competition!</p>
+<p style="text-indent: 33.3px; text-align: justify">It was a great experience for me!</p>
 
 # 7月18日 <a name="7.18"></a>
 
-今天的习题是：**1篇语篇填空和1道单项选择题。**
+今天的习题是：**1篇语篇填空。**
 
 <p style="text-indent: 33.3px; text-align: justify">Frances was reading a storybook. The book 1.________ about people searching for <span style="text-indent: 0px" class="tooltip">ladybugs<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">瓢虫</span></span>, which were a symbol of happiness in the story. Frances fell in love 2.________ the tiny insects when she saw their pictures in the book.</p>
-
 <p style="text-indent: 33.3px; text-align: justify">The next day, Frances decided 3.________ bring her tool to look for <span style="text-indent: 0px" class="tooltip">ladybugs<span style="text-indent: 0px" class="tooltiptext">瓢虫</span></span> in the park near her house. However, though she tried her best, she could not find even one <span style="text-indent: 0px" class="tooltip">ladybug<span style="text-indent: 0px" class="tooltiptext">瓢虫</span></span> 4.________ hours of searching. She felt tired and upset. So she sat down to rest by 5.________ rock and fell asleep.</p>
-
 <p style="text-indent: 33.3px; text-align: justify">When she woke up, she saw a lot of <span style="text-indent: 0px" class="tooltip">ladybugs<span style="text-indent: 0px" class="tooltiptext">瓢虫</span></span> all over her skirt and on the grass around her. It reminded Frances that sometimes what we want the most, like happiness, will appear suddenly when we least expect it.</p>
+
+## 答案与解析
+
+1. **was**。
+2. **with**。
+3. **to**。
+4. **after**。
+5. **a**。 无特指。
 
 # 7月17日 <a name="7.17"></a>
 

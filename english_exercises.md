@@ -63,6 +63,7 @@
 
 # 目录
 
+1. <a href="#7.20">7月20日</a>
 1. <a href="#7.19">7月19日</a>
 2. <a href="#7.18">7月18日</a>
 3. <a href="#7.17">7月17日</a>
@@ -72,13 +73,32 @@
 7. <a href="#7.13">7月13日</a>
 8. <a href="#7.12">7月12日</a>
 
+# 7月20日 <a name="7.20"></a>
+
+今天的习题：**1篇语篇填空。**
+
+<p style="text-indent: 33.3px; text-align: justify">Professor Carter visited some friends on the other side of town.After a good dinner and a game of cards, he said, “I 1.________ going to walk home now.”</p>
+<p style="text-indent: 33.3px; text-align: justify">But the hostess looked out of the window and said, “The weather is very bad. It’s cold and wet.
+And 2.________ is a strong wind blowing. Please stay here tonight.” She went to prepare a room 3.________ him.</p>
+<p style="text-indent: 33.3px; text-align: justify">After a few minutes, she came back to the living room, but the professor was not there. She and her husband waited for half an hour, and then they went to bed. But then the professor knocked at the back door 4.________ the house. He was very wet. The host came to the door. “You’re here!” he said happily.</p>
+<p style="text-indent: 33.3px; text-align: justify">“Yes,” the professor answered. He said with 5.________ smile, “I went home and got my <span style="text-indent: 0px" class="tooltip">pyjama<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">睡衣</span></span>.”</p>
+
+
 # 7月19日 <a name="7.19"></a>
 
-今天的习题：**1篇语篇填空**。
+今天的习题：**1篇语篇填空。**
 
 <p style="text-indent: 33.3px; text-align: justify">My primary competed in a yearly drum and <span style="text-indent: 0px" class="tooltip">lyre<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">里拉琴</span></span> competition. Our school always the <span style="text-indent: 0px" class="tooltip">champion<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">冠军</span></span>. My parents signed me up to play 1.________ <span style="text-indent: 0px" class="tooltip">lyre<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">里拉琴</span></span>. The training was really bard and as one of the newcomers to the group, I tried my best 2.________ make progress. I love music 3.________ for some reason it doesn’t come easily for me. After two weeks of hard training, I felt like giving 4.________. I felt embarrassed in front of other students who learned easily.</p>
 <p style="text-indent: 33.3px; text-align: justify">One day, I cried because I failed again. Thankfully the trainer talked with me and encouraged me to try the dancing part. Then I started to 5.________ trained as a dancer for the performance. And finally I did well in it! After months of practicing, we won the competition!</p>
 <p style="text-indent: 33.3px; text-align: justify">It was a great experience for me!</p>
+
+## 答案与解析
+
+1. **the**。 play + the + 乐器
+2. **to**。 try one's best to do sth. 尽力做某事
+3. **but**。 表转折。
+4. **up**。 give up 放弃
+5. **be**。 被动语态。
 
 # 7月18日 <a name="7.18"></a>
 

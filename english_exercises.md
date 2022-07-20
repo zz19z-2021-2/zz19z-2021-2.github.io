@@ -18,7 +18,7 @@
   bottom: 120%;
   left: 50%;
   margin-left: -50px;
-  /* 淡入工具提示 - 用 1 秒从完全不可见变为可见： */
+  /* 淡入工具提示 - 用 0.15 秒从完全不可见变为可见： */
   opacity: 0;
   transition-duration: 0.15s;
 }
@@ -34,13 +34,14 @@
 }
 .tooltip:hover .tooltiptext {
   visibility: visible;
-  opacity: 1;
+  opacity: 0.95;
 }
 .tooltip:active .tooltiptext {
   visibility: visible;
-  opacity: 1;
+  opacity: 0.95;
 }
 </style>
+
 
 <div class="btn-group">
 <a href="https://zz19z-2021-2.github.io/"><button class="button">首页</button></a>
@@ -73,15 +74,43 @@
 7. <a href="#7.13">7月13日</a>
 8. <a href="#7.12">7月12日</a>
 
+# 7月21日 <a name="7.21"></a>
+
+今天的习题：**1篇语篇填空。**
+
+<div style="border: 2px solid black; padding: 10px; width: 100%; text-align: center">use　gift　usual　what　but　try　surprise　collect　about　they</div>
+
+<p style="text-indent: 33.3px; text-align: justify">Like most people, you probably have problems in your life that you need to solve. Maybe you try very hard every year to pick out different birthday 1.________ for your family. Maybe you try your best to get to school on time 2.________ you still arrive late. And since these matters are personal, it can be hard to be <span style="text-indent: 0px" class="tooltip">objective<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">客观的</span></span> about them. But what if you step back and think like a scientist? You might be 3.________ at the ways you come up with.</p>
+<p style="text-indent: 33.3px; text-align: justify">Walter A. Shewhart once wrote a book 4.________ using the scientific method in business. He argued that businesses should be improving 5.________ products all the time. He used a circle, or cycle, to explain his idea. His student W. Edwards Deming turned Shewhart’s thoughts into a four-step cycle. This became the PDCA Cycle — Plan, Do, Check and Act 一 that is 6.________ by many people today.</p>
+<ol>
+<li>Plan
+<p style="text-indent: 33.3px; text-align: justify">Think about your problem and form a <span style="text-indent: 0px" class="tooltip">hypothesis<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">假设</span></span> for how to solve it. Let’s say you want to get to school on time. 7.________ you take the bus. But today, you get up late. So you decide to ask your mom to take you on her motorbike instead.</p></li>
+<li>Do
+<p style="text-indent: 33.3px; text-align: justify">Now it's time to put your plan to the test. This is also the time when you start to 8.________ <span style="text-indent: 0px" class="tooltip">data<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">数据</span></span>. Be sure to take notes of important information such as the time you arrive at school.</p></li>
+<li>Check
+<p style="text-indent: 33.3px; text-align: justify">Consider the result of your experiment. Did you get to school on time? 9.________ other <span style="text-indent: 0px" class="tooltip">factors<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">因素</span></span> are there? Maybe riding with your mom can be faster. But if it rains, you will get wet.</p></li>
+<li>Act
+<p style="text-indent: 33.3px; text-align: justify">Now you put your changes into action and 10.________ your new <span style="text-indent: 0px" class="tooltip">hypothesis<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">假设</span></span> again. Perhaps you find that it's faster to ride with your mom. But you need to take a raincoat.</p></li>
+</ol>
+<p style="text-indent: 33.3px; text-align: justify">Keep repeating the cycle so that you can improve all the time.</p>
+
 # 7月20日 <a name="7.20"></a>
 
 今天的习题：**1篇语篇填空。**
 
-<p style="text-indent: 33.3px; text-align: justify">Professor Carter visited some friends on the other side of town.After a good dinner and a game of cards, he said, “I 1.________ going to walk home now.”</p>
+<p style="text-indent: 33.3px; text-align: justify">Professor Carter visited some friends on the other side of town. After a good dinner and a game of cards, he said, “I 1.________ going to walk home now.”</p>
 <p style="text-indent: 33.3px; text-align: justify">But the hostess looked out of the window and said, “The weather is very bad. It’s cold and wet.
 And 2.________ is a strong wind blowing. Please stay here tonight.” She went to prepare a room 3.________ him.</p>
 <p style="text-indent: 33.3px; text-align: justify">After a few minutes, she came back to the living room, but the professor was not there. She and her husband waited for half an hour, and then they went to bed. But then the professor knocked at the back door 4.________ the house. He was very wet. The host came to the door. “You’re here!” he said happily.</p>
 <p style="text-indent: 33.3px; text-align: justify">“Yes,” the professor answered. He said with 5.________ smile, “I went home and got my <span style="text-indent: 0px" class="tooltip">pyjama<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">睡衣</span></span>.”</p>
+
+## 答案与解析
+
+1. **am**。 be going to do sth 现在进行表将来
+2. **rain**。 strong可形容自然天气的影响。
+3. **for**。
+4. **of**。 房子的后门。不是behind，behind表示“在房子后面”（理解起来就是后花园里摆着一个门）。
+5. **a**。 smile *countable noun* 微笑
 
 
 # 7月19日 <a name="7.19"></a>

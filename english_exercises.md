@@ -34,13 +34,14 @@
 }
 .tooltip:hover .tooltiptext {
   visibility: visible;
-  opacity: 0.95;
+  opacity: 0.9;
 }
 .tooltip:active .tooltiptext {
   visibility: visible;
-  opacity: 0.95;
+  opacity: 0.9;
 }
 </style>
+
 
 
 <div class="btn-group">
@@ -64,6 +65,8 @@
 
 # 目录
 
+1. <a href="#7.22">7月22日</a>
+1. <a href="#7.21">7月21日</a>
 1. <a href="#7.20">7月20日</a>
 1. <a href="#7.19">7月19日</a>
 2. <a href="#7.18">7月18日</a>
@@ -73,6 +76,19 @@
 6. <a href="#7.14">7月14日</a>
 7. <a href="#7.13">7月13日</a>
 8. <a href="#7.12">7月12日</a>
+
+# 7月22日 <a name="7.22"></a>
+
+今天的习题：**1篇语篇填空。**
+
+<div style="border: 2px solid black; padding: 10px; width: 100%; text-align: center">teach　progress　because　on　he　late　rest　dream　close　kid</div>
+
+<p style="text-indent: 33.3px; text-align: justify">This is the story of a time when I went to my dad for help, because he seemed to be the only person who believed in me.</p>
+<p style="text-indent: 33.3px; text-align: justify">My friend Brett had just got a motorbike. A lot of other 1.________ in my neighborhood came to ride it. I also wanted to. But all the boys told me I couldn’t do it 2.________ I was a girl. I wanted to <span style="text-indent: 0px" class="tooltip">prove<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">证明</span></span> them wrong, so Brett let me have a try. I wasn’t 3.________ for one minute before I fell off. Of course, they all laughed at me.</p>
+<p style="text-indent: 33.3px; text-align: justify">That night I told my dad the whole story. He asked how much I really wanted to learn and I told 4.________ it was everything I dreamed about.</p>
+<p style="text-indent: 33.3px; text-align: justify">A few days 5.________ my dad brought home a motorbike. We took it one step at a time. My dad spent four long weeks 6.________ me everything. Day after day he worked with me, and I began to 7.________. I was so thankful. It meant so much that he would take time from his busy work to help me achieve my 8.________.</p>
+<p style="text-indent: 33.3px; text-align: justify">Finally I was ready for my first time on the roads. Things got easier for me, as if I could ride with my eyes 9.________. The boys were all surprised that a girl could do what they did.</p>
+<p style="text-indent: 33.3px; text-align: justify">My dad was a huge help for me, he taught me so much that would stay with me for the 10.________ of my life. I knew I would never keep practicing to achieve my dream of learning to ride a motorbike without my dad.</p>
 
 # 7月21日 <a name="7.21"></a>
 
@@ -93,6 +109,19 @@
 <p style="text-indent: 33.3px; text-align: justify">Now you put your changes into action and 10.________ your new <span style="text-indent: 0px" class="tooltip">hypothesis<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">假设</span></span> again. Perhaps you find that it's faster to ride with your mom. But you need to take a raincoat.</p></li>
 </ol>
 <p style="text-indent: 33.3px; text-align: justify">Keep repeating the cycle so that you can improve all the time.</p>
+
+## 答案与解析
+
+1. **gifts**。 pick out 选出
+2. **but**。 表转折。
+3. **surprised**。 同根形容词，-ed修饰人（惊讶的）。
+3. **about**。 关于。介词后跟动名词。
+3. **their**。
+3. **used**。 被动语态 be done
+3. **Usually**。 频率副词，修饰整句。
+3. **collect**。 v.收集
+3. **What**。
+3. **try**。
 
 # 7月20日 <a name="7.20"></a>
 

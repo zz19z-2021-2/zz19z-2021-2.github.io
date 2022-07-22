@@ -65,17 +65,31 @@
 
 # 目录
 
-1. <a href="#7.22">7月22日</a>
-1. <a href="#7.21">7月21日</a>
-1. <a href="#7.20">7月20日</a>
-1. <a href="#7.19">7月19日</a>
-2. <a href="#7.18">7月18日</a>
-3. <a href="#7.17">7月17日</a>
-4. <a href="#7.16">7月16日</a>
-5. <a href="#7.15">7月15日</a>
-6. <a href="#7.14">7月14日</a>
-7. <a href="#7.13">7月13日</a>
-8. <a href="#7.12">7月12日</a>
+1. <a href="#7.23">7月23日</a>
+2. <a href="#7.22">7月22日</a>
+3. <a href="#7.21">7月21日</a>
+4. <a href="#7.20">7月20日</a>
+5. <a href="#7.19">7月19日</a>
+6. <a href="#7.18">7月18日</a>
+7. <a href="#7.17">7月17日</a>
+8. <a href="#7.16">7月16日</a>
+9. <a href="#7.15">7月15日</a>
+10. <a href="#7.14">7月14日</a>
+11. <a href="#7.13">7月13日</a>
+12. <a href="#7.12">7月12日</a>
+
+# 7月23日 <a name="7.23"></a>
+
+今天的习题：**1篇语篇填空。**
+
+<p style="text-indent: 33.3px; text-align: justify">Rain comes from the clouds. Look, there are black clouds now 1.________ the sky. How fast they move along! See, they have hidden the sun. They 2.________ covered up the sun, just as you cover up your face when you put something over it. But there is one little bit of blue sky still.</p>
+<p style="text-indent: 33.3px; text-align: justify">Now there is no blue sky at all: it is all black with the clouds. It is very dark like night. It 3.________ rain soon.</p>
+<p style="text-indent: 33.3px; text-align: justify">Now the rain begins. 4.________ large drops! The ducks are very glad; but the little birds are not glad, they go and shelter themselves under the trees.</p>
+<p style="text-indent: 33.3px; text-align: justify">Now the rain is over. It was only a shower. Now the flowers smell sweet, and 5.________ bright sun shines, and the little birds sing again.</p>
+
+<div style="border: 3px solid #5AB6F9; border-radius: 50px; padding: 10px; width: 100%; text-align: center">
+  How do you describe the rain of Zhengzhou yesterday(July 22nd)?　(非作业)
+</div>
 
 # 7月22日 <a name="7.22"></a>
 
@@ -89,6 +103,17 @@
 <p style="text-indent: 33.3px; text-align: justify">A few days 5.________ my dad brought home a motorbike. We took it one step at a time. My dad spent four long weeks 6.________ me everything. Day after day he worked with me, and I began to 7.________. I was so thankful. It meant so much that he would take time from his busy work to help me achieve my 8.________.</p>
 <p style="text-indent: 33.3px; text-align: justify">Finally I was ready for my first time on the roads. Things got easier for me, as if I could ride with my eyes 9.________. The boys were all surprised that a girl could do what they did.</p>
 <p style="text-indent: 33.3px; text-align: justify">My dad was a huge help for me, he taught me so much that would stay with me for the 10.________ of my life. I knew I would never keep practicing to achieve my dream of learning to ride a motorbike without my dad.</p>
+
+1. **kids**。
+2. **because**。 后半句补充说明前半句的原因，填because。
+3. **on**。 “我在自行车上没有坚持一分钟就摔下来了。”
+4. **him**。
+5. **later**。 之后。
+6. **teaching**。 spent *time* (in) doing sth.
+7. **progress**。  v.进步
+8. **dream**。
+9. **closed**。 adj.关闭的/闭着的
+10. **rest**。 n.剩余的
 
 # 7月21日 <a name="7.21"></a>
 

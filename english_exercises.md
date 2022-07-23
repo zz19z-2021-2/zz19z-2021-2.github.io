@@ -59,28 +59,55 @@
 
 <p style="color:red; font-weight: bold">如果你认为题目太难，你也可以选择每天完成3篇阅读理解（至少八年级难度）。【根据自己能力和计划选择！】</p>
 
-<p style="color:gold">新功能：将鼠标悬浮在或点击（部分手机支持）带<span style="text-indent: 0px" class="tooltip">点式下划线<span style="text-indent: 0px" class="tooltiptext">就是这样</span></span>的文字上时，会出现对应的中文翻译。</p>
+<p style="color:gold">新功能：将鼠标悬浮在或点击（或长按，部分手机支持）带<span style="text-indent: 0px" class="tooltip">点式下划线<span style="text-indent: 0px" class="tooltiptext">就是这样</span></span>的文字上时，会出现对应的中文翻译。</p>
 
 答案和解析插入在对应练习题下方，越新的练习越靠页面上方。
 
 # 目录
 
-1. <a href="#7.23">7月23日</a>
-2. <a href="#7.22">7月22日</a>
-3. <a href="#7.21">7月21日</a>
-4. <a href="#7.20">7月20日</a>
-5. <a href="#7.19">7月19日</a>
-6. <a href="#7.18">7月18日</a>
-7. <a href="#7.17">7月17日</a>
-8. <a href="#7.16">7月16日</a>
-9. <a href="#7.15">7月15日</a>
-10. <a href="#7.14">7月14日</a>
-11. <a href="#7.13">7月13日</a>
-12. <a href="#7.12">7月12日</a>
+1. <a href="#7.24">7月24日</a>
+2. <a href="#7.23">7月23日</a>
+3. <a href="#7.22">7月22日</a>
+4. <a href="#7.21">7月21日</a>
+5. <a href="#7.20">7月20日</a>
+6. <a href="#7.19">7月19日</a>
+7. <a href="#7.18">7月18日</a>
+8. <a href="#7.17">7月17日</a>
+9. <a href="#7.16">7月16日</a>
+10. <a href="#7.15">7月15日</a>
+11. <a href="#7.14">7月14日</a>
+12. <a href="#7.13">7月13日</a>
+13. <a href="#7.12">7月12日</a>
+
+# 7月24日 <a name="7.24"></a>
+
+今天的习题是：**3道单项选择题。**
+
+## 第1题
+
+Mr. Lee will do as much as he can \_\_\_\_\_\_\_\_ Ms. Lee.
+
+A. helped　　B. help　　C. to help　　D. helping
+
+## 第2题
+
+—Hey, Jack, will your father attend your graduation?
+
+—Maybe. I \_\_\_\_\_\_\_\_ him when I got home from school last night.
+
+A. tell　　B. told　　C. have told　　D. will tell
+
+## 第3题
+
+—Karen, I needed your help this morning, but you didn't show up.
+
+—Sorry, I \_\_\_\_\_\_\_\_ an important meeting when you called.
+
+A. had　　B. have had　　C. was having　　D. have
 
 # 7月23日 <a name="7.23"></a>
 
-今天的习题：**1篇语篇填空。**
+今天的习题是：**1篇语篇填空。**
 
 <p style="text-indent: 33.3px; text-align: justify">Rain comes from the clouds. Look, there are black clouds now 1.________ the sky. How fast they move along! See, they have hidden the sun. They 2.________ covered up the sun, just as you cover up your face when you put something over it. But there is one little bit of blue sky still.</p>
 <p style="text-indent: 33.3px; text-align: justify">Now there is no blue sky at all: it is all black with the clouds. It is very dark like night. It 3.________ rain soon.</p>
@@ -90,10 +117,18 @@
 <div style="border: 3px solid #5AB6F9; border-radius: 50px; padding: 10px; width: 100%; text-align: center">
   How do you describe the rain of Zhengzhou yesterday(July 22nd)?　(非作业)
 </div>
+## 答案与解析
+
+1. **in**。 in the sky 在天空中
+2. **have**。 have done 现在完成时
+3. **will**。 soon adv.不久之后
+4. **What**。 感叹句，what修饰名词，how形容形容词/副词。drop *countable noun* 滴
+5. **the**。 sun n.太阳 独一无二事物前用定冠词the。
+
 
 # 7月22日 <a name="7.22"></a>
 
-今天的习题：**1篇语篇填空。**
+今天的习题是：**1篇语篇填空。**
 
 <div style="border: 2px solid black; padding: 10px; width: 100%; text-align: center">teach　progress　because　on　he　late　rest　dream　close　kid</div>
 
@@ -117,7 +152,7 @@
 
 # 7月21日 <a name="7.21"></a>
 
-今天的习题：**1篇语篇填空。**
+今天的习题是：**1篇语篇填空。**
 
 <div style="border: 2px solid black; padding: 10px; width: 100%; text-align: center">use　gift　usual　what　but　try　surprise　collect　about　they</div>
 
@@ -150,7 +185,7 @@
 
 # 7月20日 <a name="7.20"></a>
 
-今天的习题：**1篇语篇填空。**
+今天的习题是：**1篇语篇填空。**
 
 <p style="text-indent: 33.3px; text-align: justify">Professor Carter visited some friends on the other side of town. After a good dinner and a game of cards, he said, “I 1.________ going to walk home now.”</p>
 <p style="text-indent: 33.3px; text-align: justify">But the hostess looked out of the window and said, “The weather is very bad. It’s cold and wet.
@@ -169,7 +204,7 @@ And 2.________ is a strong wind blowing. Please stay here tonight.” She went t
 
 # 7月19日 <a name="7.19"></a>
 
-今天的习题：**1篇语篇填空。**
+今天的习题是：**1篇语篇填空。**
 
 <p style="text-indent: 33.3px; text-align: justify">My primary competed in a yearly drum and <span style="text-indent: 0px" class="tooltip">lyre<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">里拉琴</span></span> competition. Our school always the <span style="text-indent: 0px" class="tooltip">champion<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">冠军</span></span>. My parents signed me up to play 1.________ <span style="text-indent: 0px" class="tooltip">lyre<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">里拉琴</span></span>. The training was really bard and as one of the newcomers to the group, I tried my best 2.________ make progress. I love music 3.________ for some reason it doesn’t come easily for me. After two weeks of hard training, I felt like giving 4.________. I felt embarrassed in front of other students who learned easily.</p>
 <p style="text-indent: 33.3px; text-align: justify">One day, I cried because I failed again. Thankfully the trainer talked with me and encouraged me to try the dancing part. Then I started to 5.________ trained as a dancer for the performance. And finally I did well in it! After months of practicing, we won the competition!</p>

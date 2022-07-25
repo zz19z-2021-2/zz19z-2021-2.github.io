@@ -65,6 +65,7 @@
 
 # 目录
 
+1. <a href="#7.25">7月25日</a>
 1. <a href="#7.24">7月24日</a>
 2. <a href="#7.23">7月23日</a>
 3. <a href="#7.22">7月22日</a>
@@ -78,6 +79,18 @@
 11. <a href="#7.14">7月14日</a>
 12. <a href="#7.13">7月13日</a>
 13. <a href="#7.12">7月12日</a>
+
+# 7月25日 <a name="7.25"></a>
+
+今天的习题是：**1篇语篇填空。**
+
+<div style="border: 2px solid black; padding: 10px; width: 100%; text-align: center">inside　warm　when　pick　night　mistake　around　care　late　something</div>
+
+<p style="text-indent: 33.3px; text-align: justify">My house has a lot of big windows. There are many trees outside, and birds like to fly 1.________ my house.</p>
+<p style="text-indent: 33.3px; text-align: justify">One day, a scary thing happened. A bird made a 2.________. My brother and I were watching TV 3.________ suddenly a <span style="text-indent: 0px" class="tooltip">sparrow<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">麻雀</span></span> flew into the window!</p>
+<p style="text-indent: 33.3px; text-align: justify">We rushed outside and 4.________ up the little <span style="text-indent: 0px" class="tooltip">sparrow<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">麻雀</span></span>. Then, we brought it 5.________ and put it in a small box. We kept it in a 6.________, dark <span style="text-indent: 0px" class="tooltip">cupboard<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">橱柜</span></span>. We hoped it would get better. 7.________, we put some water and food in the <span style="text-indent: 0px" class="tooltip">cupboard<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">橱柜</span></span>. All 8.________ we waited.</p>
+<p style="text-indent: 33.3px; text-align: justify">The next day we could hear 9.________ in the <span style="text-indent: 0px" class="tooltip">cupboard<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">橱柜</span></span>. It was the <span style="text-indent: 0px" class="tooltip">sparrow<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">麻雀</span></span> moving around! We opened the back door, and then opened the <span style="text-indent: 0px" class="tooltip">cupboard<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">橱柜</span></span>. Whoooosh! The bird flew outside.</p>
+<p style="text-indent: 33.3px; text-align: justify">“Be 10.________ next time, little <span style="text-indent: 0px" class="tooltip">sparrow<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">麻雀</span></span>!” we said.</p>
 
 # 7月24日 <a name="7.24"></a>
 
@@ -105,6 +118,12 @@ A. tell　　B. told　　C. have told　　D. will tell
 
 A. had　　B. have had　　C. was having　　D. have
 
+## 答案与解析
+
+1. **C**。 to do表目的。
+2. **B**。 过去式+具体时间点（这里为when引导的时间状语从句）。
+3. **C**。 when非延续修饰延续，“开会”是延续性动作，“打电话”是非延续性动作。
+
 # 7月23日 <a name="7.23"></a>
 
 今天的习题是：**1篇语篇填空。**
@@ -114,9 +133,6 @@ A. had　　B. have had　　C. was having　　D. have
 <p style="text-indent: 33.3px; text-align: justify">Now the rain begins. 4.________ large drops! The ducks are very glad; but the little birds are not glad, they go and shelter themselves under the trees.</p>
 <p style="text-indent: 33.3px; text-align: justify">Now the rain is over. It was only a shower. Now the flowers smell sweet, and 5.________ bright sun shines, and the little birds sing again.</p>
 
-<div style="border: 3px solid #5AB6F9; border-radius: 50px; padding: 10px; width: 100%; text-align: center">
-  How do you describe the rain of Zhengzhou yesterday(July 22nd)?　(非作业)
-</div>
 ## 答案与解析
 
 1. **in**。 in the sky 在天空中

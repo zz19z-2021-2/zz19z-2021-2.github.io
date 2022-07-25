@@ -65,20 +65,34 @@
 
 # 目录
 
-1. <a href="#7.25">7月25日</a>
-1. <a href="#7.24">7月24日</a>
-2. <a href="#7.23">7月23日</a>
-3. <a href="#7.22">7月22日</a>
-4. <a href="#7.21">7月21日</a>
-5. <a href="#7.20">7月20日</a>
-6. <a href="#7.19">7月19日</a>
-7. <a href="#7.18">7月18日</a>
-8. <a href="#7.17">7月17日</a>
-9. <a href="#7.16">7月16日</a>
-10. <a href="#7.15">7月15日</a>
-11. <a href="#7.14">7月14日</a>
-12. <a href="#7.13">7月13日</a>
-13. <a href="#7.12">7月12日</a>
+1. <a href="#7.26">7月26日</a>
+2. <a href="#7.25">7月25日</a>
+3. <a href="#7.24">7月24日</a>
+4. <a href="#7.23">7月23日</a>
+5. <a href="#7.22">7月22日</a>
+6. <a href="#7.21">7月21日</a>
+7. <a href="#7.20">7月20日</a>
+8. <a href="#7.19">7月19日</a>
+9. <a href="#7.18">7月18日</a>
+10. <a href="#7.17">7月17日</a>
+11. <a href="#7.16">7月16日</a>
+12. <a href="#7.15">7月15日</a>
+13. <a href="#7.14">7月14日</a>
+14. <a href="#7.13">7月13日</a>
+15. <a href="#7.12">7月12日</a>
+
+# 7月26日 <a name="7.26"></a>
+
+今天的习题是：**1篇语篇填空。**
+
+<p style="text-indent: 33.3px; text-align: justify">One day last summer, Mickey 1.________ driving slowly along a quiet road in the USA when he saw a car next to the road. A man was trying 2.________ change a wheel. Mickey stopped his car and helped the man. While they were changing the wheel, they talked about their families. Then, the man asked Mickey for his address. At first, Mickey said no, 3.________ the man asked him again and again, so finally, Mickey gave him his address.</p>
+<p style="text-indent: 33.3px; text-align: justify">One week later, Mickey got a letter: </p>
+<blockquote>
+Dear Mickey,
+  <p style="text-indent: 33.3px; text-align: justify">Thanks 4.________ your help. I know 5.________ lot about computers but nothing about cars!</p>
+  <p style="text-align:right">Bill Gates</p>
+</blockquote>
+<p style="text-indent: 33.3px; text-align: justify">In the letter was a cheque for $ 10,000.</p>
 
 # 7月25日 <a name="7.25"></a>
 
@@ -91,6 +105,19 @@
 <p style="text-indent: 33.3px; text-align: justify">We rushed outside and 4.________ up the little <span style="text-indent: 0px" class="tooltip">sparrow<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">麻雀</span></span>. Then, we brought it 5.________ and put it in a small box. We kept it in a 6.________, dark <span style="text-indent: 0px" class="tooltip">cupboard<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">橱柜</span></span>. We hoped it would get better. 7.________, we put some water and food in the <span style="text-indent: 0px" class="tooltip">cupboard<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">橱柜</span></span>. All 8.________ we waited.</p>
 <p style="text-indent: 33.3px; text-align: justify">The next day we could hear 9.________ in the <span style="text-indent: 0px" class="tooltip">cupboard<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">橱柜</span></span>. It was the <span style="text-indent: 0px" class="tooltip">sparrow<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">麻雀</span></span> moving around! We opened the back door, and then opened the <span style="text-indent: 0px" class="tooltip">cupboard<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">橱柜</span></span>. Whoooosh! The bird flew outside.</p>
 <p style="text-indent: 33.3px; text-align: justify">“Be 10.________ next time, little <span style="text-indent: 0px" class="tooltip">sparrow<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">麻雀</span></span>!” we said.</p>
+
+## 答案与解析
+
+1. **around**。 fly around my house 绕着我家的房子飞
+2. **mistake**。 n.错误
+3. **when**。
+4. **picked**。 pick up 捡起
+5. **inside**。 n.里面
+6. **warm**。
+7. **Later**。
+8. **night**。
+9. **something**。
+10. **careful**。 care n.小心 → careful adj.小心的
 
 # 7月24日 <a name="7.24"></a>
 

@@ -81,6 +81,26 @@
 14. <a href="#7.13">7月13日</a>
 15. <a href="#7.12">7月12日</a>
 
+# 7月27日 <a name="7.27"></a>
+
+今天的习题是：**1篇语篇填空。**
+
+<div style="border: 2px solid black; padding: 10px; width: 100%; text-align: center">use　when　think　why　baby　walk　I　foot　store　from</div>
+
+<p style="text-indent: 33.3px; text-align: justify">A mother and a baby camel were lying around under a tree.</p>
+<p style="text-indent: 33.3px; text-align: justify">Then the baby camel asked, “1.________ do camels have <span style="text-indent: 0px" class="tooltip">humps<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">驼峰</span></span>?”</p>
+<p style="text-indent: 33.3px; text-align: justify">The mother camel considered this and said, “We are desert animals, so we have the <span style="text-indent: 0px" class="tooltip">humps<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">驼峰</span></span> to 2.________ water and we can <span style="text-indent: 0px" class="tooltip">survive<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">生存</span></span> with very little water.”</p>
+<p style="text-indent: 33.3px; text-align: justify">The baby camel 3.________ for a moment and then said, “OK ... why are our legs long and our 4.________ rounded?”</p>
+<p style="text-indent: 33.3px; text-align: justify">The mama replied, “They are meant for 5.________ in the desert.”</p>
+<p style="text-indent: 33.3px; text-align: justify">The baby stopped. After a beat, the camel asked, “Why are our <span style="text-indent: 0px" class="tooltip">eyelashes<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">睫毛</span></span> long? Sometimes they get in 6.________ way.”</p>
+<p style="text-indent: 33.3px; text-align: justify">The mama responded, “Those long thick <span style="text-indent: 0px" class="tooltip">eyelashes<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">睫毛</span></span> prolect your eyes 7.________ the desert sand when it blows in the wind.”</p>
+<p style="text-indent: 33.3px; text-align: justify">The 8.________ thought and thought. Then he said, “I see. So the <span style="text-indent: 0px" class="tooltip">hump<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">驼峰</span></span> is to store water 9.________ we are in the desert, the legs are for walking through the desert and these <span style="text-indent: 0px" class="tooltip">eyelashes<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">睫毛</span></span> protect my eyes from the desert then why in the Zoo?”</p>
+<p style="text-indent: 33.3px; text-align: justify">The Lesson: skills and abilities are only 10.________ if you are in the right place at the right time. Or they go to waste.</p>
+
+<div style="border: 3px solid orange; border-radius: 50px; padding: 10px; width: 100%; text-align: center">
+  Keep going on! There are much more people struggling for a better future.
+</div>
+
 # 7月26日 <a name="7.26"></a>
 
 今天的习题是：**1篇语篇填空。**
@@ -92,7 +112,15 @@ Dear Mickey,
   <p style="text-indent: 33.3px; text-align: justify">Thanks 4.________ your help. I know 5.________ lot about computers but nothing about cars!</p>
   <p style="text-align:right">Bill Gates</p>
 </blockquote>
-<p style="text-indent: 33.3px; text-align: justify">In the letter was a cheque for $ 10,000.</p>
+<p style="text-indent: 33.3px; text-align: justify">In the letter was a <span style="text-indent: 0px" class="tooltip">cheque<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">支票</span></span> for $10,000.</p>
+
+## 答案与解析
+
+1. **was**。 过去时+进行时=过去进行时。
+2. **to**。 try to do 尽力做某事
+3. **but**。
+4. **for**。 thank for … 因……而感谢
+5. **a**。 a lot
 
 # 7月25日 <a name="7.25"></a>
 

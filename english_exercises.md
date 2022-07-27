@@ -65,21 +65,32 @@
 
 # 目录
 
-1. <a href="#7.26">7月26日</a>
-2. <a href="#7.25">7月25日</a>
-3. <a href="#7.24">7月24日</a>
-4. <a href="#7.23">7月23日</a>
-5. <a href="#7.22">7月22日</a>
-6. <a href="#7.21">7月21日</a>
-7. <a href="#7.20">7月20日</a>
-8. <a href="#7.19">7月19日</a>
-9. <a href="#7.18">7月18日</a>
-10. <a href="#7.17">7月17日</a>
-11. <a href="#7.16">7月16日</a>
-12. <a href="#7.15">7月15日</a>
-13. <a href="#7.14">7月14日</a>
-14. <a href="#7.13">7月13日</a>
-15. <a href="#7.12">7月12日</a>
+1. <a href="#7.28">7月28日</a>
+2. <a href="#7.27">7月27日</a>
+3. <a href="#7.26">7月26日</a>
+4. <a href="#7.25">7月25日</a>
+5. <a href="#7.24">7月24日</a>
+6. <a href="#7.23">7月23日</a>
+7. <a href="#7.22">7月22日</a>
+8. <a href="#7.21">7月21日</a>
+9. <a href="#7.20">7月20日</a>
+10. <a href="#7.19">7月19日</a>
+11. <a href="#7.18">7月18日</a>
+12. <a href="#7.17">7月17日</a>
+13. <a href="#7.16">7月16日</a>
+14. <a href="#7.15">7月15日</a>
+15. <a href="#7.14">7月14日</a>
+16. <a href="#7.13">7月13日</a>
+17. <a href="#7.12">7月12日</a>
+
+# 7月28日 <a name="7.28"></a>
+
+今天的习题是：**1篇语篇填空。**
+
+<p style="text-indent: 33.3px; text-align: justify">There was a blind girl who hated herself because she was blind. 1.________ fact, she hated everyone, except her loving boyfriend. He 2.________ always there for her. She said that if she could only see the world, she would marry him.</p>
+<p style="text-indent: 33.3px; text-align: justify">One day, someone <span style="text-indent: 0px" class="tooltip">donated<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">捐献</span></span> a pair of eyes to her — now she could see everything, including her boyfriend. Her boyfriend asked her, “Now that you can see the world. 3.________ you marry me?”</p>
+<p style="text-indent: 33.3px; text-align: justify">The girl was shocked when she saw that her boyfriend was blind too, and refused 4.________ marry him. Her boyfriend walked away in tears, and later wrote a letter to her saying: “Just take care of my eyes, dear.”</p>
+<p style="text-indent: 33.3px; text-align: justify">Moral of the story: Some people may not be able to see the way things were before, and might not be able to appreciate them. 5.________ are many things to take away from this story, not just one. This is one of the <span style="text-indent: 0px" class="tooltip">inspirational<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">鼓舞人心的</span></span> short stories that left me speechless.</p>
 
 # 7月27日 <a name="7.27"></a>
 
@@ -93,13 +104,23 @@
 <p style="text-indent: 33.3px; text-align: justify">The baby camel 3.________ for a moment and then said, “OK ... why are our legs long and our 4.________ rounded?”</p>
 <p style="text-indent: 33.3px; text-align: justify">The mama replied, “They are meant for 5.________ in the desert.”</p>
 <p style="text-indent: 33.3px; text-align: justify">The baby stopped. After a beat, the camel asked, “Why are our <span style="text-indent: 0px" class="tooltip">eyelashes<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">睫毛</span></span> long? Sometimes they get in 6.________ way.”</p>
-<p style="text-indent: 33.3px; text-align: justify">The mama responded, “Those long thick <span style="text-indent: 0px" class="tooltip">eyelashes<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">睫毛</span></span> prolect your eyes 7.________ the desert sand when it blows in the wind.”</p>
+<p style="text-indent: 33.3px; text-align: justify">The mama responded, “Those long thick <span style="text-indent: 0px" class="tooltip">eyelashes<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">睫毛</span></span> protect your eyes 7.________ the desert sand when it blows in the wind.”</p>
 <p style="text-indent: 33.3px; text-align: justify">The 8.________ thought and thought. Then he said, “I see. So the <span style="text-indent: 0px" class="tooltip">hump<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">驼峰</span></span> is to store water 9.________ we are in the desert, the legs are for walking through the desert and these <span style="text-indent: 0px" class="tooltip">eyelashes<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">睫毛</span></span> protect my eyes from the desert then why in the Zoo?”</p>
 <p style="text-indent: 33.3px; text-align: justify">The Lesson: skills and abilities are only 10.________ if you are in the right place at the right time. Or they go to waste.</p>
 
-<div style="border: 3px solid orange; border-radius: 50px; padding: 10px; width: 100%; text-align: center">
-  Keep going on! There are much more people struggling for a better future.
-</div>
+## 答案与解析
+
+1. **Why**。 提问原因。
+2. **store**。 v.储存/存储
+3. **thought**。
+4. **feet**。
+5. **walk**。
+6.  **my**。
+7. **from**。 protect from … 保护不受……伤害
+8. **baby**。
+9. **when**。
+10. **useful**。
+
 
 # 7月26日 <a name="7.26"></a>
 

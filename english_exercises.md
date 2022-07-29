@@ -1,5 +1,4 @@
 <link rel="stylesheet" type="text/css" href="style.css">
-
 <style>
 .tooltip {
   position: relative;
@@ -66,24 +65,33 @@
 
 # 目录
 
-1. <a href="#7.29">7月29日</a>
-2. <a href="#7.28">7月28日</a>
-3. <a href="#7.27">7月27日</a>
-4. <a href="#7.26">7月26日</a>
-5. <a href="#7.25">7月25日</a>
-6. <a href="#7.24">7月24日</a>
-7. <a href="#7.23">7月23日</a>
-8. <a href="#7.22">7月22日</a>
-9. <a href="#7.21">7月21日</a>
-10. <a href="#7.20">7月20日</a>
-11. <a href="#7.19">7月19日</a>
-12. <a href="#7.18">7月18日</a>
-13. <a href="#7.17">7月17日</a>
-14. <a href="#7.16">7月16日</a>
-15. <a href="#7.15">7月15日</a>
-16. <a href="#7.14">7月14日</a>
-17. <a href="#7.13">7月13日</a>
-18. <a href="#7.12">7月12日</a>
+1. <a href="#7.30">7月30日</a>
+2. <a href="#7.29">7月29日</a>
+3. <a href="#7.28">7月28日</a>
+4. <a href="#7.27">7月27日</a>
+5. <a href="#7.26">7月26日</a>
+6. <a href="#7.25">7月25日</a>
+7. <a href="#7.24">7月24日</a>
+8. <a href="#7.23">7月23日</a>
+9. <a href="#7.22">7月22日</a>
+10. <a href="#7.21">7月21日</a>
+11. <a href="#7.20">7月20日</a>
+12. <a href="#7.19">7月19日</a>
+13. <a href="#7.18">7月18日</a>
+14. <a href="#7.17">7月17日</a>
+15. <a href="#7.16">7月16日</a>
+16. <a href="#7.15">7月15日</a>
+17. <a href="#7.14">7月14日</a>
+18. <a href="#7.13">7月13日</a>
+19. <a href="#7.12">7月12日</a>
+
+# 7月30日 <a name="7.30"></a>
+
+今天的习题是：**1篇语篇填空。**
+
+<p style="text-indent: 33.3px; text-align: justify">Thanksgiving is always on a Thursday. The day after it has 1.________ known as Black Friday, which is the start of the holiday shopping season, and it has been 2.________ busiest shopping day of the year in the US since 2005.</p>
+<p style="text-indent: 33.3px; text-align: justify">Most stores offer big sales on Black Friday. They open their doors quite early in the morning. They try to attract shoppers with big discounts. Black Friday is a great time to go shopping. However, there are problems. The biggest one is 3.________ there are not enough low-priced goods. Each store may only have a few. These are in great need, so people stand in long lines 4.________ get them. They may wait three to four hours before a store opens.</p>
+<p style="text-indent: 33.3px; text-align: justify">The situation makes people worried. There have been fights over toys among shoppers. Some workers have even been hurt by large crowds. But most Black Friday events are safe and fun. Still, 5.________ you plan to go, you will expect large crowds and a bit of pushing.</p>
 
 # 7月29日 <a name="7.29"></a>
 
@@ -92,9 +100,20 @@
 <div style="border: 2px solid black; padding: 10px; width: 100%; text-align: center">arm　as　mother　how　lovely　cry　build　much　without　home</div>
 
 <p style="text-indent: 33.3px; text-align: justify">People in Australia love koalas and take care of them. They 1.________ places for them to live safely. No one can kill them for their pretty fur.</p>
-<p style="text-indent: 33.3px; text-align: justify">When a koala is born, he has no fur. And he is not 2.________ big as your little <span style="text-indent: 0px" class="tooltip">toe<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">脚趾</span></span>! The mother koala has a pocket in the front of her body. The baby goes into this warm pocket. There he stays for six months. When the baby leaves the pocket, he has much fur. And he is about as big as your shoe. He climbs to his 3.________ back. He rides there while she teaches him 4.________ to find food. Mrs. Koala is a loving mother. She takes good care of her baby. However, when he is bad, she beats him! The baby cries just as a small child does. If he keeps on 5.________ his mother beats him again. When he stops crying, she takes him in ber 6.________ And then they both go to sleep for a while. The koala could not live 7.________ a special kind of tree. The tree gives him both his 8.________ and his food. For most of the day the koala sleeps in the tree.</p>
+<p style="text-indent: 33.3px; text-align: justify">When a koala is born, he has no fur. And he is not 2.________ big as your little <span style="text-indent: 0px" class="tooltip">toe<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">脚趾</span></span>! The mother koala has a pocket in the front of her body. The baby goes into this warm pocket. There he stays for six months. When the baby leaves the pocket, he has much fur. And he is about as big as your shoe. He climbs to his 3.________ back. He rides there while she teaches him 4.________ to find food. Mrs. Koala is a loving mother. She takes good care of her baby. However, when he is bad, she beats him! The baby cries just as a small child does. If he keeps on 5.________ his mother beats him again. When he stops crying, she takes him in her 6.________. And then they both go to sleep for a while. The koala could not live 7.________ a special kind of tree. The tree gives him both his 8.________ and his food. For most of the day the koala sleeps in the tree.</p>
 <p style="text-indent: 33.3px; text-align: justify">At night. the koala looks for food. He may go miles to find it. He likes only the <span style="text-indent: 0px" class="tooltip">bark<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">树皮</span></span> and the leaves of the tree. He eats nothing else and he eats 9.________ than two pounds each night.</p>
-<p style="text-indent: 33.3px; text-align: justify">How 10.________ the koalas really arel</p>
+<p style="text-indent: 33.3px; text-align: justify">How 10.________ the koalas really are!</p>
+
+1. **build**。
+2. **as**。 as + adj.原级 + as 和…一样…
+3. **mother’s**。
+4. **how**。
+5. **crying**。 keep on doing 反复/继续做某事
+6. **arms**。
+7. **without**。
+8. **home**。
+9. **more**。
+10. **lovely**。
 
 # 7月28日 <a name="7.28"></a>
 

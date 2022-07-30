@@ -104,7 +104,7 @@
 ## Tips
 
 1. the + adj.比较级, the + adj.比较级 ＝ 越……越……
-2. take it any more ＝ 忍受
+2. can’t take it any more ＝ 再也无法忍受
 3. too … to … ＝ 太……而不能……
 
 # 7月30日 <a name="7.30"></a>

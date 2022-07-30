@@ -4,6 +4,7 @@
   position: relative;
   display: inline-block;
   border-bottom: 1px dotted black;
+  text-indent: 0px;
 }
 .tooltip .tooltiptext {
   visibility: hidden;
@@ -21,7 +22,6 @@
   /* 淡入工具提示 - 用 0.15 秒从完全不可见变为可见： */
   opacity: 0;
   transition-duration: 0.15s;
-  text-indent: 0px;
 }
 .tooltip .tooltiptext::after {
   content: "";

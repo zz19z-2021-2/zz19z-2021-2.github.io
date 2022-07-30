@@ -21,6 +21,7 @@
   /* 淡入工具提示 - 用 0.15 秒从完全不可见变为可见： */
   opacity: 0;
   transition-duration: 0.15s;
+  text-indent: 0px;
 }
 .tooltip .tooltiptext::after {
   content: "";
@@ -44,6 +45,7 @@
 
 
 
+
 <div class="btn-group">
 <a href="https://zz19z-2021-2.github.io/"><button class="button">首页</button></a>
 <a href="https://zz19z-2021-2.github.io/overview.html"><button class="button">内容总览</button></a>
@@ -59,31 +61,51 @@
 
 <p style="color:red; font-weight: bold">如果你认为题目太难，你也可以选择每天完成3篇阅读理解（至少八年级难度）。【根据自己能力和计划选择！】</p>
 
-<p style="color:gold">新功能：将鼠标悬浮在或点击（或长按，部分手机支持）带<span style="text-indent: 0px" class="tooltip">点式下划线<span style="text-indent: 0px" class="tooltiptext">就是这样</span></span>的文字上时，会出现对应的中文翻译。</p>
+<p style="color:gold">新功能：将鼠标悬浮在或点击（或长按，部分手机支持）带<span class="tooltip">点式下划线<span class="tooltiptext">就是这样</span></span>的文字上时，会出现对应的中文翻译。</p>
 
 答案和解析插入在对应练习题下方，越新的练习越靠页面上方。
 
 # 目录
 
-1. <a href="#7.30">7月30日</a>
-2. <a href="#7.29">7月29日</a>
-3. <a href="#7.28">7月28日</a>
-4. <a href="#7.27">7月27日</a>
-5. <a href="#7.26">7月26日</a>
-6. <a href="#7.25">7月25日</a>
-7. <a href="#7.24">7月24日</a>
-8. <a href="#7.23">7月23日</a>
-9. <a href="#7.22">7月22日</a>
-10. <a href="#7.21">7月21日</a>
-11. <a href="#7.20">7月20日</a>
-12. <a href="#7.19">7月19日</a>
-13. <a href="#7.18">7月18日</a>
-14. <a href="#7.17">7月17日</a>
-15. <a href="#7.16">7月16日</a>
-16. <a href="#7.15">7月15日</a>
-17. <a href="#7.14">7月14日</a>
-18. <a href="#7.13">7月13日</a>
-19. <a href="#7.12">7月12日</a>
+1. <a href="#7.31">7月31日</a>
+2. <a href="#7.30">7月30日</a>
+3. <a href="#7.29">7月29日</a>
+4. <a href="#7.28">7月28日</a>
+5. <a href="#7.27">7月27日</a>
+6. <a href="#7.26">7月26日</a>
+7. <a href="#7.25">7月25日</a>
+8. <a href="#7.24">7月24日</a>
+9. <a href="#7.23">7月23日</a>
+10. <a href="#7.22">7月22日</a>
+11. <a href="#7.21">7月21日</a>
+12. <a href="#7.20">7月20日</a>
+13. <a href="#7.19">7月19日</a>
+14. <a href="#7.18">7月18日</a>
+15. <a href="#7.17">7月17日</a>
+16. <a href="#7.16">7月16日</a>
+17. <a href="#7.15">7月15日</a>
+18. <a href="#7.14">7月14日</a>
+19. <a href="#7.13">7月13日</a>
+20. <a href="#7.12">7月12日</a>
+
+# 7月31日 <a name="7.31"></a>
+
+今天是七月份的最后一天，算上今天我们已经持续练习了20天。你也许想知道你的水平如何，今天就来测试一下！我会为你提供一些帮助。
+
+今天的习题是：**1篇来自郑州市2020～2021学年九年级上学期期末考试的语篇填空**。
+
+<div style="border: 2px solid black; padding: 10px; width: 100%; text-align: center">time　once　steal　who　long　<span class="tooltip">lift<span class="tooltiptext">鼓舞</span></span>　hang　he　<span class="tooltip">badly<span class="tooltiptext">非常</span></span>　end</div>
+
+<p style="text-indent: 33.3px; text-align: justify">When I was in middle school, I found out something bad about one of my best friends. He 1.________ stole money to buy <span class="tooltip">cigarettes<span class="tooltiptext">香烟</span></span>.</p>
+<p style="text-indent: 33.3px; text-align: justify">Not waiting to end our friendship, I didn’t tell anyone about it. But the 2.________ I kept quiet, the angrier and more upset I was. I couldn’t take it any more. It got to the point where I would cry after 3.________ out with him, because I was watching him throw his life away and nothing I said would change 4.________ mind.</p>
+<p style="text-indent: 33.3px; text-align: justify">Finally I had had enough. I wanted him to stop so 5.________. I wanted our friendship to go back to the way it was before, but it never went back. 6.________ I realized this, all I had to do was to make a choice. Clearly, happiness is the right choice. I didn’t realize this until months after the 7.________ of our friendship. I wasted so much 8.________ being unhappy around him, and life is too short to be unhappy.</p>
+<p style="text-indent: 33.3px; text-align: justify">I cannot change the people around me, but I can change the people 9.________ I choose to be around. A true friendship doesn’t <span class="tooltip">drag<span class="tooltiptext">拖, 拽</span></span> you down and turn you into something you’re not, but 10.________ you up and shows you the person you are meant to be. Your happiness is a choice. It may not be the easy one, but it will be the right one.</p>
+
+## Tips
+
+1. the + adj.比较级, the + adj.比较级 ＝ 越……越……
+2. take it any more ＝ 忍受
+3. too … to … ＝ 太……而不能……
 
 # 7月30日 <a name="7.30"></a>
 
@@ -93,6 +115,14 @@
 <p style="text-indent: 33.3px; text-align: justify">Most stores offer big sales on Black Friday. They open their doors quite early in the morning. They try to attract shoppers with big discounts. Black Friday is a great time to go shopping. However, there are problems. The biggest one is 3.________ there are not enough low-priced goods. Each store may only have a few. These are in great need, so people stand in long lines 4.________ get them. They may wait three to four hours before a store opens.</p>
 <p style="text-indent: 33.3px; text-align: justify">The situation makes people worried. There have been fights over toys among shoppers. Some workers have even been hurt by large crowds. But most Black Friday events are safe and fun. Still, 5.________ you plan to go, you will expect large crowds and a bit of pushing.</p>
 
+## 答案与解析
+
+1. **been**。 have done 现在完成时 + be done 被动 = have been done；be known as 被称为…
+2. **the**。 the + adj.最高级
+3. **that**。 此为宾从，从句为there be陈述句，连接词用that。
+4. **to**。 表目的。
+5. **if**。 注意：主句为将来时（或祈使句、由情态动词引导），从句用一般现在时。
+
 # 7月29日 <a name="7.29"></a>
 
 今天的习题是：**1篇语篇填空。**
@@ -100,9 +130,11 @@
 <div style="border: 2px solid black; padding: 10px; width: 100%; text-align: center">arm　as　mother　how　lovely　cry　build　much　without　home</div>
 
 <p style="text-indent: 33.3px; text-align: justify">People in Australia love koalas and take care of them. They 1.________ places for them to live safely. No one can kill them for their pretty fur.</p>
-<p style="text-indent: 33.3px; text-align: justify">When a koala is born, he has no fur. And he is not 2.________ big as your little <span style="text-indent: 0px" class="tooltip">toe<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">脚趾</span></span>! The mother koala has a pocket in the front of her body. The baby goes into this warm pocket. There he stays for six months. When the baby leaves the pocket, he has much fur. And he is about as big as your shoe. He climbs to his 3.________ back. He rides there while she teaches him 4.________ to find food. Mrs. Koala is a loving mother. She takes good care of her baby. However, when he is bad, she beats him! The baby cries just as a small child does. If he keeps on 5.________ his mother beats him again. When he stops crying, she takes him in her 6.________. And then they both go to sleep for a while. The koala could not live 7.________ a special kind of tree. The tree gives him both his 8.________ and his food. For most of the day the koala sleeps in the tree.</p>
-<p style="text-indent: 33.3px; text-align: justify">At night. the koala looks for food. He may go miles to find it. He likes only the <span style="text-indent: 0px" class="tooltip">bark<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">树皮</span></span> and the leaves of the tree. He eats nothing else and he eats 9.________ than two pounds each night.</p>
+<p style="text-indent: 33.3px; text-align: justify">When a koala is born, he has no fur. And he is not 2.________ big as your little <span class="tooltip">toe<span class="tooltiptext">脚趾</span></span>! The mother koala has a pocket in the front of her body. The baby goes into this warm pocket. There he stays for six months. When the baby leaves the pocket, he has much fur. And he is about as big as your shoe. He climbs to his 3.________ back. He rides there while she teaches him 4.________ to find food. Mrs. Koala is a loving mother. She takes good care of her baby. However, when he is bad, she beats him! The baby cries just as a small child does. If he keeps on 5.________ his mother beats him again. When he stops crying, she takes him in her 6.________. And then they both go to sleep for a while. The koala could not live 7.________ a special kind of tree. The tree gives him both his 8.________ and his food. For most of the day the koala sleeps in the tree.</p>
+<p style="text-indent: 33.3px; text-align: justify">At night. the koala looks for food. He may go miles to find it. He likes only the <span class="tooltip">bark<span class="tooltiptext">树皮</span></span> and the leaves of the tree. He eats nothing else and he eats 9.________ than two pounds each night.</p>
 <p style="text-indent: 33.3px; text-align: justify">How 10.________ the koalas really are!</p>
+
+## 答案与解析
 
 1. **build**。
 2. **as**。 as + adj.原级 + as 和…一样…
@@ -120,9 +152,9 @@
 今天的习题是：**1篇语篇填空。**
 
 <p style="text-indent: 33.3px; text-align: justify">There was a blind girl who hated herself because she was blind. 1.________ fact, she hated everyone, except her loving boyfriend. He 2.________ always there for her. She said that if she could only see the world, she would marry him.</p>
-<p style="text-indent: 33.3px; text-align: justify">One day, someone <span style="text-indent: 0px" class="tooltip">donated<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">捐献</span></span> a pair of eyes to her — now she could see everything, including her boyfriend. Her boyfriend asked her, “Now that you can see the world. 3.________ you marry me?”</p>
+<p style="text-indent: 33.3px; text-align: justify">One day, someone <span class="tooltip">donated<span class="tooltiptext">捐献</span></span> a pair of eyes to her — now she could see everything, including her boyfriend. Her boyfriend asked her, “Now that you can see the world. 3.________ you marry me?”</p>
 <p style="text-indent: 33.3px; text-align: justify">The girl was shocked when she saw that her boyfriend was blind too, and refused 4.________ marry him. Her boyfriend walked away in tears, and later wrote a letter to her saying: “Just take care of my eyes, dear.”</p>
-<p style="text-indent: 33.3px; text-align: justify">Moral of the story: Some people may not be able to see the way things were before, and might not be able to appreciate them. 5.________ are many things to take away from this story, not just one. This is one of the <span style="text-indent: 0px" class="tooltip">inspirational<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">鼓舞人心的</span></span> short stories that left me speechless.</p>
+<p style="text-indent: 33.3px; text-align: justify">Moral of the story: Some people may not be able to see the way things were before, and might not be able to appreciate them. 5.________ are many things to take away from this story, not just one. This is one of the <span class="tooltip">inspirational<span class="tooltiptext">鼓舞人心的</span></span> short stories that left me speechless.</p>
 
 ## 答案与解析
 
@@ -139,13 +171,13 @@
 <div style="border: 2px solid black; padding: 10px; width: 100%; text-align: center">use　when　think　why　baby　walk　I　foot　store　from</div>
 
 <p style="text-indent: 33.3px; text-align: justify">A mother and a baby camel were lying around under a tree.</p>
-<p style="text-indent: 33.3px; text-align: justify">Then the baby camel asked, “1.________ do camels have <span style="text-indent: 0px" class="tooltip">humps<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">驼峰</span></span>?”</p>
-<p style="text-indent: 33.3px; text-align: justify">The mother camel considered this and said, “We are desert animals, so we have the <span style="text-indent: 0px" class="tooltip">humps<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">驼峰</span></span> to 2.________ water and we can <span style="text-indent: 0px" class="tooltip">survive<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">生存</span></span> with very little water.”</p>
+<p style="text-indent: 33.3px; text-align: justify">Then the baby camel asked, “1.________ do camels have <span class="tooltip">humps<span class="tooltiptext">驼峰</span></span>?”</p>
+<p style="text-indent: 33.3px; text-align: justify">The mother camel considered this and said, “We are desert animals, so we have the <span class="tooltip">humps<span class="tooltiptext">驼峰</span></span> to 2.________ water and we can <span class="tooltip">survive<span class="tooltiptext">生存</span></span> with very little water.”</p>
 <p style="text-indent: 33.3px; text-align: justify">The baby camel 3.________ for a moment and then said, “OK ... why are our legs long and our 4.________ rounded?”</p>
 <p style="text-indent: 33.3px; text-align: justify">The mama replied, “They are meant for 5.________ in the desert.”</p>
-<p style="text-indent: 33.3px; text-align: justify">The baby stopped. After a beat, the camel asked, “Why are our <span style="text-indent: 0px" class="tooltip">eyelashes<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">睫毛</span></span> long? Sometimes they get in 6.________ way.”</p>
-<p style="text-indent: 33.3px; text-align: justify">The mama responded, “Those long thick <span style="text-indent: 0px" class="tooltip">eyelashes<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">睫毛</span></span> protect your eyes 7.________ the desert sand when it blows in the wind.”</p>
-<p style="text-indent: 33.3px; text-align: justify">The 8.________ thought and thought. Then he said, “I see. So the <span style="text-indent: 0px" class="tooltip">hump<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">驼峰</span></span> is to store water 9.________ we are in the desert, the legs are for walking through the desert and these <span style="text-indent: 0px" class="tooltip">eyelashes<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">睫毛</span></span> protect my eyes from the desert then why in the Zoo?”</p>
+<p style="text-indent: 33.3px; text-align: justify">The baby stopped. After a beat, the camel asked, “Why are our <span class="tooltip">eyelashes<span class="tooltiptext">睫毛</span></span> long? Sometimes they get in 6.________ way.”</p>
+<p style="text-indent: 33.3px; text-align: justify">The mama responded, “Those long thick <span class="tooltip">eyelashes<span class="tooltiptext">睫毛</span></span> protect your eyes 7.________ the desert sand when it blows in the wind.”</p>
+<p style="text-indent: 33.3px; text-align: justify">The 8.________ thought and thought. Then he said, “I see. So the <span class="tooltip">hump<span class="tooltiptext">驼峰</span></span> is to store water 9.________ we are in the desert, the legs are for walking through the desert and these <span class="tooltip">eyelashes<span class="tooltiptext">睫毛</span></span> protect my eyes from the desert then why in the Zoo?”</p>
 <p style="text-indent: 33.3px; text-align: justify">The Lesson: skills and abilities are only 10.________ if you are in the right place at the right time. Or they go to waste.</p>
 
 ## 答案与解析
@@ -173,7 +205,7 @@ Dear Mickey,
   <p style="text-indent: 33.3px; text-align: justify">Thanks 4.________ your help. I know 5.________ lot about computers but nothing about cars!</p>
   <p style="text-align:right">Bill Gates</p>
 </blockquote>
-<p style="text-indent: 33.3px; text-align: justify">In the letter was a <span style="text-indent: 0px" class="tooltip">cheque<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">支票</span></span> for $10,000.</p>
+<p style="text-indent: 33.3px; text-align: justify">In the letter was a <span class="tooltip">cheque<span class="tooltiptext">支票</span></span> for $10,000.</p>
 
 ## 答案与解析
 
@@ -190,10 +222,10 @@ Dear Mickey,
 <div style="border: 2px solid black; padding: 10px; width: 100%; text-align: center">inside　warm　when　pick　night　mistake　around　care　late　something</div>
 
 <p style="text-indent: 33.3px; text-align: justify">My house has a lot of big windows. There are many trees outside, and birds like to fly 1.________ my house.</p>
-<p style="text-indent: 33.3px; text-align: justify">One day, a scary thing happened. A bird made a 2.________. My brother and I were watching TV 3.________ suddenly a <span style="text-indent: 0px" class="tooltip">sparrow<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">麻雀</span></span> flew into the window!</p>
-<p style="text-indent: 33.3px; text-align: justify">We rushed outside and 4.________ up the little <span style="text-indent: 0px" class="tooltip">sparrow<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">麻雀</span></span>. Then, we brought it 5.________ and put it in a small box. We kept it in a 6.________, dark <span style="text-indent: 0px" class="tooltip">cupboard<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">橱柜</span></span>. We hoped it would get better. 7.________, we put some water and food in the <span style="text-indent: 0px" class="tooltip">cupboard<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">橱柜</span></span>. All 8.________ we waited.</p>
-<p style="text-indent: 33.3px; text-align: justify">The next day we could hear 9.________ in the <span style="text-indent: 0px" class="tooltip">cupboard<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">橱柜</span></span>. It was the <span style="text-indent: 0px" class="tooltip">sparrow<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">麻雀</span></span> moving around! We opened the back door, and then opened the <span style="text-indent: 0px" class="tooltip">cupboard<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">橱柜</span></span>. Whoooosh! The bird flew outside.</p>
-<p style="text-indent: 33.3px; text-align: justify">“Be 10.________ next time, little <span style="text-indent: 0px" class="tooltip">sparrow<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">麻雀</span></span>!” we said.</p>
+<p style="text-indent: 33.3px; text-align: justify">One day, a scary thing happened. A bird made a 2.________. My brother and I were watching TV 3.________ suddenly a <span class="tooltip">sparrow<span class="tooltiptext">麻雀</span></span> flew into the window!</p>
+<p style="text-indent: 33.3px; text-align: justify">We rushed outside and 4.________ up the little <span class="tooltip">sparrow<span class="tooltiptext">麻雀</span></span>. Then, we brought it 5.________ and put it in a small box. We kept it in a 6.________, dark <span class="tooltip">cupboard<span class="tooltiptext">橱柜</span></span>. We hoped it would get better. 7.________, we put some water and food in the <span class="tooltip">cupboard<span class="tooltiptext">橱柜</span></span>. All 8.________ we waited.</p>
+<p style="text-indent: 33.3px; text-align: justify">The next day we could hear 9.________ in the <span class="tooltip">cupboard<span class="tooltiptext">橱柜</span></span>. It was the <span class="tooltip">sparrow<span class="tooltiptext">麻雀</span></span> moving around! We opened the back door, and then opened the <span class="tooltip">cupboard<span class="tooltiptext">橱柜</span></span>. Whoooosh! The bird flew outside.</p>
+<p style="text-indent: 33.3px; text-align: justify">“Be 10.________ next time, little <span class="tooltip">sparrow<span class="tooltiptext">麻雀</span></span>!” we said.</p>
 
 ## 答案与解析
 
@@ -265,7 +297,7 @@ A. had　　B. have had　　C. was having　　D. have
 <div style="border: 2px solid black; padding: 10px; width: 100%; text-align: center">teach　progress　because　on　he　late　rest　dream　close　kid</div>
 
 <p style="text-indent: 33.3px; text-align: justify">This is the story of a time when I went to my dad for help, because he seemed to be the only person who believed in me.</p>
-<p style="text-indent: 33.3px; text-align: justify">My friend Brett had just got a motorbike. A lot of other 1.________ in my neighborhood came to ride it. I also wanted to. But all the boys told me I couldn’t do it 2.________ I was a girl. I wanted to <span style="text-indent: 0px" class="tooltip">prove<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">证明</span></span> them wrong, so Brett let me have a try. I wasn’t 3.________ for one minute before I fell off. Of course, they all laughed at me.</p>
+<p style="text-indent: 33.3px; text-align: justify">My friend Brett had just got a motorbike. A lot of other 1.________ in my neighborhood came to ride it. I also wanted to. But all the boys told me I couldn’t do it 2.________ I was a girl. I wanted to <span class="tooltip">prove<span class="tooltiptext">证明</span></span> them wrong, so Brett let me have a try. I wasn’t 3.________ for one minute before I fell off. Of course, they all laughed at me.</p>
 <p style="text-indent: 33.3px; text-align: justify">That night I told my dad the whole story. He asked how much I really wanted to learn and I told 4.________ it was everything I dreamed about.</p>
 <p style="text-indent: 33.3px; text-align: justify">A few days 5.________ my dad brought home a motorbike. We took it one step at a time. My dad spent four long weeks 6.________ me everything. Day after day he worked with me, and I began to 7.________. I was so thankful. It meant so much that he would take time from his busy work to help me achieve my 8.________.</p>
 <p style="text-indent: 33.3px; text-align: justify">Finally I was ready for my first time on the roads. Things got easier for me, as if I could ride with my eyes 9.________. The boys were all surprised that a girl could do what they did.</p>
@@ -288,17 +320,17 @@ A. had　　B. have had　　C. was having　　D. have
 
 <div style="border: 2px solid black; padding: 10px; width: 100%; text-align: center">use　gift　usual　what　but　try　surprise　collect　about　they</div>
 
-<p style="text-indent: 33.3px; text-align: justify">Like most people, you probably have problems in your life that you need to solve. Maybe you try very hard every year to pick out different birthday 1.________ for your family. Maybe you try your best to get to school on time 2.________ you still arrive late. And since these matters are personal, it can be hard to be <span style="text-indent: 0px" class="tooltip">objective<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">客观的</span></span> about them. But what if you step back and think like a scientist? You might be 3.________ at the ways you come up with.</p>
+<p style="text-indent: 33.3px; text-align: justify">Like most people, you probably have problems in your life that you need to solve. Maybe you try very hard every year to pick out different birthday 1.________ for your family. Maybe you try your best to get to school on time 2.________ you still arrive late. And since these matters are personal, it can be hard to be <span class="tooltip">objective<span class="tooltiptext">客观的</span></span> about them. But what if you step back and think like a scientist? You might be 3.________ at the ways you come up with.</p>
 <p style="text-indent: 33.3px; text-align: justify">Walter A. Shewhart once wrote a book 4.________ using the scientific method in business. He argued that businesses should be improving 5.________ products all the time. He used a circle, or cycle, to explain his idea. His student W. Edwards Deming turned Shewhart’s thoughts into a four-step cycle. This became the PDCA Cycle — Plan, Do, Check and Act 一 that is 6.________ by many people today.</p>
 <ol>
 <li>Plan
-<p style="text-indent: 33.3px; text-align: justify">Think about your problem and form a <span style="text-indent: 0px" class="tooltip">hypothesis<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">假设</span></span> for how to solve it. Let’s say you want to get to school on time. 7.________ you take the bus. But today, you get up late. So you decide to ask your mom to take you on her motorbike instead.</p></li>
+<p style="text-indent: 33.3px; text-align: justify">Think about your problem and form a <span class="tooltip">hypothesis<span class="tooltiptext">假设</span></span> for how to solve it. Let’s say you want to get to school on time. 7.________ you take the bus. But today, you get up late. So you decide to ask your mom to take you on her motorbike instead.</p></li>
 <li>Do
-<p style="text-indent: 33.3px; text-align: justify">Now it's time to put your plan to the test. This is also the time when you start to 8.________ <span style="text-indent: 0px" class="tooltip">data<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">数据</span></span>. Be sure to take notes of important information such as the time you arrive at school.</p></li>
+<p style="text-indent: 33.3px; text-align: justify">Now it's time to put your plan to the test. This is also the time when you start to 8.________ <span class="tooltip">data<span class="tooltiptext">数据</span></span>. Be sure to take notes of important information such as the time you arrive at school.</p></li>
 <li>Check
-<p style="text-indent: 33.3px; text-align: justify">Consider the result of your experiment. Did you get to school on time? 9.________ other <span style="text-indent: 0px" class="tooltip">factors<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">因素</span></span> are there? Maybe riding with your mom can be faster. But if it rains, you will get wet.</p></li>
+<p style="text-indent: 33.3px; text-align: justify">Consider the result of your experiment. Did you get to school on time? 9.________ other <span class="tooltip">factors<span class="tooltiptext">因素</span></span> are there? Maybe riding with your mom can be faster. But if it rains, you will get wet.</p></li>
 <li>Act
-<p style="text-indent: 33.3px; text-align: justify">Now you put your changes into action and 10.________ your new <span style="text-indent: 0px" class="tooltip">hypothesis<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">假设</span></span> again. Perhaps you find that it's faster to ride with your mom. But you need to take a raincoat.</p></li>
+<p style="text-indent: 33.3px; text-align: justify">Now you put your changes into action and 10.________ your new <span class="tooltip">hypothesis<span class="tooltiptext">假设</span></span> again. Perhaps you find that it's faster to ride with your mom. But you need to take a raincoat.</p></li>
 </ol>
 <p style="text-indent: 33.3px; text-align: justify">Keep repeating the cycle so that you can improve all the time.</p>
 
@@ -323,7 +355,7 @@ A. had　　B. have had　　C. was having　　D. have
 <p style="text-indent: 33.3px; text-align: justify">But the hostess looked out of the window and said, “The weather is very bad. It’s cold and wet.
 And 2.________ is a strong wind blowing. Please stay here tonight.” She went to prepare a room 3.________ him.</p>
 <p style="text-indent: 33.3px; text-align: justify">After a few minutes, she came back to the living room, but the professor was not there. She and her husband waited for half an hour, and then they went to bed. But then the professor knocked at the back door 4.________ the house. He was very wet. The host came to the door. “You’re here!” he said happily.</p>
-<p style="text-indent: 33.3px; text-align: justify">“Yes,” the professor answered. He said with 5.________ smile, “I went home and got my <span style="text-indent: 0px" class="tooltip">pyjama<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">睡衣</span></span>.”</p>
+<p style="text-indent: 33.3px; text-align: justify">“Yes,” the professor answered. He said with 5.________ smile, “I went home and got my <span class="tooltip">pyjama<span class="tooltiptext">睡衣</span></span>.”</p>
 
 ## 答案与解析
 
@@ -338,7 +370,7 @@ And 2.________ is a strong wind blowing. Please stay here tonight.” She went t
 
 今天的习题是：**1篇语篇填空。**
 
-<p style="text-indent: 33.3px; text-align: justify">My primary competed in a yearly drum and <span style="text-indent: 0px" class="tooltip">lyre<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">里拉琴</span></span> competition. Our school always the <span style="text-indent: 0px" class="tooltip">champion<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">冠军</span></span>. My parents signed me up to play 1.________ <span style="text-indent: 0px" class="tooltip">lyre<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">里拉琴</span></span>. The training was really bard and as one of the newcomers to the group, I tried my best 2.________ make progress. I love music 3.________ for some reason it doesn’t come easily for me. After two weeks of hard training, I felt like giving 4.________. I felt embarrassed in front of other students who learned easily.</p>
+<p style="text-indent: 33.3px; text-align: justify">My primary competed in a yearly drum and <span class="tooltip">lyre<span class="tooltiptext">里拉琴</span></span> competition. Our school always the <span class="tooltip">champion<span class="tooltiptext">冠军</span></span>. My parents signed me up to play 1.________ <span class="tooltip">lyre<span class="tooltiptext">里拉琴</span></span>. The training was really bard and as one of the newcomers to the group, I tried my best 2.________ make progress. I love music 3.________ for some reason it doesn’t come easily for me. After two weeks of hard training, I felt like giving 4.________. I felt embarrassed in front of other students who learned easily.</p>
 <p style="text-indent: 33.3px; text-align: justify">One day, I cried because I failed again. Thankfully the trainer talked with me and encouraged me to try the dancing part. Then I started to 5.________ trained as a dancer for the performance. And finally I did well in it! After months of practicing, we won the competition!</p>
 <p style="text-indent: 33.3px; text-align: justify">It was a great experience for me!</p>
 
@@ -354,9 +386,9 @@ And 2.________ is a strong wind blowing. Please stay here tonight.” She went t
 
 今天的习题是：**1篇语篇填空。**
 
-<p style="text-indent: 33.3px; text-align: justify">Frances was reading a storybook. The book 1.________ about people searching for <span style="text-indent: 0px" class="tooltip">ladybugs<span style="text-indent: 0px" style="text-indent: 0px"  class="tooltiptext">瓢虫</span></span>, which were a symbol of happiness in the story. Frances fell in love 2.________ the tiny insects when she saw their pictures in the book.</p>
-<p style="text-indent: 33.3px; text-align: justify">The next day, Frances decided 3.________ bring her tool to look for <span style="text-indent: 0px" class="tooltip">ladybugs<span style="text-indent: 0px" class="tooltiptext">瓢虫</span></span> in the park near her house. However, though she tried her best, she could not find even one <span style="text-indent: 0px" class="tooltip">ladybug<span style="text-indent: 0px" class="tooltiptext">瓢虫</span></span> 4.________ hours of searching. She felt tired and upset. So she sat down to rest by 5.________ rock and fell asleep.</p>
-<p style="text-indent: 33.3px; text-align: justify">When she woke up, she saw a lot of <span style="text-indent: 0px" class="tooltip">ladybugs<span style="text-indent: 0px" class="tooltiptext">瓢虫</span></span> all over her skirt and on the grass around her. It reminded Frances that sometimes what we want the most, like happiness, will appear suddenly when we least expect it.</p>
+<p style="text-indent: 33.3px; text-align: justify">Frances was reading a storybook. The book 1.________ about people searching for <span class="tooltip">ladybugs<span class="tooltiptext">瓢虫</span></span>, which were a symbol of happiness in the story. Frances fell in love 2.________ the tiny insects when she saw their pictures in the book.</p>
+<p style="text-indent: 33.3px; text-align: justify">The next day, Frances decided 3.________ bring her tool to look for <span class="tooltip">ladybugs<span class="tooltiptext">瓢虫</span></span> in the park near her house. However, though she tried her best, she could not find even one <span class="tooltip">ladybug<span class="tooltiptext">瓢虫</span></span> 4.________ hours of searching. She felt tired and upset. So she sat down to rest by 5.________ rock and fell asleep.</p>
+<p style="text-indent: 33.3px; text-align: justify">When she woke up, she saw a lot of <span class="tooltip">ladybugs<span class="tooltiptext">瓢虫</span></span> all over her skirt and on the grass around her. It reminded Frances that sometimes what we want the most, like happiness, will appear suddenly when we least expect it.</p>
 
 ## 答案与解析
 
@@ -372,7 +404,7 @@ And 2.________ is a strong wind blowing. Please stay here tonight.” She went t
 
 ## 语篇填空
 
-<p style="text-indent: 33.3px; text-align: justify">Did you ever run off and forget your drink? That’s 1.________ happened to 11-year-old Frank Epperson in 1905. He was mixing drink 2.________ a stick, and left the cup outside all night. In the morning, Frank found a cup of <span style="text-indent: 0px" class="tooltip">frozen<span style="text-indent: 0px" class="tooltiptext">冷冻的</span></span> sweet drink — with a handy stick to hold it. He thought that was pretty cool, so he made more for everyone 3.________ enjoy. At first Frank called them Epsicles, but later they got 4.________ second name — <span style="text-indent: 0px" class="tooltip">Popsicle<span style="text-indent: 0px" class="tooltiptext">冰棍</span></span>.</p>
+<p style="text-indent: 33.3px; text-align: justify">Did you ever run off and forget your drink? That’s 1.________ happened to 11-year-old Frank Epperson in 1905. He was mixing drink 2.________ a stick, and left the cup outside all night. In the morning, Frank found a cup of <span class="tooltip">frozen<span class="tooltiptext">冷冻的</span></span> sweet drink — with a handy stick to hold it. He thought that was pretty cool, so he made more for everyone 3.________ enjoy. At first Frank called them Epsicles, but later they got 4.________ second name — <span class="tooltip">Popsicle<span class="tooltiptext">冰棍</span></span>.</p>
 <p style="text-indent: 33.3px; text-align: justify">Some say kids have always 5.________ perfectly inventive. There is no doubt about it!</p>
 
 ## 单项选择题
@@ -395,7 +427,7 @@ A. prepared　　B. am preparing　　C. was preparing　　D. have prepared
 
 ## 单项选择题
 
-**C**。 过去进行时可表示过去一段时间正在发生。
+**C**。 【过去进行时】过去进行时可表示过去一段时间正在发生。
 
 # 7月16日 <a name="7.16"></a>
 
@@ -459,13 +491,13 @@ A. prepared　　B. am preparing　　C. was preparing　　D. have prepared
 今天的习题是：**1篇完形填空。**
 
 <p style="text-indent: 33.3px; text-align: justify">There was a king named Bauakas. He was told that there lived a just judge who could tell the 1.________ in one of his cities. The king wante to find out the truth. 2.________ he exchanged clothes with a businessman and traveled on horseback.</p>
-<p style="text-indent: 33.3px; text-align: justify">On the way, a beggar went 3.________ Bauakas, <span style="text-indent: 0px" class="tooltip">begged<span style="text-indent: 0px" class="tooltiptext">乞讨</span></span> for money and asked for a ride. Bauakas agreed and took him to the city square. There the king stopped, but the beggar refused to 4.________ , and said that the horse was his. They had a fight.</p>
+<p style="text-indent: 33.3px; text-align: justify">On the way, a beggar went 3.________ Bauakas, <span class="tooltip">begged<span class="tooltiptext">乞讨</span></span> for money and asked for a ride. Bauakas agreed and took him to the city square. There the king stopped, but the beggar refused to 4.________ , and said that the horse was his. They had a fight.</p>
 <p style="text-indent: 33.3px; text-align: justify">Then they asked the judge for help. First the judge listened to a scholar and a peasant about whose wife the woman was, and then he said, “5.________ the woman with me, and return tomorrow.”</p>
 <p style="text-indent: 33.3px; text-align: justify">When his 6.________ came, Bauakas told the judge what had happened. The judge listened 7.________, and said, “Leave the horse with me, and return tomorrow.”</p>
-<p style="text-indent: 33.3px; text-align: justify">The following day, the judge first told the scholar, “Take your wife. The peasant will 8.________ fifty <span style="text-indent: 0px" class="tooltip">lashes<span style="text-indent: 0px" class="tooltiptext">鞭打</span></span>.”</p>
-<p style="text-indent: 33.3px; text-align: justify">Next he led Bauakas and the beggar to the <span style="text-indent: 0px" class="tooltip">stable<span style="text-indent: 0px" class="tooltiptext">马厩</span></span>. Bauakas immediately <span style="text-indent: 0px" class="tooltip">recognized<span style="text-indent: 0px" class="tooltiptext">认出</span></span> his horse. Then the beggar pointed out the horse quickly, too.</p>
-<p style="text-indent: 33.3px; text-align: justify">“The horse is 9.________,” the judge directed Bauakas. “The beggar will be given fifty <span style="text-indent: 0px" class="tooltip">lashes<span style="text-indent: 0px" class="tooltiptext">鞭打</span></span>.”</p>
-<p style="text-indent: 33.3px; text-align: justify">Bauakas asked the judge 10.________ he made it. “I required the woman to fill my inkwell. She did the job quickly and 11.________, which made me believe that it was her job,” he answered. “Both you and the beggar <span style="text-indent: 0px" class="tooltip">recognized<span style="text-indent: 0px" class="tooltiptext">认出</span></span> the horse in the <span style="text-indent: 0px" class="tooltip">stable<span style="text-indent: 0px" class="tooltiptext">马厩</span></span>. However, it was more 12.________ to learn which of you the horse <span style="text-indent: 0px" class="tooltip">recognized<span style="text-indent: 0px" class="tooltiptext">认出</span></span>. When you went near the animal, it turned its head and reached out its neck towards you. But when the beggar 13.________ it, it laid back its ears and lifted one foot. Therefore I knew you were the horse’s master.”</p>
+<p style="text-indent: 33.3px; text-align: justify">The following day, the judge first told the scholar, “Take your wife. The peasant will 8.________ fifty <span class="tooltip">lashes<span class="tooltiptext">鞭打</span></span>.”</p>
+<p style="text-indent: 33.3px; text-align: justify">Next he led Bauakas and the beggar to the <span class="tooltip">stable<span class="tooltiptext">马厩</span></span>. Bauakas immediately <span class="tooltip">recognized<span class="tooltiptext">认出</span></span> his horse. Then the beggar pointed out the horse quickly, too.</p>
+<p style="text-indent: 33.3px; text-align: justify">“The horse is 9.________,” the judge directed Bauakas. “The beggar will be given fifty <span class="tooltip">lashes<span class="tooltiptext">鞭打</span></span>.”</p>
+<p style="text-indent: 33.3px; text-align: justify">Bauakas asked the judge 10.________ he made it. “I required the woman to fill my inkwell. She did the job quickly and 11.________, which made me believe that it was her job,” he answered. “Both you and the beggar <span class="tooltip">recognized<span class="tooltiptext">认出</span></span> the horse in the <span class="tooltip">stable<span class="tooltiptext">马厩</span></span>. However, it was more 12.________ to learn which of you the horse <span class="tooltip">recognized<span class="tooltiptext">认出</span></span>. When you went near the animal, it turned its head and reached out its neck towards you. But when the beggar 13.________ it, it laid back its ears and lifted one foot. Therefore I knew you were the horse’s master.”</p>
 <p style="text-indent: 33.3px; text-align: justify">Then Bauakas told him who he was, “14.________ that I heard about you is true. Ask whatever you want as a prize.” “I’m satisfied that my king has 15.________ me.”</p>
 
 ## Word Bank

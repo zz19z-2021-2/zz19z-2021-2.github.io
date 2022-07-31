@@ -67,26 +67,43 @@
 
 # 目录
 
-1. <a href="#7.31">7月31日</a>
-2. <a href="#7.30">7月30日</a>
-3. <a href="#7.29">7月29日</a>
-4. <a href="#7.28">7月28日</a>
-5. <a href="#7.27">7月27日</a>
-6. <a href="#7.26">7月26日</a>
-7. <a href="#7.25">7月25日</a>
-8. <a href="#7.24">7月24日</a>
-9. <a href="#7.23">7月23日</a>
-10. <a href="#7.22">7月22日</a>
-11. <a href="#7.21">7月21日</a>
-12. <a href="#7.20">7月20日</a>
-13. <a href="#7.19">7月19日</a>
-14. <a href="#7.18">7月18日</a>
-15. <a href="#7.17">7月17日</a>
-16. <a href="#7.16">7月16日</a>
-17. <a href="#7.15">7月15日</a>
-18. <a href="#7.14">7月14日</a>
-19. <a href="#7.13">7月13日</a>
-20. <a href="#7.12">7月12日</a>
+1. <a href="#8.1">8月1日</a>
+2. <a href="#7.31">7月31日</a>
+3. <a href="#7.30">7月30日</a>
+4. <a href="#7.29">7月29日</a>
+5. <a href="#7.28">7月28日</a>
+6. <a href="#7.27">7月27日</a>
+7. <a href="#7.26">7月26日</a>
+8. <a href="#7.25">7月25日</a>
+9. <a href="#7.24">7月24日</a>
+10. <a href="#7.23">7月23日</a>
+11. <a href="#7.22">7月22日</a>
+12. <a href="#7.21">7月21日</a>
+13. <a href="#7.20">7月20日</a>
+14. <a href="#7.19">7月19日</a>
+15. <a href="#7.18">7月18日</a>
+16. <a href="#7.17">7月17日</a>
+17. <a href="#7.16">7月16日</a>
+18. <a href="#7.15">7月15日</a>
+19. <a href="#7.14">7月14日</a>
+20. <a href="#7.13">7月13日</a>
+21. <a href="#7.12">7月12日</a>
+
+# 8月1日 <a name="8.1"></a>
+
+今天的习题是：**1篇语篇填空。**
+
+<div style="border: 2px solid black; padding: 10px; width: 100%; text-align: center">I　so　know　nervous　Jimmy　with　answer　understand　look　much</div>
+
+<p style="text-indent: 33.3px; text-align: justify">Nine-year-old Jimmy was given a task in school to write a story on “My family’s <span class="tooltip">ancestors<span class="tooltiptext">祖先</span></span>”. The purpose was for the kids to 1.________ their family history.</p>
+<p style="text-indent: 33.3px; text-align: justify">In search of some 2.________ for his task, Jimmy interviewed his grandmother who of course 3.________ nothing about the reason why Jimmy asked such questions.</p>
+<p style="text-indent: 33.3px; text-align: justify">When she was asked, “Granny, where did I come from?” his grandma was quite 4.________. Why didn't he ask his parents? She had to be quite careful when talking 5.________ a kid about such a subject. She wanted to buy some time, 6.________ she replied, “Well, sweetie, the <span class="tooltip">stork<span class="tooltiptext">鹳鸟</span></span> brought you.” She said no 7.________ hoping that the subject would be dropped until Jimmy's parents came back.</p>
+<p style="text-indent: 33.3px; text-align: justify">“So, where did Mom come from?”</p>
+<p style="text-indent: 33.3px; text-align: justify">“The <span class="tooltip">stork<span class="tooltiptext">鹳鸟</span></span> brought her also.”</p>
+<p style="text-indent: 33.3px; text-align: justify">“Well, then where did you come from?”</p>
+<p style="text-indent: 33.3px; text-align: justify">“The <span class="tooltip">stork<span class="tooltiptext">鹳鸟</span></span> brought 8.________ too, sweetie.”</p>
+<p style="text-indent: 33.3px; text-align: justify">"All right, thanks, Granny."</p>
+<p style="text-indent: 33.3px; text-align: justify">9.________ grandmother did not think anything more about his questions. Three days later, when she was tidying up and 10.________ at Jimmy's desk, she read the first sentence of his paper, “For three generations there have been no natural births in our family.”</p>
 
 # 7月31日 <a name="7.31"></a>
 
@@ -103,9 +120,22 @@
 
 ## Tips
 
-1. the + adj.比较级, the + adj.比较级 ＝ 越……越……
+1. <a name="tip_1"></a>the + adj.比较级, the + adj.比较级 ＝ 越……越……
 2. can’t take it any more ＝ 再也无法忍受
 3. too … to … ＝ 太……而不能……
+
+## 答案与解析
+
+1. **stole**。 过去式（steal - stole - stolen）。
+2. **longer**。 根据<a href="#tip_1">Tip 1</a>，意为“我越长时间保持安静，我就变得越生气和失落。”
+3. **hanging**。 hang out 消磨时间/闲逛。
+4. **his**。
+5. **badly**。
+6. **Once**。 conj.一旦
+7. **end**。 the end of our friendship 友谊的尽头
+8. **time**。 *uncountable noun* 时间
+9. **who**。 定语从句，先行词“people”，从句“I choose to be around”，意为“我选择在我身边的人”。
+10. **lift**。
 
 # 7月30日 <a name="7.30"></a>
 

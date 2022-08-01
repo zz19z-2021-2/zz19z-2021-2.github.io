@@ -67,27 +67,36 @@
 
 # 目录
 
-1. <a href="#8.1">8月1日</a>
-2. <a href="#7.31">7月31日</a>
-3. <a href="#7.30">7月30日</a>
-4. <a href="#7.29">7月29日</a>
-5. <a href="#7.28">7月28日</a>
-6. <a href="#7.27">7月27日</a>
-7. <a href="#7.26">7月26日</a>
-8. <a href="#7.25">7月25日</a>
-9. <a href="#7.24">7月24日</a>
-10. <a href="#7.23">7月23日</a>
-11. <a href="#7.22">7月22日</a>
-12. <a href="#7.21">7月21日</a>
-13. <a href="#7.20">7月20日</a>
-14. <a href="#7.19">7月19日</a>
-15. <a href="#7.18">7月18日</a>
-16. <a href="#7.17">7月17日</a>
-17. <a href="#7.16">7月16日</a>
-18. <a href="#7.15">7月15日</a>
-19. <a href="#7.14">7月14日</a>
-20. <a href="#7.13">7月13日</a>
-21. <a href="#7.12">7月12日</a>
+1. <a href="#8.2">8月2日</a>
+2. <a href="#8.1">8月1日</a>
+3. <a href="#7.31">7月31日</a>
+4. <a href="#7.30">7月30日</a>
+5. <a href="#7.29">7月29日</a>
+6. <a href="#7.28">7月28日</a>
+7. <a href="#7.27">7月27日</a>
+8. <a href="#7.26">7月26日</a>
+9. <a href="#7.25">7月25日</a>
+10. <a href="#7.24">7月24日</a>
+11. <a href="#7.23">7月23日</a>
+12. <a href="#7.22">7月22日</a>
+13. <a href="#7.21">7月21日</a>
+14. <a href="#7.20">7月20日</a>
+15. <a href="#7.19">7月19日</a>
+16. <a href="#7.18">7月18日</a>
+17. <a href="#7.17">7月17日</a>
+18. <a href="#7.16">7月16日</a>
+19. <a href="#7.15">7月15日</a>
+20. <a href="#7.14">7月14日</a>
+21. <a href="#7.13">7月13日</a>
+22. <a href="#7.12">7月12日</a>
+
+# 8月2日 <a name="8.2"></a>
+
+今天的习题是：**1篇语篇填空。**
+
+<p style="text-indent: 33.3px; text-align: justify">Everybody knows sandwiches. They are 1.________ popular snacks that the English word “sandwich” is used all over the world. Not many people know this snack got its name more than 250 years ago from John Montagu 2.________ was the 4th Earl of Sandwich.</p>
+<p style="text-indent: 33.3px; text-align: justify">Back in 3.________ 18th century, this <span class="tooltip">aristocrat<span class="tooltiptext">贵族</span></span> asked his personal servant to bring him beef served 4.________ two pieces of bread. This special method of serving beef became the Earl’s favorite meal to eat while playing cards, because hie hands would not get <span class="tooltip">greasy<span class="tooltiptext">油污的</span></span>.</p>
+<p style="text-indent: 33.3px; text-align: justify">Soon after, the Earl's friends began to order “the same as Sandwich” when they came to visit, and the method of putting anything--bread, cheese 5.________ vegetables — between two pieces of bread became known as a “sandwich”.</p>
 
 # 8月1日 <a name="8.1"></a>
 
@@ -105,11 +114,24 @@
 <p style="text-indent: 33.3px; text-align: justify">"All right, thanks, Granny."</p>
 <p style="text-indent: 33.3px; text-align: justify">9.________ grandmother did not think anything more about his questions. Three days later, when she was tidying up and 10.________ at Jimmy's desk, she read the first sentence of his paper, “For three generations there have been no natural births in our family.”</p>
 
+## 答案与解析
+
+1. **understand**。 v.理解，不要与3.混淆。
+2. **answer**。 为了寻找一些答案。
+3. **knows**。 v.知道，不要与1.混淆。
+4. **nervous**。 adj.紧张的/不安的
+5. **with**。 talking with sb. 与某人谈话
+6. **so**。
+7. **more**。
+8. **me**。
+9. **Jimmy’s**。
+10. **looked**。
+
 # 7月31日 <a name="7.31"></a>
 
 今天是七月份的最后一天，算上今天我们已经持续练习了20天。你也许想知道你的水平如何，今天就来测试一下！我会为你提供一些帮助。
 
-今天的习题是：**1篇来自郑州市2020～2021学年九年级上学期期末考试的语篇填空**。
+今天的习题是：**1篇来自郑州市2020～2021学年九年级上学期期末考试的语篇填空。**
 
 <div style="border: 2px solid black; padding: 10px; width: 100%; text-align: center">time　once　steal　who　long　<span class="tooltip">lift<span class="tooltiptext">鼓舞</span></span>　hang　he　<span class="tooltip">badly<span class="tooltiptext">非常</span></span>　end</div>
 

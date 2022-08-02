@@ -67,28 +67,51 @@
 
 # 目录
 
-1. <a href="#8.2">8月2日</a>
-2. <a href="#8.1">8月1日</a>
-3. <a href="#7.31">7月31日</a>
-4. <a href="#7.30">7月30日</a>
-5. <a href="#7.29">7月29日</a>
-6. <a href="#7.28">7月28日</a>
-7. <a href="#7.27">7月27日</a>
-8. <a href="#7.26">7月26日</a>
-9. <a href="#7.25">7月25日</a>
-10. <a href="#7.24">7月24日</a>
-11. <a href="#7.23">7月23日</a>
-12. <a href="#7.22">7月22日</a>
-13. <a href="#7.21">7月21日</a>
-14. <a href="#7.20">7月20日</a>
-15. <a href="#7.19">7月19日</a>
-16. <a href="#7.18">7月18日</a>
-17. <a href="#7.17">7月17日</a>
-18. <a href="#7.16">7月16日</a>
-19. <a href="#7.15">7月15日</a>
-20. <a href="#7.14">7月14日</a>
-21. <a href="#7.13">7月13日</a>
-22. <a href="#7.12">7月12日</a>
+1. <a href="#8.3">8月3日</a>
+2. <a href="#8.2">8月2日</a>
+3. <a href="#8.1">8月1日</a>
+4. <a href="#7.31">7月31日</a>
+5. <a href="#7.30">7月30日</a>
+6. <a href="#7.29">7月29日</a>
+7. <a href="#7.28">7月28日</a>
+8. <a href="#7.27">7月27日</a>
+9. <a href="#7.26">7月26日</a>
+10. <a href="#7.25">7月25日</a>
+11. <a href="#7.24">7月24日</a>
+12. <a href="#7.23">7月23日</a>
+13. <a href="#7.22">7月22日</a>
+14. <a href="#7.21">7月21日</a>
+15. <a href="#7.20">7月20日</a>
+16. <a href="#7.19">7月19日</a>
+17. <a href="#7.18">7月18日</a>
+18. <a href="#7.17">7月17日</a>
+19. <a href="#7.16">7月16日</a>
+20. <a href="#7.15">7月15日</a>
+21. <a href="#7.14">7月14日</a>
+22. <a href="#7.13">7月13日</a>
+23. <a href="#7.12">7月12日</a>
+
+# 8月3日 <a name="8.3"></a>
+
+今天的习题是：**1篇语篇填空。**
+
+<div style="border: 2px solid black; padding: 10px; width: 100%; text-align: center">need　where　just　into　short　you　strange　month　tell　return</div>
+
+<p style="text-indent: 33.3px; text-align: justify">A man and his wife were awakened at 3:00 a. m. by a loud pounding on the door. The man got up and went to the door where a drunken 1.________, standing in the pouring rain, was asking for a push.</p>
+<p style="text-indent: 33.3px; text-align: justify">“Not a chance,” said the husband. “It is 3:00 in the morning!”</p>
+<p style="text-indent: 33.3px; text-align: justify">He <span class="tooltip">slammed<span class="tooltiptext">砰地关上</span></span> the door and 2.________ to bed.</p>
+<p style="text-indent: 33.3px; text-align: justify">“Who was that?” asked his wife.</p>
+<p style="text-indent: 33.3px; text-align: justify">“3.________ some drunken guy asking for a push,” he answered.</p>
+<p style="text-indent: 33.3px; text-align: justify">“Did you help him?” she asked.</p>
+<p style="text-indent: 33.3px; text-align: justify">“No, I did not. It is 3:00 in the morning and it is pouring rain out there!”</p>
+<p style="text-indent: 33.3px; text-align: justify">“Well, you have a 4.________ memory.” said his wife. “Can’t you remember about three 5.________ ago when we broke down, those two guys helped us? I think you should help him, and you should be <span class="tooltip">ashamed<span class="tooltiptext">羞愧的</span></span> of 6.________! God loves drunken people, too.”</p>
+<p style="text-indent: 33.3px; text-align: justify">The man did as he was 7.________, got dressed, and went out into the pounding rain.</p>
+<p style="text-indent: 33.3px; text-align: justify">He called out 8.________ the dark, “Hello, are you still there?”</p>
+<p style="text-indent: 33.3px; text-align: justify">“Yes,” came back the answer.</p>
+<p style="text-indent: 33.3px; text-align: justify">“Do you still 9.________ a push?” called out the husband.</p>
+<p style="text-indent: 33.3px; text-align: justify">“Yes, please!” came the reply from the dark.</p>
+<p style="text-indent: 33.3px; text-align: justify">“10.________ are you?” asked the husband.</p>
+<p style="text-indent: 33.3px; text-align: justify">“Over here on the <span class="tooltip">swing set<span class="tooltiptext">秋千</span></span>,” replied the drunk.</p>
 
 # 8月2日 <a name="8.2"></a>
 
@@ -96,7 +119,15 @@
 
 <p style="text-indent: 33.3px; text-align: justify">Everybody knows sandwiches. They are 1.________ popular snacks that the English word “sandwich” is used all over the world. Not many people know this snack got its name more than 250 years ago from John Montagu 2.________ was the 4th Earl of Sandwich.</p>
 <p style="text-indent: 33.3px; text-align: justify">Back in 3.________ 18th century, this <span class="tooltip">aristocrat<span class="tooltiptext">贵族</span></span> asked his personal servant to bring him beef served 4.________ two pieces of bread. This special method of serving beef became the Earl’s favorite meal to eat while playing cards, because hie hands would not get <span class="tooltip">greasy<span class="tooltiptext">油污的</span></span>.</p>
-<p style="text-indent: 33.3px; text-align: justify">Soon after, the Earl's friends began to order “the same as Sandwich” when they came to visit, and the method of putting anything--bread, cheese 5.________ vegetables — between two pieces of bread became known as a “sandwich”.</p>
+<p style="text-indent: 33.3px; text-align: justify">Soon after, the Earl's friends began to order “the same as Sandwich” when they came to visit, and the method of putting anything — bread, cheese 5.________ vegetables — between two pieces of bread became known as a “sandwich”.</p>
+
+## 答案与解析
+
+1. **so**。 so … that … 太……以至于
+2. **who**。 earl n.伯爵
+3. **the**。 century n.世纪
+4. **between**。
+5. **and**。
 
 # 8月1日 <a name="8.1"></a>
 

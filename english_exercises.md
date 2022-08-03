@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="style.css">
+﻿<link rel="stylesheet" type="text/css" href="style.css">
 <style>
 .tooltip {
   position: relative;
@@ -67,6 +67,7 @@
 
 # 目录
 
+1. <a href="#8.4">8月4日</a>
 1. <a href="#8.3">8月3日</a>
 2. <a href="#8.2">8月2日</a>
 3. <a href="#8.1">8月1日</a>
@@ -91,6 +92,12 @@
 22. <a href="#7.13">7月13日</a>
 23. <a href="#7.12">7月12日</a>
 
+# 8月4日 <a name="8.4"></a>
+
+今天的习题是：**1篇语篇填空。**
+
+<p style="text-indent: 33.3px; text-align: justify">In summer, I always went swimming in a pool with my best friend, Ben. 1.________ one pleasant afternoon, Ben took a kite with him. “What’s with the kite?” I asked. Ben smiled at me and said, “We need the kite for swimming.” His blue eyes 2.________ shining. With such a clever friend, I got used 3.________ hearing crazy ideas. I just shook my head, “I’d like to see how you do it.” Half 4.________ hour later, we were standing on the bank of the pool. Ben held his crazy kite in one hand and a log in the other. He sat on the bank, took off his shoes, and tied the end of kite thread to his foot. Then he flew the kite into the air and let the wind catch it. The kite rose over the swimming pool. Ben jumped into the pool. He threw one arm over his log 5.________ let the kite pull him across the pool. “This is fantastic!” I cried. “It’s a flying sail!”</p>
+
 # 8月3日 <a name="8.3"></a>
 
 今天的习题是：**1篇语篇填空。**
@@ -113,13 +120,28 @@
 <p style="text-indent: 33.3px; text-align: justify">“10.________ are you?” asked the husband.</p>
 <p style="text-indent: 33.3px; text-align: justify">“Over here on the <span class="tooltip">swing set<span class="tooltiptext">秋千</span></span>,” replied the drunk.</p>
 
+## 答案与解析
+
+1. **stranger**。 strange adj.奇怪的， stranger n.陌生人
+2. **returned**。
+3. **Just**。
+4. **short**。
+5. **months**。
+6. **yourself**。 be ashamed of sb. 对某人羞愧
+7. **told**。 被告诉。
+8. **into**。
+9. **need**。
+10. **Where**。
+
+
+
 # 8月2日 <a name="8.2"></a>
 
 今天的习题是：**1篇语篇填空。**
 
 <p style="text-indent: 33.3px; text-align: justify">Everybody knows sandwiches. They are 1.________ popular snacks that the English word “sandwich” is used all over the world. Not many people know this snack got its name more than 250 years ago from John Montagu 2.________ was the 4th Earl of Sandwich.</p>
 <p style="text-indent: 33.3px; text-align: justify">Back in 3.________ 18th century, this <span class="tooltip">aristocrat<span class="tooltiptext">贵族</span></span> asked his personal servant to bring him beef served 4.________ two pieces of bread. This special method of serving beef became the Earl’s favorite meal to eat while playing cards, because hie hands would not get <span class="tooltip">greasy<span class="tooltiptext">油污的</span></span>.</p>
-<p style="text-indent: 33.3px; text-align: justify">Soon after, the Earl's friends began to order “the same as Sandwich” when they came to visit, and the method of putting anything — bread, cheese 5.________ vegetables — between two pieces of bread became known as a “sandwich”.</p>
+<p style="text-indent: 33.3px; text-align: justify">Soon after, the Earl’s friends began to order “the same as Sandwich” when they came to visit, and the method of putting anything — bread, cheese 5.________ vegetables — between two pieces of bread became known as a “sandwich”.</p>
 
 ## 答案与解析
 

@@ -43,9 +43,6 @@
 }
 </style>
 
-
-
-
 <div class="btn-group">
 <a href="https://zz19z-2021-2.github.io/"><button class="button">首页</button></a>
 <a href="https://zz19z-2021-2.github.io/overview.html"><button class="button">内容总览</button></a>
@@ -67,36 +64,53 @@
 
 # 目录
 
-1. <a href="#8.4">8月4日</a>
-1. <a href="#8.3">8月3日</a>
-2. <a href="#8.2">8月2日</a>
-3. <a href="#8.1">8月1日</a>
-4. <a href="#7.31">7月31日</a>
-5. <a href="#7.30">7月30日</a>
-6. <a href="#7.29">7月29日</a>
-7. <a href="#7.28">7月28日</a>
-8. <a href="#7.27">7月27日</a>
-9. <a href="#7.26">7月26日</a>
-10. <a href="#7.25">7月25日</a>
-11. <a href="#7.24">7月24日</a>
-12. <a href="#7.23">7月23日</a>
-13. <a href="#7.22">7月22日</a>
-14. <a href="#7.21">7月21日</a>
-15. <a href="#7.20">7月20日</a>
-16. <a href="#7.19">7月19日</a>
-17. <a href="#7.18">7月18日</a>
-18. <a href="#7.17">7月17日</a>
-19. <a href="#7.16">7月16日</a>
-20. <a href="#7.15">7月15日</a>
-21. <a href="#7.14">7月14日</a>
-22. <a href="#7.13">7月13日</a>
-23. <a href="#7.12">7月12日</a>
+1. <a href="#8.5">8月5日</a>
+2. <a href="#8.4">8月4日</a>
+3. <a href="#8.3">8月3日</a>
+4. <a href="#8.2">8月2日</a>
+5. <a href="#8.1">8月1日</a>
+6. <a href="#7.31">7月31日</a>
+7. <a href="#7.30">7月30日</a>
+8. <a href="#7.29">7月29日</a>
+9. <a href="#7.28">7月28日</a>
+10. <a href="#7.27">7月27日</a>
+11. <a href="#7.26">7月26日</a>
+12. <a href="#7.25">7月25日</a>
+13. <a href="#7.24">7月24日</a>
+14. <a href="#7.23">7月23日</a>
+15. <a href="#7.22">7月22日</a>
+16. <a href="#7.21">7月21日</a>
+17. <a href="#7.20">7月20日</a>
+18. <a href="#7.19">7月19日</a>
+19. <a href="#7.18">7月18日</a>
+20. <a href="#7.17">7月17日</a>
+21. <a href="#7.16">7月16日</a>
+22. <a href="#7.15">7月15日</a>
+23. <a href="#7.14">7月14日</a>
+24. <a href="#7.13">7月13日</a>
+25. <a href="#7.12">7月12日</a>
+
+# 8月5日 <a name="8.4"></a>
+
+今天的习题是：**1篇语篇填空。**
+
+<div style="border: 2px solid black; padding: 10px; width: 100%; text-align: center">so　ask　friend　three　her　talk　start　later　like　interest</div>
+
+<p style="text-indent: 33.3px; text-align: justify">Once, there was a little girl named Meredith. Meredith enjoyed spending 1.________ free time with her friends, but there was something different about Meredith. She was always interested in thing 2.________ chemistry and history. Meredith never wanted to 3.________ about these interests because she was afraid she would be <span class="tooltip">judged<span class="tooltiptext">评头论足</span></span>. She always learned more about these topics when she was by herself, 4.________ no one could find out about this. One day, a new girl, Josie, joined her sixth-grade class, and the new girl was 5.________ to say three things about herself. Josie stood up and 6.________ to talk about her interests. First, she said she was 7.________ in reading and writing stories. Second, she said she liked history. 8.________, she said she enjoyed chemistry. Meredith’s eyes lit up with joy. Finally, she had found someone who had common interests as her. 9.________ that day, Meredith found Josie on the playground and ran over to talk to her. They <span class="tooltip">immediately<span class="tooltiptext">立即</span></span> became 10.________ and started to play at each other’s houses on the weekend.</p>
 
 # 8月4日 <a name="8.4"></a>
 
 今天的习题是：**1篇语篇填空。**
 
-<p style="text-indent: 33.3px; text-align: justify">In summer, I always went swimming in a pool with my best friend, Ben. 1.________ one pleasant afternoon, Ben took a kite with him. “What’s with the kite?” I asked. Ben smiled at me and said, “We need the kite for swimming.” His blue eyes 2.________ shining. With such a clever friend, I got used 3.________ hearing crazy ideas. I just shook my head, “I’d like to see how you do it.” Half 4.________ hour later, we were standing on the bank of the pool. Ben held his crazy kite in one hand and a log in the other. He sat on the bank, took off his shoes, and tied the end of kite thread to his foot. Then he flew the kite into the air and let the wind catch it. The kite rose over the swimming pool. Ben jumped into the pool. He threw one arm over his log 5.________ let the kite pull him across the pool. “This is fantastic!” I cried. “It’s a flying sail!”</p>
+<p style="text-indent: 33.3px; text-align: justify">In summer, I always went swimming in a pool with my best friend, Ben. 1.________ one pleasant afternoon, Ben took a kite with him. “What’s with the kite?” I asked. Ben smiled at me and said, “We need the kite for swimming.” His blue eyes 2.________ shining. With such a clever friend, I got used 3.________ hearing crazy ideas. I just shook my head, “I’d like to see how you do it.” Half 4.________ hour later, we were standing on the bank of the pool. Ben held his crazy kite in one hand and a <span class="tooltip">log<span class="tooltiptext">圆木</span></span> in the other. He sat on the bank, took off his shoes, and tied the end of kite thread to his foot. Then he flew the kite into the air and let the wind catch it. The kite rose over the swimming pool. Ben jumped into the pool. He threw one arm over his log 5.________ let the kite pull him across the pool. “This is fantastic!” I cried. “It’s a flying sail!”</p>
+
+## 答案与解析
+
+1. **On**。 on + 具体某天上下午晚
+2. **was**。
+3. **to**。 get used to doing 习惯做某事
+4. **an**。 half an hour 半小时
+5. **to**。 to do 表目的
 
 # 8月3日 <a name="8.3"></a>
 
@@ -132,8 +146,6 @@
 8. **into**。
 9. **need**。
 10. **Where**。
-
-
 
 # 8月2日 <a name="8.2"></a>
 
@@ -292,12 +304,11 @@
 3. **thought**。
 4. **feet**。
 5. **walk**。
-6.  **my**。
+6. **my**。
 7. **from**。 protect from … 保护不受……伤害
 8. **baby**。
 9. **when**。
 10. **useful**。
-
 
 # 7月26日 <a name="7.26"></a>
 
@@ -394,7 +405,6 @@ A. had　　B. have had　　C. was having　　D. have
 4. **What**。 感叹句，what修饰名词，how形容形容词/副词。drop *countable noun* 滴
 5. **the**。 sun n.太阳 独一无二事物前用定冠词the。
 
-
 # 7月22日 <a name="7.22"></a>
 
 今天的习题是：**1篇语篇填空。**
@@ -444,13 +454,13 @@ A. had　　B. have had　　C. was having　　D. have
 1. **gifts**。 pick out 选出
 2. **but**。 表转折。
 3. **surprised**。 同根形容词，-ed修饰人（惊讶的）。
-3. **about**。 关于。介词后跟动名词。
-3. **their**。
-3. **used**。 被动语态 be done
-3. **Usually**。 频率副词，修饰整句。
-3. **collect**。 v.收集
-3. **What**。
-3. **try**。
+4. **about**。 关于。介词后跟动名词。
+5. **their**。
+6. **used**。 被动语态 be done
+7. **Usually**。 频率副词，修饰整句。
+8. **collect**。 v.收集
+9. **What**。
+10. **try**。
 
 # 7月20日 <a name="7.20"></a>
 
@@ -469,7 +479,6 @@ And 2.________ is a strong wind blowing. Please stay here tonight.” She went t
 3. **for**。
 4. **of**。 房子的后门。不是behind，behind表示“在房子后面”（理解起来就是后花园里摆着一个门）。
 5. **a**。 smile *countable noun* 微笑
-
 
 # 7月19日 <a name="7.19"></a>
 
@@ -590,7 +599,6 @@ A. prepared　　B. am preparing　　C. was preparing　　D. have prepared
 4. **did**。work原形，时态过去，用一般过去时（Edward已不再为以前的经理工作，不能用现在完成时）。
 5. **with**。stay with sth./sb.
 
-
 # 7月14日 <a name="7.14"></a>
 
 今天的习题是：**1篇完形填空。**
@@ -633,9 +641,7 @@ A. that　　B. which　　C. who　　D. what
 
 —I \_\_\_\_\_\_\_\_ it. It’s clean and tidy now. Mind your own business.
 
-
 A. have cleaned　　B. cleaned　　C. clean　　D. will clean
-
 
 ## 第3题
 
@@ -664,7 +670,7 @@ A. what; done　　B. that; already done　　C. what; already　　D. what; bee
 3. **A**。 【过去时】“when he was away from home on business”，交代具体时间点，故用called。
 
 4. **D**。 【感叹句】陈述句语序为“You can’t imagine we had difficulty solving the problem.”（你无法想象我们解决问题时的困难），注意短语“have fun/difficult/trouble... (in) doing sth.”。 感叹句语序调整，不影响动词形式。在这里，“we had difficulty solving the problem”（我们解决问题时的困难）修改为了“what difficulty we had solving the problem”（我们解决问题时的困难有多大啊）。感叹句：what + n. + 原句语序 或 how + adj./adv. + 原句语序。
-
+   
     附加题 **B**。 【定语从句】主句“has all already done”，从句“all can be done”。
 
 # 7月12日 <a name="7.12"></a>

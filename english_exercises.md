@@ -64,39 +64,68 @@
 
 # 目录
 
-1. <a href="#8.5">8月5日</a>
-2. <a href="#8.4">8月4日</a>
-3. <a href="#8.3">8月3日</a>
-4. <a href="#8.2">8月2日</a>
-5. <a href="#8.1">8月1日</a>
-6. <a href="#7.31">7月31日</a>
-7. <a href="#7.30">7月30日</a>
-8. <a href="#7.29">7月29日</a>
-9. <a href="#7.28">7月28日</a>
-10. <a href="#7.27">7月27日</a>
-11. <a href="#7.26">7月26日</a>
-12. <a href="#7.25">7月25日</a>
-13. <a href="#7.24">7月24日</a>
-14. <a href="#7.23">7月23日</a>
-15. <a href="#7.22">7月22日</a>
-16. <a href="#7.21">7月21日</a>
-17. <a href="#7.20">7月20日</a>
-18. <a href="#7.19">7月19日</a>
-19. <a href="#7.18">7月18日</a>
-20. <a href="#7.17">7月17日</a>
-21. <a href="#7.16">7月16日</a>
-22. <a href="#7.15">7月15日</a>
-23. <a href="#7.14">7月14日</a>
-24. <a href="#7.13">7月13日</a>
-25. <a href="#7.12">7月12日</a>
+1. <a href="#8.6">8月6日</a>
+2. <a href="#8.5">8月5日</a>
+3. <a href="#8.4">8月4日</a>
+4. <a href="#8.3">8月3日</a>
+5. <a href="#8.2">8月2日</a>
+6. <a href="#8.1">8月1日</a>
+7. <a href="#7.31">7月31日</a>
+8. <a href="#7.30">7月30日</a>
+9. <a href="#7.29">7月29日</a>
+10. <a href="#7.28">7月28日</a>
+11. <a href="#7.27">7月27日</a>
+12. <a href="#7.26">7月26日</a>
+13. <a href="#7.25">7月25日</a>
+14. <a href="#7.24">7月24日</a>
+15. <a href="#7.23">7月23日</a>
+16. <a href="#7.22">7月22日</a>
+17. <a href="#7.21">7月21日</a>
+18. <a href="#7.20">7月20日</a>
+19. <a href="#7.19">7月19日</a>
+20. <a href="#7.18">7月18日</a>
+21. <a href="#7.17">7月17日</a>
+22. <a href="#7.16">7月16日</a>
+23. <a href="#7.15">7月15日</a>
+24. <a href="#7.14">7月14日</a>
+25. <a href="#7.13">7月13日</a>
+26. <a href="#7.12">7月12日</a>
 
-# 8月5日 <a name="8.4"></a>
+# 8月6日 <a name="8.6"></a>
+
+今天的习题是：**1篇语篇填空。**
+
+<p style="text-indent: 33.3px; text-align: justify">I think I have the greatest friends in the world. They are just 1.________ important to me as family. In fact, they are my family, really. My best friends and I all grew 2.________ together and shared so many experiences together. I would do anything for my friends and I’m sure they’d do anything for me. I’ sure there’s nothing in the world 3.________ could stop us from being friends. I have also made lots of other good friends from university and the different places I 4.________ worked. They are also important to me. We are now all over the world and it’s sometimes difficult 5.________ meet each other, but we stay in touch. One day I’d like to get all of my friends together for a big party. That would be great fun.</p>
+
+# 8月5日 <a name="8.5"></a>
 
 今天的习题是：**1篇语篇填空。**
 
 <div style="border: 2px solid black; padding: 10px; width: 100%; text-align: center">so　ask　friend　three　her　talk　start　later　like　interest</div>
 
 <p style="text-indent: 33.3px; text-align: justify">Once, there was a little girl named Meredith. Meredith enjoyed spending 1.________ free time with her friends, but there was something different about Meredith. She was always interested in thing 2.________ chemistry and history. Meredith never wanted to 3.________ about these interests because she was afraid she would be <span class="tooltip">judged<span class="tooltiptext">评头论足</span></span>. She always learned more about these topics when she was by herself, 4.________ no one could find out about this. One day, a new girl, Josie, joined her sixth-grade class, and the new girl was 5.________ to say three things about herself. Josie stood up and 6.________ to talk about her interests. First, she said she was 7.________ in reading and writing stories. Second, she said she liked history. 8.________, she said she enjoyed chemistry. Meredith’s eyes lit up with joy. Finally, she had found someone who had common interests as her. 9.________ that day, Meredith found Josie on the playground and ran over to talk to her. They <span class="tooltip">immediately<span class="tooltiptext">立即</span></span> became 10.________ and started to play at each other’s houses on the weekend.</p>
+
+## 答案与解析
+
+1. **her**。
+
+2. **about**。
+
+3. **talk**。
+
+4. **so**。
+
+5. **asked**。 be done 被动语态， be asked to do sth. 被要求做某事
+
+6. **start**。
+
+7. **interested**。
+
+8. **Third**。 First … Second … Third …
+
+9. **Later**。
+
+10. **friends**。
 
 # 8月4日 <a name="8.4"></a>
 

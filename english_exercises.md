@@ -1,4 +1,4 @@
-﻿<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" type="text/css" href="style.css">
 <style>
 .tooltip {
   position: relative;
@@ -64,6 +64,7 @@
 
 # 目录
 
+1. <a href="#8.7">8月7日</a>
 1. <a href="#8.6">8月6日</a>
 2. <a href="#8.5">8月5日</a>
 3. <a href="#8.4">8月4日</a>
@@ -91,11 +92,30 @@
 25. <a href="#7.13">7月13日</a>
 26. <a href="#7.12">7月12日</a>
 
+# 8月7日 <a name="8.7"></a>
+
+今天的习题是：**1篇语篇填空。**
+
+<div style="border: 2px solid black; padding: 10px; width: 100%; text-align: center">boy　promise　during　door　big　because　hour　take　there　like</div>
+
+<p style="text-indent: 33.3px; text-align: justify">The summer holiday was coming but Zach was a little sad. He would have to move 1.________ the holiday, leaving his friends and his tree house. The tree house was Zach’s favorite place to go to when he wanted to be alone. He also liked 2.________ his friends there. They would play for 3.________.</p>
+<p style="text-indent: 33.3px; text-align: justify">Zach told his mom, “I don’t want to move. I’m going to miss my friends. I’m also going to miss my tree house. I want to take it with me.” “Zach, but we have to 4.________ your father’s changed his job. He is already 5.________ waiting for us. You will have a much 6.________ bedroom, and you will meet new friends at your new school,” 7.________ his mom. Zach wasn’t so sure.</p>
+<p style="text-indent: 33.3px; text-align: justify">When Zach and his mom arrived, Dad took Zach to the backyard. There, Zach saw a big tree house. “Wow!” Zach shouted. “This is great!” All of a sudden, Zach heard a 8.________ voice. “Are you moving in? My name is Joey and I live next 9.________. Can I have a look at your tree house?”</p>
+<p style="text-indent: 33.3px; text-align: justify">“I think I’m going to 10.________ it here after all!” Zach told his mom and dad that night.</p>
+
 # 8月6日 <a name="8.6"></a>
 
 今天的习题是：**1篇语篇填空。**
 
 <p style="text-indent: 33.3px; text-align: justify">I think I have the greatest friends in the world. They are just 1.________ important to me as family. In fact, they are my family, really. My best friends and I all grew 2.________ together and shared so many experiences together. I would do anything for my friends and I’m sure they’d do anything for me. I’ sure there’s nothing in the world 3.________ could stop us from being friends. I have also made lots of other good friends from university and the different places I 4.________ worked. They are also important to me. We are now all over the world and it’s sometimes difficult 5.________ meet each other, but we stay in touch. One day I’d like to get all of my friends together for a big party. That would be great fun.</p>
+
+## 答案与解析
+
+1. **as**。 原级比较 as … as
+2. **up**。 grow up 长大
+3. **that**。 先行词“world”，被“nothing”复合不定代词修饰，连接词只能用that。
+4. **have**。 have done 现在完成时
+5. **to**。 it做形式宾语，真主语 to do 不定式。
 
 # 8月5日 <a name="8.5"></a>
 
@@ -108,23 +128,14 @@
 ## 答案与解析
 
 1. **her**。
-
 2. **about**。
-
 3. **talk**。
-
 4. **so**。
-
 5. **asked**。 be done 被动语态， be asked to do sth. 被要求做某事
-
 6. **start**。
-
 7. **interested**。
-
 8. **Third**。 First … Second … Third …
-
 9. **Later**。
-
 10. **friends**。
 
 # 8月4日 <a name="8.4"></a>
@@ -206,7 +217,7 @@
 <p style="text-indent: 33.3px; text-align: justify">“Well, then where did you come from?”</p>
 <p style="text-indent: 33.3px; text-align: justify">“The <span class="tooltip">stork<span class="tooltiptext">鹳鸟</span></span> brought 8.________ too, sweetie.”</p>
 <p style="text-indent: 33.3px; text-align: justify">"All right, thanks, Granny."</p>
-<p style="text-indent: 33.3px; text-align: justify">9.________ grandmother did not think anything more about his questions. Three days later, when she was tidying up and 10.________ at Jimmy's desk, she read the first sentence of his paper, “For three generations there have been no natural births in our family.”</p>
+<p style="text-indent: 33.3px; text-align: justify">9.________ grandmother did not think anything more about his questions. Three days later, when she was tidying up and 10.________ at Jimm's desk, she read the first sentence of his paper, “For three generations there have been no natural births in our family.”</p>
 
 ## 答案与解析
 

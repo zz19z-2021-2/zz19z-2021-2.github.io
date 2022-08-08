@@ -235,7 +235,7 @@
 <p style="text-indent: 33.3px; text-align: justify">“Well, then where did you come from?”</p>
 <p style="text-indent: 33.3px; text-align: justify">“The <span class="tooltip">stork<span class="tooltiptext">鹳鸟</span></span> brought 8.________ too, sweetie.”</p>
 <p style="text-indent: 33.3px; text-align: justify">"All right, thanks, Granny."</p>
-<p style="text-indent: 33.3px; text-align: justify">9.________ grandmother did not think anything more about his questions. Three days later, when she was tidying up and 10.________ at Jimm's desk, she read the first sentence of his paper, “For three generations there have been no natural births in our family.”</p>
+<p style="text-indent: 33.3px; text-align: justify">9.________ grandmother did not think anything more about his questions. Three days later, when she was tidying up and 10.________ at Jimmy's desk, she read the first sentence of his paper, “For three generations there have been no natural births in our family.”</p>
 
 ## 答案与解析
 

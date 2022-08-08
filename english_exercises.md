@@ -64,33 +64,38 @@
 
 # 目录
 
-1. <a href="#8.7">8月7日</a>
-1. <a href="#8.6">8月6日</a>
-2. <a href="#8.5">8月5日</a>
-3. <a href="#8.4">8月4日</a>
-4. <a href="#8.3">8月3日</a>
-5. <a href="#8.2">8月2日</a>
-6. <a href="#8.1">8月1日</a>
-7. <a href="#7.31">7月31日</a>
-8. <a href="#7.30">7月30日</a>
-9. <a href="#7.29">7月29日</a>
-10. <a href="#7.28">7月28日</a>
-11. <a href="#7.27">7月27日</a>
-12. <a href="#7.26">7月26日</a>
-13. <a href="#7.25">7月25日</a>
-14. <a href="#7.24">7月24日</a>
-15. <a href="#7.23">7月23日</a>
-16. <a href="#7.22">7月22日</a>
-17. <a href="#7.21">7月21日</a>
-18. <a href="#7.20">7月20日</a>
-19. <a href="#7.19">7月19日</a>
-20. <a href="#7.18">7月18日</a>
-21. <a href="#7.17">7月17日</a>
-22. <a href="#7.16">7月16日</a>
-23. <a href="#7.15">7月15日</a>
-24. <a href="#7.14">7月14日</a>
-25. <a href="#7.13">7月13日</a>
-26. <a href="#7.12">7月12日</a>
+1. <a href="#8.8">8月8日……</a>
+2. <a href="#8.7">8月7日</a>
+3. <a href="#8.6">8月6日</a>
+4. <a href="#8.5">8月5日</a>
+5. <a href="#8.4">8月4日</a>
+6. <a href="#8.3">8月3日</a>
+7. <a href="#8.2">8月2日</a>
+8. <a href="#8.1">8月1日</a>
+9. <a href="#7.31">7月31日</a>
+10. <a href="#7.30">7月30日</a>
+11. <a href="#7.29">7月29日</a>
+12. <a href="#7.28">7月28日</a>
+13. <a href="#7.27">7月27日</a>
+14. <a href="#7.26">7月26日</a>
+15. <a href="#7.25">7月25日</a>
+16. <a href="#7.24">7月24日</a>
+17. <a href="#7.23">7月23日</a>
+18. <a href="#7.22">7月22日</a>
+19. <a href="#7.21">7月21日</a>
+20. <a href="#7.20">7月20日</a>
+21. <a href="#7.19">7月19日</a>
+22. <a href="#7.18">7月18日</a>
+23. <a href="#7.17">7月17日</a>
+24. <a href="#7.16">7月16日</a>
+25. <a href="#7.15">7月15日</a>
+26. <a href="#7.14">7月14日</a>
+27. <a href="#7.13">7月13日</a>
+28. <a href="#7.12">7月12日</a>
+
+# 8月8日…… <a name="8.8"></a>
+
+恭喜！四周期限已到，今天起不会再有新练习了！如果你做了昨天的练习，快去[对答案](#8.7.key)吧！
 
 # 8月7日 <a name="8.7"></a>
 
@@ -102,6 +107,19 @@
 <p style="text-indent: 33.3px; text-align: justify">Zach told his mom, “I don’t want to move. I’m going to miss my friends. I’m also going to miss my tree house. I want to take it with me.” “Zach, but we have to 4.________ your father’s changed his job. He is already 5.________ waiting for us. You will have a much 6.________ bedroom, and you will meet new friends at your new school,” 7.________ his mom. Zach wasn’t so sure.</p>
 <p style="text-indent: 33.3px; text-align: justify">When Zach and his mom arrived, Dad took Zach to the backyard. There, Zach saw a big tree house. “Wow!” Zach shouted. “This is great!” All of a sudden, Zach heard a 8.________ voice. “Are you moving in? My name is Joey and I live next 9.________. Can I have a look at your tree house?”</p>
 <p style="text-indent: 33.3px; text-align: justify">“I think I’m going to 10.________ it here after all!” Zach told his mom and dad that night.</p>
+
+## 答案与解析 <a name="8.7.key"></a>
+
+1. **during**。 在暑假期间搬走。
+2. **taking**。 like doing sth.
+3. **hours**。 for + 时间段 ; 没有冠词加复数
+4. **because**。 have to 不得不 （做出来是不是就通了？）
+5. **there**。 地点副词前不加冠词。
+6. **bigger**。 much + adj.比较级 大很多/少很多 等
+7. **promised**。
+8. **boy’s**。
+9. **door**。 next door 隔壁
+10. **like**。
 
 # 8月6日 <a name="8.6"></a>
 

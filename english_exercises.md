@@ -125,7 +125,7 @@
 
 今天的习题是：**1篇语篇填空。**
 
-<p style="text-indent: 33.3px; text-align: justify">I think I have the greatest friends in the world. They are just 1.________ important to me as family. In fact, they are my family, really. My best friends and I all grew 2.________ together and shared so many experiences together. I would do anything for my friends and I’m sure they’d do anything for me. I’ sure there’s nothing in the world 3.________ could stop us from being friends. I have also made lots of other good friends from university and the different places I 4.________ worked. They are also important to me. We are now all over the world and it’s sometimes difficult 5.________ meet each other, but we stay in touch. One day I’d like to get all of my friends together for a big party. That would be great fun.</p>
+<p style="text-indent: 33.3px; text-align: justify">I think I have the greatest friends in the world. They are just 1.________ important to me as family. In fact, they are my family, really. My best friends and I all grew 2.________ together and shared so many experiences together. I would do anything for my friends and I’m sure they’d do anything for me. I’m sure there’s nothing in the world 3.________ could stop us from being friends. I have also made lots of other good friends from university and the different places I 4.________ worked. They are also important to me. We are now all over the world and it’s sometimes difficult 5.________ meet each other, but we stay in touch. One day I’d like to get all of my friends together for a big party. That would be great fun.</p>
 
 ## 答案与解析
 

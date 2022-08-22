@@ -26,11 +26,11 @@
 
 <div class="btn-group">
 <a href="https://zz19z-2021-2.github.io/七年级上册｜期末考试优秀作文.html"><button class="button">七年级上册｜期末考试优秀作文</button></a>
-<a href="https://zz19z-2021-2.github.io/笑草说.html"><button class="button">“笑草说”主题汇总</button></a>
+<a href="https://zz19z-2021-2.github.io/七年级｜笑草说.html"><button class="button">七年级｜“笑草说”主题汇总</button></a>
 <a href="https://zz19z-2021-2.github.io/七年级下册｜两弹一星.html"><button class="button">七年级下册｜两弹一星”</button></a>
 <a href="https://zz19z-2021-2.github.io/2022元旦联欢会.html"><button class="button">2022元旦联欢会</button></a>
 <a href="https://zz19z-2021-2.github.io/七年级｜阅读组合训练答案｜第二册.html"><button class="button">七年级｜阅读组合训练答案｜第二册</button></a>
-<a href="https://zz19z-2021-2.github.io/english_exercises.html"><button class="button">每日英语练习｜暑假篇</button></a>
+<a href="https://zz19z-2021-2.github.io/七年级下册｜暑假英语练习.html"><button class="button">七年级下册｜暑假英语练习</button></a>
 </div>
 <p style="clear:both"></p>
 <br />

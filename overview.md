@@ -31,6 +31,9 @@
 <a href="https://zz19z-2021-2.github.io/2022元旦联欢会.html"><button class="button">2022元旦联欢会</button></a>
 <a href="https://zz19z-2021-2.github.io/七年级｜阅读组合训练答案｜第二册.html"><button class="button">七年级｜阅读组合训练答案｜第二册</button></a>
 <a href="https://zz19z-2021-2.github.io/七年级下册｜暑假英语练习.html"><button class="button">七年级下册｜暑假英语练习</button></a>
+<a href="https://zz19z-2021-2.github.io/八年级上册｜学习资料整理.html"><button class="button">八年级上册｜学习资料整理</button></a>
+<a href="https://zz19z-2021-2.github.io/八年级上册｜数学学习资料整理.html"><button class="button">八年级上册｜数学学习资料整理</button></a>
 </div>
 <p style="clear:both"></p>
+
 <br />

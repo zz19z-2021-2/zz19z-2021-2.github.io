@@ -3,7 +3,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/css/bootstrap.min.css" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/js/bootstrap.bundle.min.js"></script>
-<script src="/header.js" type="text/javascript"></script>
 
 # 内容总览
 
@@ -11,34 +10,52 @@
 
 ---
 
-<div class="btn-group">
-<a href="https://zz19z-2021-2.github.io/"><button class="button group-right">首页</button></a>
-</div>
-<p style="clear:both"></p>
-<br />
+<a type="button" href="/index.html" class="btn btn-primary">首页</button>
 
 ---
 
 <div class="btn-group">
-<a href="https://zz19z-2021-2.github.io/feedback.html"><button class="button">反馈 / 帮助</button></a>
-<a href="https://zz19z-2021-2.github.io/overview.html"><button class="button">内容总览</button></a>
-<a href="https://zz19z-2021-2.github.io/Spaces/spaces.html"><button class="button">个人空间</button></a>
+<a type="button" href="/feedback.html" class="btn btn-outline-primary">反馈 / 帮助</button></a>
+<a type="button" href="/overview.html" class="btn btn-outline-primary">内容总览</button></a>
+<a type="button" href="/Spaces/spaces.html" class="btn btn-outline-primary disabled">个人空间</button></a>
 </div>
-<p style="clear:both"></p>
-<br />
 
 ---
 
-<div class="btn-group">
-<a href="https://zz19z-2021-2.github.io/七年级上册｜期末考试优秀作文.html"><button class="button">七年级上册｜期末考试优秀作文</button></a>
-<a href="https://zz19z-2021-2.github.io/七年级｜笑草说.html"><button class="button">七年级｜“笑草说”主题汇总</button></a>
-<a href="https://zz19z-2021-2.github.io/七年级下册｜两弹一星.html"><button class="button">七年级下册｜两弹一星”</button></a>
-<a href="https://zz19z-2021-2.github.io/2022元旦联欢会.html"><button class="button">2022元旦联欢会</button></a>
-<a href="https://zz19z-2021-2.github.io/七年级｜阅读组合训练答案｜第二册.html"><button class="button">七年级｜阅读组合训练答案｜第二册</button></a>
-<a href="https://zz19z-2021-2.github.io/七年级下册｜暑假英语练习.html"><button class="button">七年级下册｜暑假英语练习</button></a>
-<a href="https://zz19z-2021-2.github.io/八年级上册｜学习资料整理.html"><button class="button">八年级上册｜学习资料整理</button></a>
-<a href="https://zz19z-2021-2.github.io/八年级上册｜数学学习资料整理.html"><button class="button">八年级上册｜数学学习资料整理</button></a>
-</div>
-<p style="clear:both"></p>
+<table class="table table-borderless table-responsive">
+	<thead>
+	  <tr>
+	    <th>七年级</th>
+	    <th>八年级</th>
+	    <th>其它</th>
+	  </tr>
+	</thead>
+	<tbody>
+	  <tr>
+	    <td><a style="width:100%" href="/七年级上册｜期末考试优秀作文.html" class="btn btn-outline-primary">七年级上册｜期末考试优秀作文</a></td>
+	    <td><a style="width:100%" href="/八年级上册｜学习资料整理.html" class="btn btn-outline-primary">八年级上册｜学习资料整理</a></td>
+	    <td><a style="width:100%" href="/2022元旦联欢会.html" class="btn btn-outline-primary">2022元旦联欢会</a></td>
+	  </tr>
+	  <tr>
+	    <td><a style="width:100%" href="/七年级｜笑草说.html" class="btn btn-outline-primary">七年级｜笑草说</a></td>
+	    <td><a style="width:100%" href="/八年级上册｜数学学习资料整理.html" class="btn btn-outline-primary">八年级上册｜数学学习资料整理</a></td>
+	    <td></td>
+	  </tr>
+	  <tr>
+	    <td><a style="width:100%" href="/七年级下册｜两弹一星.html" class="btn btn-outline-primary">七年级下册｜两弹一星</a></td>
+	    <td></td>
+	    <td></td>
+	  </tr>
+	  <tr>
+	    <td><a style="width:100%" href="/七年级｜阅读组合训练答案｜第二册.html" class="btn btn-outline-primary">七年级｜阅读组合训练答案｜第二册</a></td>
+	    <td></td>
+	    <td></td>
+	  </tr>
+	  <tr>
+	    <td><a style="width:100%" href="/七年级下册｜暑假英语练习.html" class="btn btn-outline-primary">七年级下册｜暑假英语练习</a></td>
+	    <td></td>
+	    <td></td>
+	  </tr>
+	</tbody>
+</table>
 
-<br />

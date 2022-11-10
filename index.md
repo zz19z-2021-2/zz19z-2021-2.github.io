@@ -1,9 +1,9 @@
-<link rel="stylesheet" type="text/css" href="style.css">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/css/bootstrap.min.css" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/js/bootstrap.bundle.min.js"></script>
 <script src="/header.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="style.css">
 
 # 欢迎
 
@@ -13,9 +13,9 @@
 
 # 学习资料整理
 
-如你所见，八年级知识难度更大，需要更加努力。为了帮助大家，我们整理了部分学习资料供使用。请参考<a href="八年级上册｜学习资料整理.html">《八年级上册｜学习资料整理》</a>。
+如你所见，八年级知识难度更大，需要更加努力。为了帮助大家，我们整理了部分学习资料供使用。请参考<a href="/八年级上册｜学习资料整理.html">《八年级上册｜学习资料整理》</a>。
 
-<a href="八年级上册｜学习资料整理.html"><button class="button-link">前往《八年级上册｜学习资料整理》</button></a>
+<a type="button" href="/八年级上册｜学习资料整理.html" class="btn btn-outline-primary">前往《八年级上册｜学习资料整理》</a>
 <br />
 
 <p style="color:grey;font-size:12px;clear:both">提供：邱家杨</p>

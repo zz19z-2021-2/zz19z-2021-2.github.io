@@ -9,4 +9,4 @@
 
 如果你在阅读我们的网站时遇到问题或有建议想给我提出，请通过：
 1. 在[GitHub Issues](https://github.com/zz19z-2021-2/zz19z-2021-2.github.io/issues)上给我们提出问题。
-2. 给[我们](mailto://huanqiu_myworld@163.com)发送邮件。
+2. 给[我们](mailto:huanqiu_myworld@163.com)发送邮件。

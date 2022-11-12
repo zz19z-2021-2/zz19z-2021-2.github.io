@@ -15,46 +15,48 @@
 ---
 
 <div class="btn-group">
-<a type="button" href="/feedback.html" class="btn btn-outline-primary">反馈 / 帮助</a>
+<a type="button" href="/feedback.html" class="btn btn-outline-primary">反馈与帮助</a>
 <a type="button" href="/overview.html" class="btn btn-outline-primary">内容总览</a>
 <a type="button" href="/Spaces/spaces.html" class="btn btn-outline-primary disabled">个人空间</a>
 </div>
 
 ---
 
-<table class="table table-borderless table-responsive">
-	<thead>
-	  <tr>
-	    <th>七年级</th>
-	    <th>八年级</th>
-	    <th>其它</th>
-	  </tr>
-	</thead>
-	<tbody>
-	  <tr>
-	    <td><a style="width:100%" href="/七年级上册｜期末考试优秀作文.html" class="btn btn-outline-primary">七年级上册｜期末考试优秀作文</a></td>
-	    <td><a style="width:100%" href="/八年级上册｜学习资料整理.html" class="btn btn-outline-primary">八年级上册｜学习资料整理</a></td>
-	    <td><a style="width:100%" href="/2022元旦联欢会.html" class="btn btn-outline-primary">2022元旦联欢会</a></td>
-	  </tr>
-	  <tr>
-	    <td><a style="width:100%" href="/七年级｜笑草说.html" class="btn btn-outline-primary">七年级｜笑草说</a></td>
-	    <td><a style="width:100%" href="/八年级上册｜数学学习资料整理.html" class="btn btn-outline-primary">八年级上册｜数学学习资料整理</a></td>
-	    <td></td>
-	  </tr>
-	  <tr>
-	    <td><a style="width:100%" href="/七年级下册｜两弹一星.html" class="btn btn-outline-primary">七年级下册｜两弹一星</a></td>
-	    <td></td>
-	    <td></td>
-	  </tr>
-	  <tr>
-	    <td><a style="width:100%" href="/七年级｜阅读组合训练答案｜第二册.html" class="btn btn-outline-primary">七年级｜阅读组合训练答案｜第二册</a></td>
-	    <td></td>
-	    <td></td>
-	  </tr>
-	  <tr>
-	    <td><a style="width:100%" href="/七年级下册｜暑假英语练习.html" class="btn btn-outline-primary">七年级下册｜暑假英语练习</a></td>
-	    <td></td>
-	    <td></td>
-	  </tr>
-	</tbody>
-</table>
+<div class="table-responsive">
+	<table class="table table-borderless">
+		<thead>
+		  <tr>
+		    <th>七年级</th>
+		    <th>八年级</th>
+		    <th>其它</th>
+		  </tr>
+		</thead>
+		<tbody>
+		  <tr>
+		    <td><a style="width:100%" href="/七年级上册｜期末考试优秀作文.html" class="btn btn-outline-primary">七年级｜笑草说</a></td>
+		    <td><a style="width:100%" href="/八年级上册｜学习资料整理.html" class="btn btn-outline-primary">八年级上册｜学习资料整理</a></td>
+		    <td><a style="width:100%" href="/2022元旦联欢会.html" class="btn btn-outline-primary">2022元旦联欢会</a></td>
+		  </tr>
+		  <tr>
+		    <td><a style="width:100%" href="/七年级｜笑草说.html" class="btn btn-outline-primary">七年级｜阅读组合训练答案｜第二册</a></td>
+		    <td><a style="width:100%" href="/八年级上册｜数学学习资料整理.html" class="btn btn-outline-primary">八年级上册｜数学学习资料整理</a></td>
+		    <td></td>
+		  </tr>
+		  <tr>
+		    <td><a style="width:100%" href="/七年级下册｜两弹一星.html" class="btn btn-outline-primary">七年级上册｜期末考试优秀作文</a></td>
+		    <td><a style="width:100%" href="/八年级上册｜政治学习资料整理.html" class="btn btn-outline-primary">八年级上册｜政治学习资料整理</a></td>
+		    <td></td>
+		  </tr>
+		  <tr>
+		    <td><a style="width:100%" href="/七年级｜阅读组合训练答案｜第二册.html" class="btn btn-outline-primary">七年级下册｜两弹一星</a></td>
+		    <td></td>
+		    <td></td>
+		  </tr>
+		  <tr>
+		    <td><a style="width:100%" href="/七年级下册｜暑假英语练习.html" class="btn btn-outline-primary">七年级下册｜暑假英语练习</a></td>
+		    <td></td>
+		    <td></td>
+		  </tr>
+		</tbody>
+	</table>
+</div>

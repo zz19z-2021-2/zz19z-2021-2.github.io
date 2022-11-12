@@ -7,19 +7,6 @@
 
 # 帮助 / 反馈
 
-如果你在阅读我们的网站时遇到问题或有建议想给我提出，请通过下面的表单向我们发送消息：
-
-想要编辑个人主页？从这里发送给我们审核！
-
-<form id="my-form" action="https://www.maildock.ink/state/send/mail?posId=aea721f3469c4d3291fdb606ede25e21" method="POST">
-    你的姓名：<br />
-    <textarea rows="1" cols="20" style="font-size:20px;width:100%" required="required" placeholder="必填" name="姓名"></textarea>
-  <br />
-    你想说的：<br />
-    <textarea rows="10" cols="20" style="font-size:20px;width:100%" name="消息" required="required" placeholder="必填"></textarea>
-  <br />
-  <input type="submit" value="Submit">
-  <br />
-</form>
-
-<p style="clear:both">Note: 点击提交之后你的设备会直接提交。所以点击提交之后你就可以离开这个页面啦！</p>
+如果你在阅读我们的网站时遇到问题或有建议想给我提出，请通过：
+1. 在[GitHub Issues](https://github.com/zz19z-2021-2/zz19z-2021-2.github.io/issues)上给我们提出问题。
+2. 给[我们](mailto://huanqiu_myworld@163.com)发送邮件。

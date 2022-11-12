@@ -15,7 +15,7 @@
 ---
 
 <div class="btn-group">
-<a type="button" href="/feedback.html" class="btn btn-outline-primary disabled">反馈 / 帮助</a>
+<a type="button" href="/feedback.html" class="btn btn-outline-primary">反馈 / 帮助</a>
 <a type="button" href="/overview.html" class="btn btn-outline-primary">内容总览</a>
 <a type="button" href="/Spaces/spaces.html" class="btn btn-outline-primary disabled">个人空间</a>
 </div>
@@ -58,4 +58,3 @@
 	  </tr>
 	</tbody>
 </table>
-

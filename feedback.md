@@ -2,7 +2,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/css/bootstrap.min.css" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/js/bootstrap.bundle.min.js"></script>
-<script src="/header.js" type="text/javascript"></script>
+<nav class="navbar bg-white navbar-light sticky-top">
+	<div class="container-fluid">
+		<script src="/header.js" type="text/javascript"></script>
+	</div>
+</nav>
 <link rel="stylesheet" type="text/css" href="style.css">
 
 # 帮助 / 反馈

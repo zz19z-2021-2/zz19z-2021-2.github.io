@@ -50,7 +50,7 @@
 		  </tr>
 		  <tr>
 		    <td><a style="width:100%" href="/七年级下册｜两弹一星.html" class="btn btn-outline-primary">七年级下册｜两弹一星</a></td>
-		    <td></td>
+		    <td><a style="width:100%" href="/八年级上册｜期末背书规划.html" class="btn btn-outline-primary">八年级上册｜期末背书规划</a></td>
 		    <td></td>
 		  </tr>
 		  <tr>

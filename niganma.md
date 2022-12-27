@@ -11,7 +11,7 @@
 <link rel="shortcut icon" href="/favicon.ico" />
 
 <style>
-.l666 {
+.likexuanzhuan {
   animation-name: xuanzhuan;
   animation-duration: 5s;
   animation-timing-function: linear;
@@ -28,6 +28,6 @@
 
 # 你好
 
-<img class="l666" src="https://s1.ax1x.com/2022/12/27/zzeAp9.png" alt="zzeAp9.png" border="0" width=100% />
+<img class="likexuanzhuan" src="https://s1.ax1x.com/2022/12/27/zzeAp9.png" alt="旋转的路艳超.png" width=100% />
 
-<audio controls="controls" preload="auto" autoplay="autoplay"><source src="Files/旋转.mp3" type="audio/mpeg"><source src="Files/旋转.ogg" type="audio/ogg" />你的浏览器不支持mp3和ogg音乐格式！</audio>
+<audio controls="controls" preload="auto" autoplay="autoplay" loop="loop"><source src="Files/likexuanzhuan.mp3" type="audio/mpeg"><source src="Files/likexuanzhuan.ogg" type="audio/ogg" />你的浏览器不支持mp3和ogg音乐格式！</audio>

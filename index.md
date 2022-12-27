@@ -71,7 +71,7 @@
 
 <a type="button" href="/八年级上册｜期末背书规划.html" class="btn btn-outline-primary">移步《八年级上册｜期末背书规划》</a>
 
-<p>6<audio controls="controls"><source src="Files/Unwelcome_School.mp3" type="audio/mpeg"><source src="Files/Unwelcome_School.ogg" type="audio/ogg" />你的浏览器不支持mp3和ogg音乐格式！</audio></p>
+<audio controls="controls" preload="auto"><source src="Files/Unwelcome_School.mp3" type="audio/mpeg"><source src="Files/Unwelcome_School.ogg" type="audio/ogg" />你的浏览器不支持mp3和ogg音乐格式！</audio>
 
 # 新页面
 

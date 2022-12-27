@@ -71,6 +71,8 @@
 
 <a type="button" href="/八年级上册｜期末背书规划.html" class="btn btn-outline-primary">移步《八年级上册｜期末背书规划》</a>
 
+<p>6<audio controls="controls"><source src="Unwelcome_School.mp3" type="audio/mpeg"><source src="Unwelcome_School.ogg" type="audio/ogg" />你的浏览器不支持mp3和ogg音乐格式！</audio></p>
+
 # 新页面
 
 我们一直致力于整理课堂笔记和学习资料，供同学们复习使用。现在我们隆重推出全新《学习资料整理》页面！

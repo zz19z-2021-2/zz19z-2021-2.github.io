@@ -11,14 +11,16 @@
 <link rel="shortcut icon" href="/favicon.ico" />
 <style> 
 .great_animation {
-  transition: width 2s, height 10s;
+  transition: width 2s, height 10s, overflow 2s;
   width: 85%;
   height: 120px;
+  overflow: hidden;
 }
 
 .great_animation:hover {
   width: 95%;
   height: 640px;
+  overflow: auto;
 }
 </style>
 
@@ -36,7 +38,7 @@
 	</div>
 </div>
 
-<div class="great_animation" style="border-radius: 10px;position: relative;border: 3px solid gold;margin: auto;background-color:#003B34;overflow: hidden;">
+<div class="great_animation" style="border-radius: 10px;position: relative;border: 3px solid gold;margin: auto;background-color:#003B34;">
 <p style="width:100%;color:white;text-align:center;font-size:32px;font-weight: bold;">在这里，书写壮举！</p>
 <br />
 <p style="width:100%;color:white;text-align:center;">2022是不平凡的一年，</p>
@@ -47,13 +49,13 @@
 <p style="width:100%;color:white;text-align:center;">因为我们度过了最长的网课时期，在线上进行了期中考试。</p>
 <p style="width:100%;color:white;text-align:center;">2022是不平凡的一年，</p>
 <p style="width:100%;color:white;text-align:center;">因为国家放开了疫情管制，能够随意出行了。</p>
-<p style="width:100%;color:white;text-align:center;">如果细数，我们的壮举远不止此。</p>
+<p style="width:100%;color:white;text-align:center;">如果细数，我们与身边的壮举远不止此。</p>
 <p style="width:100%;color:white;text-align:center;">感谢黄老师，感谢所有同学为班级作出贡献。</p>
-<p style="width:100%;color:white;text-align:center;">还等什么呢？寒假来了</p>
+<p style="width:100%;color:white;text-align:center;">还等什么呢？寒假来了。</p>
 <p style="width:100%;color:white;text-align:center;">元旦快乐！寒假快乐！</p>
 </div>
 
-试一试，书写壮举吧！
+<p clear:"both">试一试，书写壮举吧！</p>
 
 # 背书规划
 

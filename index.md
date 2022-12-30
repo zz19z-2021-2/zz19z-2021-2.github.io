@@ -53,19 +53,6 @@
 <p style="width:100%;color:white;text-align:center;">还等什么呢？寒假来了。</p>
 <p style="width:100%;color:white;text-align:center;">元旦快乐！寒假快乐！</p>
 </div>
+<br />
 
 试一试，书写壮举吧！
-
-# 背书规划
-
-所有背诵重点内容请：
-
-<a type="button" href="/八年级上册｜期末背书规划.html" class="btn btn-outline-primary">移步《八年级上册｜期末背书规划》</a>
-
-<audio controls="controls" preload="auto"><source src="Files/Unwelcome_School.mp3" type="audio/mpeg"><source src="Files/Unwelcome_School.ogg" type="audio/ogg" />你的浏览器不支持mp3和ogg音乐格式！</audio>
-
-# 新页面
-
-我们一直致力于整理课堂笔记和学习资料，供同学们复习使用。现在我们隆重推出全新《学习资料整理》页面！
-
-<a type="button" href="/八年级上册｜学习资料整理.html" class="btn btn-outline-primary">现在前往《八年级上册｜学习资料整理》</a>

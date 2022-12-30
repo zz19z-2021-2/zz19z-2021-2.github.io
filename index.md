@@ -19,8 +19,7 @@
 
 .great_animation:hover {
   width: 95%;
-  height: 640px;
-  overflow: auto;
+  height: 700px;
 }
 </style>
 
@@ -55,7 +54,7 @@
 <p style="width:100%;color:white;text-align:center;">元旦快乐！寒假快乐！</p>
 </div>
 
-<p clear:"both">试一试，书写壮举吧！</p>
+试一试，书写壮举吧！
 
 # 背书规划
 

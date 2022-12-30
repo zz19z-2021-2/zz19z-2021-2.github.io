@@ -11,7 +11,7 @@
 <link rel="shortcut icon" href="/favicon.ico" />
 <style> 
 .great_animation {
-  transition: width 2s, height 10s, overflow 2s;
+  transition: width 2s, height 10s;
   width: 85%;
   height: 120px;
   overflow: hidden;

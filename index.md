@@ -3,9 +3,9 @@
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/css/bootstrap.min.css" rel="stylesheet" />
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/js/bootstrap.bundle.min.js"></script>
 <nav class="navbar bg-white navbar-light sticky-top">
-	<div class="container-fluid">
-		<script src="/header.js" type="text/javascript"></script>
-	</div>
+    <div class="container-fluid">
+        <script src="/header.js" type="text/javascript"></script>
+    </div>
 </nav>
 <link rel="stylesheet" type="text/css" href="style.css" />
 <link rel="shortcut icon" href="/favicon.ico" />
@@ -20,9 +20,9 @@
     <div class="card-body">
         <h2 class="card-title">新域名启用！</h2>
         <p class="card-text">如果你观察一下浏览器的地址栏，就会发现我们的网站域名（或者说网址）已经更改为“xiaocaozz.top”，即“笑草郑州.top”。相对之前的域名，这个域名更好记了，也更容易输入，因此我们希望你能更频繁的访问。当然，你可以收藏我们的班级网站，避免忘记，同时也可在班级重要活动时获取最新的信息和资料。探索一下网站吧，或许能发现大量对你的学习有帮助的资料。</p>
-        <p class="card-text">注：原域名（ https://zz19z-2021-2.github.io ）仍然可用，但在国内变得不容易访问，并且会自动跳转至 https://xiaozaozz.top 。</p>
+        <p class="card-text">注：原域名（<a href="https://zz19z-2021-2.github.io">https://zz19z-2021-2.github.io</a>）仍然可用，但在国内变得不容易访问，并且会自动跳转至<a href="https://xiaocaozz.top">https://xiaocaozz.top</a>。</p>
     </div>
 </div>
 <br />
-<span class="badge bg-secondary">xiaocaozz.top [Version: 0.3.0] <a href="/history" class="text-info">更新历史</a></span>
+<span class="badge bg-secondary">xiaocaozz.top [Version: 0.4.0] <a href="/history" class="text-info">更新历史</a></span>
 <br />

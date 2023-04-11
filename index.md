@@ -23,6 +23,21 @@
         <p class="card-text">注：原域名（<a href="https://zz19z-2021-2.github.io">https://zz19z-2021-2.github.io</a>）仍然可用，但在国内变得不容易访问，并且会自动跳转至<a href="https://xiaocaozz.top">https://xiaocaozz.top</a>。</p>
     </div>
 </div>
+
+# 励志远足
+
+<p><span class="badge bg-secondary">2023年4月11日</span></p>
+
+本周五，八年级学生将开展励志远足活动，本班安排如下：
+
+<ul class="list-group">
+    <li class="list-group-item"><b>旗手：倪振云、梅满</b><br /><small class="text-secondary">负责在班级前方举旗</small></li>
+    <li class="list-group-item"><b>安全员：李逸然、周一轩</b><br /><small class="text-secondary">负责班级中间队伍安全</small></li>
+    <li class="list-group-item"><b>摄影师：胡志宇、武倬萱、张珂源</b>、邱家杨<br /><small class="text-secondary">负责给同学和家长拍照、留念</small></li>
+</ul>
+
+如有变动，尽快更新。
+
 <br />
-<span class="badge bg-secondary">xiaocaozz.top [Version: 0.4.0] <a href="/history" class="text-info">更新历史</a></span>
+<span class="badge bg-secondary">xiaocaozz.top [Version: 0.4.1 Alpha 1] <a href="/history" class="text-info">更新历史</a></span>
 <br />

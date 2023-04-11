@@ -39,5 +39,5 @@
 如有变动，尽快更新。
 
 <br />
-<span class="badge bg-secondary">xiaocaozz.top [Version: 0.4.1 Alpha 1] <a href="/history" class="text-info">更新历史</a></span>
+<span class="badge bg-secondary">xiaocaozz.top [Version: 0.4.1 Alpha 2] <a href="/history" class="text-info">更新历史</a></span>
 <br />

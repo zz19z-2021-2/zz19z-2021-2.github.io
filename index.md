@@ -28,7 +28,7 @@
 
 # 经典诵读
 
-<div id="activityStatus_2"></div>
+<div id="activityStatus_2"></div><br />
 
 <script>
 var date = new Date(2023, 3, 20, 16, 10);  // 设置活动开始时间
@@ -46,63 +46,42 @@ if (now < date) {
 
 八年级学生经典诵读活动，本班诵读内容如下：
 
-<!-- 内容太短，用不上链接跳转 
-<body id="jdsd" data-bs-spy="scroll" data-bs-target=".navbar" data-bs-offset="70">
-    <nav id="jdsd_content" class="navbar-expand-md navbar navbar-light bg-light fixed-top">
-        <div class="container-fluid">
-            <span class="navbar-brand">诵读内容</span>
-            
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#jdsd_links">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="jdsd_links">
-                <ul class="navbar-nav">
-                    <li class="nav-item"><a class="nav-link" href="#第一首">江城子 · 密州出猎</a></li>  
-                    <li class="nav-item"><a class="nav-link" href="#第二首">定风波 · 莫听穿林打叶声</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#第三首">水调歌头 · 明月几时有</a></li>  
-                    <li class="nav-item"><a class="nav-link" href="#第四首">念奴娇 · 赤壁怀古</a></li>
-                </ul>
-            </div>
-        </div>
-    </nav>
-    -->
-    <div class="container mt-3">
-        <div id="第一首">
-            <h2>江城子 · 密州出猎</h2>
-            <p>老夫聊发少年狂，左牵黄，右擎苍，锦帽貂裘，千骑卷平冈。为报倾城随太守，亲射虎，看孙郎。<br />
-            酒酣胸胆尚开张，鬓微霜，又何妨？持节云中，何日遣冯唐？会挽雕弓如满月，西北望，射天狼。</p>
-        </div>
-        <div id="第二首">
-            <h2>定风波 · 莫听穿林打叶声</h2>
-            <p>莫听穿林打叶声，何妨吟啸且徐行。竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生。<br />
-            料峭春风吹酒醒，微冷，山头斜照却相迎。回首向来萧瑟处，归去，也无风雨也无晴。</p>
-        </div>
-        <div id="第三首">
-            <h2>水调歌头 · 明月几时有</h2>
-            <p>明月几时有？把酒问青天。不知天上宫阙，今夕是何年。我欲乘风归去，又恐琼楼玉宇，高处不胜寒。起舞弄清影，何似在人间。<br />
-            转朱阁，低绮户，照无眠。不应有恨，何事长向别时圆？人有悲欢离合，月有阴晴圆缺，此事古难全。但愿人长久，千里共婵娟。</p>
-        </div>
-        <div id="第四首">
-            <h2>念奴娇 · 赤壁怀古</h2>
-            <p>大江东去，浪淘尽，千古风流人物。<br />
-            故垒西边，人道是，三国周郎赤壁。<br />
-            乱石穿空，惊涛拍岸，卷起千堆雪。<br />
-            江山如画，一时多少豪杰。<br />
-            <br />
-            遥想公瑾当年，小乔初嫁了，雄姿英发。<br />
-            羽扇纶巾，谈笑间，樯橹灰飞烟灭。<br />
-            故国神游，多情应笑我，早生华发。<br />
-            人生如梦，一尊还酹江月。</p>
-        </div>
+<div class="container mt-3">
+    <div id="第一首">
+        <h2>江城子 · 密州出猎</h2>
+        <p>老夫聊发少年狂，左牵黄，右擎苍，锦帽貂裘，千骑卷平冈。为报倾城随太守，亲射虎，看孙郎。<br />
+        酒酣胸胆尚开张，鬓微霜，又何妨？持节云中，何日遣冯唐？会挽雕弓如满月，西北望，射天狼。</p>
     </div>
-<!-- 不用导航了 </body> -->
+    <div id="第二首">
+        <h2>定风波 · 莫听穿林打叶声</h2>
+        <p>莫听穿林打叶声，何妨吟啸且徐行。竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生。<br />
+        料峭春风吹酒醒，微冷，山头斜照却相迎。回首向来萧瑟处，归去，也无风雨也无晴。</p>
+    </div>
+    <div id="第三首">
+        <h2>水调歌头 · 明月几时有</h2>
+        <p>明月几时有？把酒问青天。不知天上宫阙，今夕是何年。我欲乘风归去，又恐琼楼玉宇，高处不胜寒。起舞弄清影，何似在人间。<br />
+        转朱阁，低绮户，照无眠。不应有恨，何事长向别时圆？人有悲欢离合，月有阴晴圆缺，此事古难全。但愿人长久，千里共婵娟。</p>
+    </div>
+    <div id="第四首">
+        <h2>念奴娇 · 赤壁怀古</h2>
+        <p>大江东去，浪淘尽，千古风流人物。<br />
+        故垒西边，人道是，三国周郎赤壁。<br />
+        乱石穿空，惊涛拍岸，卷起千堆雪。<br />
+        江山如画，一时多少豪杰。<br />
+        <br />
+        遥想公瑾当年，小乔初嫁了，雄姿英发。<br />
+        羽扇纶巾，谈笑间，樯橹灰飞烟灭。<br />
+        故国神游，多情应笑我，早生华发。<br />
+        人生如梦，一尊还酹江月。</p>
+    </div>
+</div>
 <div class="d-grid mt-3">
     <a type="button" class="btn btn-primary btn-block" href="https://mp.weixin.qq.com/s/MlI9AYINiG9FJ7bXxvEajg">前往 郑州市第十九初级中学微信公众号 查看</a>
 </div>
 
 # 励志远足
 
-<div id="activityStatus"></div>
+<div id="activityStatus"></div><br />
 
 <script>
 var date = new Date(2023, 3, 14, 7, 40);  // 设置活动开始时间

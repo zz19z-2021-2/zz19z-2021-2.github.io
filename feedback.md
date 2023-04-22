@@ -20,6 +20,8 @@
 
 如果你有任何需要发送到学校电脑上的文件，或是问题与建议，都可以文件上传至下面的链接（使用OneDrive）：
 
-<a class="btn btn-primary" href="https://ym4qf-my.sharepoint.com/:f:/g/personal/class_ym4qf_onmicrosoft_com/EmsTsbQD5ltHrDMz3k3_z0UByMGGUvpGefwjC0lNwNTrOg?e=LubDXW">收件箱</a>
+<div class="d-grid">
+    <a class="btn btn-primary" href="https://ym4qf-my.sharepoint.com/:f:/g/personal/class_ym4qf_onmicrosoft_com/EmsTsbQD5ltHrDMz3k3_z0UByMGGUvpGefwjC0lNwNTrOg?e=LubDXW">收件箱</a>
+</div>
 
 上传到此链接上的文件会自动同步到学校电脑里，**但需要手动下载！**至于问题与建议，请在文件名中写明，谢谢！

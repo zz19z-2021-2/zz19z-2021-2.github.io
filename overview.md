@@ -11,7 +11,9 @@
 
 ---
 
-<a type="button" href="/index" class="btn btn-primary">首页</a>
+<div class="d-grid">
+    <a type="button" href="/index" class="btn btn-primary">首页</a>
+</div>
 
 ---
 

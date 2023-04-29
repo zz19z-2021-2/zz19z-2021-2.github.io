@@ -53,7 +53,6 @@
                     <div class="badge bg-danger text" id="seconds">秒</div>
                 </div>
             </div>
-            
             <script>
             // 定义文字大小函数
             function setTextSize() {
@@ -96,13 +95,6 @@
                 // 计算剩余时间
                 var distance = countDownDate - now;
                 
-                days = Math.floor(distance / (1000 * 60 * 60 * 24));
-                document.getElementById("days").innerHTML = days;
-                hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-                document.getElementById("hours").innerHTML = hours;
-                minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-                document.getElementById("minutes").innerHTML = minutes;
-                
                 // 秒数需要更新
                 var seconds = Math.floor((distance % (1000 * 60)) / 1000);
                 document.getElementById("seconds").innerHTML = seconds;
@@ -117,12 +109,22 @@
                 document.getElementById("minutes").innerHTML = minutes;
                 }
             }
-            
+            function firstTime() {
+                var now = new Date().getTime();
+                var distance = countDownDate - now;
+                days = Math.floor(distance / (1000 * 60 * 60 * 24));
+                document.getElementById("days").innerHTML = days;
+                hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+                document.getElementById("hours").innerHTML = hours;
+                minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+                document.getElementById("minutes").innerHTML = minutes;
+            }
             // 调用函数,每秒刷新一次
             var interval = setInterval(function() {
                 countdown();
             }, 1000);
             countdown()
+            firstTime()
             </script>
         </div>
     </div>
@@ -214,5 +216,5 @@ if (now < date) {
 </div>
 
 <br />
-<span class="badge bg-secondary">xiaocaozz.top [Version: 0.4.2.4] <a href="/history" class="text-info">更新历史</a></span>
+<span class="badge bg-secondary">xiaocaozz.top [Version: 0.4.2.5] <a href="/history" class="text-info">更新历史</a></span>
 <br />

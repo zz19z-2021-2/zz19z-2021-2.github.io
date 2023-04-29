@@ -10,11 +10,50 @@
 <link rel="stylesheet" type="text/css" href="style.css" />
 <link rel="shortcut icon" href="/favicon.ico" />
 
+<script>
+function generateTableOfContents() {
+  // 获取div容器和所有h1标题
+  var toc = document.getElementById("tableOfContents");
+  var headers = document.querySelectorAll("h1");
+  
+  // 遍历h1标题
+  for (var i = 0; i < headers.length; i++) {
+    // 创建a链接
+    var a = document.createElement("a");
+    a.href = "#" + headers[i].id;
+    a.innerText = headers[i].innerText;
+    
+    // 设置锚点 id
+    if (!headers[i].id) {
+      headers[i].id = "title" + i; 
+    } 
+    
+    // 创建li并追加a链接
+    var li = document.createElement("li");
+    li.appendChild(a);
+    
+    // 追加li到目录div
+    toc.appendChild(li);
+  }
+  
+  // 再次获取标题元素并更新链接
+  var links = toc.querySelectorAll("a");
+  headers = document.querySelectorAll("h1");
+  for (var i = 0; i < headers.length; i++) {
+    links[i].href = "#" + headers[i].id; 
+  }  
+}
+
+window.onload = generateTableOfContents;
+</script>
+
 # 更新历史
 
 详细的历史记录请见[GitHub上的本网站存储库](https://github.com/zz19z-2021-2/zz19z-2021-2.github.io)。本页面不包含Alpha版等非正式更新。
 
-**最后更新：2023年4月22日。**
+**最后更新：2023年4月29日。**
+
+<div id="tableOfContents"></div>
 
 # Version 0.3.0
 
@@ -85,3 +124,27 @@
 
 - 将显示页面头部导航栏的Javascript中引用内容的引号修改为单引号（以前是双引号）。
     - 因为用双引号引用内容会导致内容中所有双引号需要被转译（即`"`需要写为`\"`），单引号则可避免这一问题。
+
+# Version 0.4.2
+
+本次更新发布于2023年4月29日，更新了首页，加入了“八校联考倒计时”。
+
+## 更改
+
+- 在[首页](/index)页面中新增了“八校联考倒计时”卡片板块，和“资料整理页面大更新”卡片并排显示。
+- 将[首页](/index)页面的“经典诵读”板块的诵读内容修改为卡片样式。
+- 在[更新历史](/history)页面新增了目录，由Javascript自动生成。
+
+### 技术性
+
+- “八校联考倒计时”卡片板块由Javascript自动生成，因此会根据电脑时间变化。
+    - 网页代码中规定了各时间单位的宽度来保证不因数字变化而影响排版。如果您需要更长的倒计时宽度，请删去“定义文字大小函数”中的`document.getElementsByClassName("time")[i].style.width = "60px";`行和`document.getElementsByClassName("time")[i].style.width = "80px";`行，这样可以使浏览器根据数字长度自动排版。
+- “八校联考倒计时”卡片板块支持根据屏幕大小自动适配，使用Javascript获取浏览器窗口宽度实现。
+
+## 修复
+
+- 修复了[首页](/index)页面中，事件内容与事件的时间和状态间隔过远的问题。
+
+## 你知道吗
+
+这次更新的代码70%都是由Claude这个AI编写，剩下的20%由我提出意见并由Claude修改，只有10%是我自己根据咱们网站特点专门修改的哦！如果你也想尝试Claude，请前往[Claude官网](https://www.anthropic.com/claude-in-slack)，根据要求下载[Slack](https://slack.com)并添加进你的工作区，就可以正常使用了！如果不明白怎么做，可以去[哔哩哔哩](https://www.bilibili.com)搜索“Claude”获取视频教程！**请注意：现在Claude需要科学上网获得国外IP才可以添加到Slack。添加后对IP地址归属没有限制。**

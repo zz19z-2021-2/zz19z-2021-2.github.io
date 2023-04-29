@@ -16,19 +16,123 @@
 
 愿现在看到这里的你，在以后的学习和生活中，都能遇见更好的自己。
 
-<div class="card">
-    <div class="card-body">
-        <h2 class="card-title">资料整理页面大更新！</h2>
-        <p class="card-text">为了满足日益增多的学习资料，我们几乎重写了整个<a href="/资料整理">资料整理</a>页面，来保证你可以方便地查找、使用资料。还等什么，快去看看全新设计的页面吧！</p>
-        <div class="d-grid">
-            <a type="button" class="btn btn-primary btn-block" href="/资料整理">资料整理</a>
+<div class="row">
+    <div class="card col-lg-5">
+        <div class="card-body">
+            <style>
+            .countdown {
+                width: 100%;
+                text-align: center;
+            }
+            .number {
+                display: block;
+            }
+            .text {
+                display: block;
+            }
+            .time {
+                display: inline-block;
+            }
+            </style>
+            <h2 class="text-center card-title">距离八校联考还剩</h2>
+            <div class="countdown">
+                <div class="time">
+                    <div class="number" id="days">0</div>
+                    <div class="badge bg-success text" id="days">天</div>
+                </div>
+                <div class="time">
+                    <div class="number" id="hours">0</div>
+                    <div class="badge bg-primary text" id="hours">小时</div>
+                </div>
+                <div class="time">
+                    <div class="number" id="minutes">0</div>
+                    <div class="badge bg-warning text" id="minutes">分钟</div>
+                </div>
+                <div class="time">
+                    <div class="number" id="seconds">0</div>
+                    <div class="badge bg-danger text" id="seconds">秒</div>
+                </div>
+            </div>
+            
+            <script>
+            // 获取屏幕宽度
+            var width = document.documentElement.clientWidth;
+            
+            // 定义文字大小函数
+            function setTextSize() {
+                if (width < 430) { // 小屏幕
+                    for (i = 0; i < 4; i++) {
+                        document.getElementsByClassName("number")[i].style.fontSize = "42px";
+                        document.getElementsByClassName("text")[i].style.fontSize = "16px";
+                        document.getElementsByClassName("time")[i].style.width = "60px";
+                    }
+                } else { // 大屏幕
+                    for (i = 0; i < 4; i++) {
+                        document.getElementsByClassName("number")[i].style.fontSize = "60px";
+                        document.getElementsByClassName("text")[i].style.fontSize = "24px";
+                        document.getElementsByClassName("time")[i].style.width = "80px";
+                    }
+                }
+            } 
+            
+            // 调用函数,设置文字大小
+            setTextSize();
+            
+            // 目标时间目标时间2023年5月18日上午8:00
+            var countDownDate = new Date("May 18, 2023 08:00:00").getTime();
+            var days, hours, minutes;
+            
+            function countdown() {
+                // 获取当前时间 
+                var now = new Date().getTime();
+                
+                // 计算剩余时间
+                var distance = countDownDate - now;
+                
+                days = Math.floor(distance / (1000 * 60 * 60 * 24));
+                document.getElementById("days").innerHTML = days;
+                hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+                document.getElementById("hours").innerHTML = hours;
+                minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+                document.getElementById("minutes").innerHTML = minutes;
+                
+                // 秒数需要更新
+                var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+                document.getElementById("seconds").innerHTML = seconds;
+                
+                // 其他时间只在seconds变为59的时候更新
+                if (seconds == 59) {
+                days = Math.floor(distance / (1000 * 60 * 60 * 24));
+                document.getElementById("days").innerHTML = days;
+                hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+                document.getElementById("hours").innerHTML = hours;  
+                minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+                document.getElementById("minutes").innerHTML = minutes;
+                }
+            }
+            
+            // 调用函数,每秒刷新一次
+            var interval = setInterval(function() {
+                countdown();
+            }, 1000);
+            countdown()
+            </script>
+        </div>
+    </div>
+    <div class="card col-lg-7" style="display:inline-block">
+        <div class="card-body">
+            <h2 class="card-title">资料整理页面大更新！</h2>
+            <p class="card-text">为了满足日益增多的学习资料和面对即将到来的八校联考，我们几乎重写了整个资料整理页面，来保证你可以方便地查找、使用资料。还等什么？快去看看全新设计的页面吧！</p>
+            <div class="card-text d-grid">
+                <a type="button" class="btn btn-primary btn-block" href="/资料整理">资料整理</a>
+            </div>
         </div>
     </div>
 </div>
 
 # 经典诵读
 
-<div id="activityStatus_2"></div><br />
+<div class="mb-3" id="activityStatus_2"></div>
 
 <script>
 var date = new Date(2023, 3, 20, 16, 10);  // 设置活动开始时间
@@ -36,7 +140,7 @@ var endTime = new Date(2023, 3, 20, 18, 30); // 设置活动结束时间
 var now = new Date();   // 获取当前时间
 
 if (now < date) {
-  document.getElementById("activityStatus_2").innerHTML = '<span class="badge bg-secondary">2023年4月20日｜活动准备中</span>'; 
+  document.getElementById("activityStatus_2").innerHTML = '<span class="badge bg-secondary">2023年4月20日｜活动准备中</span>';
 } else if (now >= date && now <= endTime) {
   document.getElementById("activityStatus_2").innerHTML = '<span class="badge bg-success">2023年4月20日｜活动进行中</span>';
 } else {
@@ -46,25 +150,19 @@ if (now < date) {
 
 八年级学生经典诵读活动，本班诵读内容如下：
 
-<div class="container mt-3">
-    <div id="第一首">
-        <h2>江城子 · 密州出猎</h2>
-        <p>老夫聊发少年狂，左牵黄，右擎苍，锦帽貂裘，千骑卷平冈。为报倾城随太守，亲射虎，看孙郎。<br />
+<div class="card">
+    <div class="card-body">
+        <h2 class="card-title">江城子 · 密州出猎</h2>
+        <p class="card-text">老夫聊发少年狂，左牵黄，右擎苍，锦帽貂裘，千骑卷平冈。为报倾城随太守，亲射虎，看孙郎。<br />
         酒酣胸胆尚开张，鬓微霜，又何妨？持节云中，何日遣冯唐？会挽雕弓如满月，西北望，射天狼。</p>
-    </div>
-    <div id="第二首">
-        <h2>定风波 · 莫听穿林打叶声</h2>
-        <p>莫听穿林打叶声，何妨吟啸且徐行。竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生。<br />
+        <h2 class="card-title">定风波 · 莫听穿林打叶声</h2>
+        <p class="card-text">莫听穿林打叶声，何妨吟啸且徐行。竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生。<br />
         料峭春风吹酒醒，微冷，山头斜照却相迎。回首向来萧瑟处，归去，也无风雨也无晴。</p>
-    </div>
-    <div id="第三首">
-        <h2>水调歌头 · 明月几时有</h2>
-        <p>明月几时有？把酒问青天。不知天上宫阙，今夕是何年。我欲乘风归去，又恐琼楼玉宇，高处不胜寒。起舞弄清影，何似在人间。<br />
+        <h2 class="card-title">水调歌头 · 明月几时有</h2>
+        <p class="card-text">明月几时有？把酒问青天。不知天上宫阙，今夕是何年。我欲乘风归去，又恐琼楼玉宇，高处不胜寒。起舞弄清影，何似在人间。<br />
         转朱阁，低绮户，照无眠。不应有恨，何事长向别时圆？人有悲欢离合，月有阴晴圆缺，此事古难全。但愿人长久，千里共婵娟。</p>
-    </div>
-    <div id="第四首">
-        <h2>念奴娇 · 赤壁怀古</h2>
-        <p>大江东去，浪淘尽，千古风流人物。<br />
+        <h2 class="card-title">念奴娇 · 赤壁怀古</h2>
+        <p class="card-text">大江东去，浪淘尽，千古风流人物。<br />
         故垒西边，人道是，三国周郎赤壁。<br />
         乱石穿空，惊涛拍岸，卷起千堆雪。<br />
         江山如画，一时多少豪杰。<br />
@@ -81,7 +179,7 @@ if (now < date) {
 
 # 励志远足
 
-<div id="activityStatus"></div><br />
+<div class="mb-3" id="activityStatus"></div>
 
 <script>
 var date = new Date(2023, 3, 14, 7, 40);  // 设置活动开始时间
@@ -89,7 +187,7 @@ var endTime = new Date(2023, 3, 14, 16, 30); // 设置活动结束时间
 var now = new Date();   // 获取当前时间
 
 if (now < date) {
-  document.getElementById("activityStatus").innerHTML = '<span class="badge bg-secondary">2023年4月14日｜活动准备中</span>'; 
+  document.getElementById("activityStatus").innerHTML = '<span class="badge bg-secondary">2023年4月14日｜活动准备中</span>';
 } else if (now >= date && now <= endTime) {
   document.getElementById("activityStatus").innerHTML = '<span class="badge bg-success">2023年4月14日｜活动进行中</span>';
 } else {
@@ -109,5 +207,5 @@ if (now < date) {
 </div>
 
 <br />
-<span class="badge bg-secondary">xiaocaozz.top [Version: 0.4.1] <a href="/history" class="text-info">更新历史</a></span>
+<span class="badge bg-secondary">xiaocaozz.top [Version: 0.4.2] <a href="/history" class="text-info">更新历史</a></span>
 <br />

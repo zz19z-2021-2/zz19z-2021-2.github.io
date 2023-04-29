@@ -17,7 +17,7 @@ function generateTableOfContents() {
   var headers = document.querySelectorAll("h1");
   
   // 遍历h1标题
-  for (var i = 0; i < headers.length; i++) {
+  for (var i = 2; i < headers.length; i++) {
     // 创建a链接
     var a = document.createElement("a");
     a.href = "#" + headers[i].id;
@@ -147,4 +147,4 @@ window.onload = generateTableOfContents;
 
 ## 你知道吗
 
-这次更新的代码70%都是由Claude这个AI编写，剩下的20%由我提出意见并由Claude修改，只有10%是我自己根据咱们网站特点专门修改的哦！如果你也想尝试Claude，请前往[Claude官网](https://www.anthropic.com/claude-in-slack)，根据要求下载[Slack](https://slack.com)并添加进你的工作区，就可以正常使用了！如果不明白怎么做，可以去[哔哩哔哩](https://www.bilibili.com)搜索“Claude”获取视频教程！**请注意：现在Claude需要科学上网获得国外IP才可以添加到Slack。添加后对IP地址归属没有限制。**
+这次更新的代码70%都是由Claude这个AI编写，剩下的20%由我提出意见并由Claude修改，只有10%是我自己根据咱们网站特点专门修改的哦！如果你也想尝试Claude，请前往[Claude官网](https://www.anthropic.com/claude-in-slack)，根据要求下载[Slack](https://slack.com)并添加进你的工作区，就可以正常使用了！如果不明白怎么做，可以去[哔哩哔哩](https://www.bilibili.com)搜索“Claude”获取视频教程！**请注意：现在Claude需要科学上网获得国外IP才可以添加到Slack，添加后对IP地址归属没有限制。**

@@ -16,7 +16,7 @@
 
 愿现在看到这里的你，在以后的学习和生活中，都能遇见更好的自己。
 
-<div class="row">
+<div class="row" style="--bs-gutter-x: 0rem;">
     <div class="card col-lg-6">
         <div class="card-body">
             <style>
@@ -212,5 +212,5 @@ if (now < date) {
 </div>
 
 <br />
-<span class="badge bg-secondary">xiaocaozz.top [Version: 0.4.2.1] <a href="/history" class="text-info">更新历史</a></span>
+<span class="badge bg-secondary">xiaocaozz.top [Version: 0.4.2.2] <a href="/history" class="text-info">更新历史</a></span>
 <br />

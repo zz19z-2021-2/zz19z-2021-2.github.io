@@ -17,7 +17,7 @@
 愿现在看到这里的你，在以后的学习和生活中，都能遇见更好的自己。
 
 <div class="row">
-    <div class="card col-lg-5">
+    <div class="card col-lg-6">
         <div class="card-body">
             <style>
             .countdown {
@@ -34,7 +34,7 @@
                 display: inline-block;
             }
             </style>
-            <h2 class="text-center card-title">距离八校联考还剩</h2>
+            <h2 id="bxlk-title">距离八校联考还剩</h2>
             <div class="countdown">
                 <div class="time">
                     <div class="number" id="days">0</div>
@@ -73,7 +73,12 @@
                         document.getElementsByClassName("time")[i].style.width = "80px";
                     }
                 }
-            } 
+                if (width < 992) { // 小屏幕
+                    document.getElementById("bxlk-title").className = "text-center card-title";
+                } else { // 大屏幕
+                document.getElementById("bxlk-title").className = "text-center card-title mt-3";
+                }
+            }
             
             // 调用函数,设置文字大小
             setTextSize();
@@ -119,7 +124,7 @@
             </script>
         </div>
     </div>
-    <div class="card col-lg-7" style="display:inline-block">
+    <div class="card col-lg-6" style="display:inline-block">
         <div class="card-body">
             <h2 class="card-title">资料整理页面大更新！</h2>
             <p class="card-text">为了满足日益增多的学习资料和面对即将到来的八校联考，我们几乎重写了整个资料整理页面，来保证你可以方便地查找、使用资料。还等什么？快去看看全新设计的页面吧！</p>
@@ -207,5 +212,5 @@ if (now < date) {
 </div>
 
 <br />
-<span class="badge bg-secondary">xiaocaozz.top [Version: 0.4.2] <a href="/history" class="text-info">更新历史</a></span>
+<span class="badge bg-secondary">xiaocaozz.top [Version: 0.4.2.1] <a href="/history" class="text-info">更新历史</a></span>
 <br />

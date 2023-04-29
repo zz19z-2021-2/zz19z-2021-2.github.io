@@ -74,7 +74,7 @@
                     }
                 }
                 if (width < 992) { // 小屏幕
-                    document.getElementById("bxlk-title").className = "text-center card-title";
+                    document.getElementById("bxlk-title").className = "text-center card-title mt-0 mb-0";
                 } else { // 大屏幕
                 document.getElementById("bxlk-title").className = "text-center card-title mt-3";
                 }

@@ -55,11 +55,10 @@
             </div>
             
             <script>
-            // 获取屏幕宽度
-            var width = document.documentElement.clientWidth;
-            
             // 定义文字大小函数
             function setTextSize() {
+                // 获取屏幕宽度
+                var width = document.documentElement.clientWidth;
                 if (width < 430) { // 小屏幕
                     for (i = 0; i < 4; i++) {
                         document.getElementsByClassName("number")[i].style.fontSize = "42px";
@@ -81,6 +80,9 @@
             }
             
             // 调用函数,设置文字大小
+            window.addEventListener("resize", function(){
+                setTextSize();
+            });
             setTextSize();
             
             // 目标时间目标时间2023年5月18日上午8:00
@@ -110,7 +112,7 @@
                 days = Math.floor(distance / (1000 * 60 * 60 * 24));
                 document.getElementById("days").innerHTML = days;
                 hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-                document.getElementById("hours").innerHTML = hours;  
+                document.getElementById("hours").innerHTML = hours;
                 minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
                 document.getElementById("minutes").innerHTML = minutes;
                 }
@@ -212,5 +214,5 @@ if (now < date) {
 </div>
 
 <br />
-<span class="badge bg-secondary">xiaocaozz.top [Version: 0.4.2.2] <a href="/history" class="text-info">更新历史</a></span>
+<span class="badge bg-secondary">xiaocaozz.top [Version: 0.4.2.4] <a href="/history" class="text-info">更新历史</a></span>
 <br />

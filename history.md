@@ -16,7 +16,7 @@ function generateTableOfContents() {
   var toc = document.getElementById("tableOfContents");
   var headers = document.querySelectorAll("h1");
   
-  // 遍历h1标题
+  // 遍历h1标题,排除前两个标题
   for (var i = 2; i < headers.length; i++) {
     // 创建a链接
     var a = document.createElement("a");
@@ -25,8 +25,8 @@ function generateTableOfContents() {
     
     // 设置锚点 id
     if (!headers[i].id) {
-      headers[i].id = "title" + i; 
-    } 
+      headers[i].id = "title" + i;
+    }  
     
     // 创建li并追加a链接
     var li = document.createElement("li");
@@ -36,12 +36,12 @@ function generateTableOfContents() {
     toc.appendChild(li);
   }
   
-  // 再次获取标题元素并更新链接
+  // 再次获取标题元素并更新链接 
   var links = toc.querySelectorAll("a");
   headers = document.querySelectorAll("h1");
-  for (var i = 0; i < headers.length; i++) {
-    links[i].href = "#" + headers[i].id; 
-  }  
+  for (var i = 2; i < headers.length; i++) {
+    links[i-2].href = "#" + headers[i].id;  // 减2来修复索引
+  }
 }
 
 window.onload = generateTableOfContents;
@@ -49,7 +49,7 @@ window.onload = generateTableOfContents;
 
 # 更新历史
 
-详细的历史记录请见[GitHub上的本网站存储库](https://github.com/zz19z-2021-2/zz19z-2021-2.github.io)。本页面不包含Alpha版等非正式更新。
+详细的历史记录请见[GitHub上的本网站存储库](https://github.com/zz19z-2021-2/zz19z-2021-2.github.io)。本页面不包含`Alpha`版和`0._._.X`等非正式更新。例如，`0.4.2.1`是一个非正式更新，而`0.4.2`是一个正式更新。
 
 **最后更新：2023年4月29日。**
 

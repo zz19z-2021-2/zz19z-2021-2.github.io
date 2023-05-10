@@ -53,14 +53,14 @@
                     <div class="badge bg-danger text" id="seconds">秒</div>
                 </div>
             </div>
-            <button type="button" class="btn btn-light btn-sm" style="position: absolute; bottom: 16px; right: 16px; margin-bottom: 0" data-bs-toggle="modal" data-bs-target="#chooseDateModal">
+            <button type="button" class="btn btn-light btn-sm mb-0" style="position: absolute; bottom: 16px; right: 16px;" data-bs-toggle="modal" data-bs-target="#chooseDateModal">
                 修改
             </button>
             <div class="modal fade" id="chooseDateModal" tabindex="-1" aria-labelledby="chooseDateModalLabel" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered">
                     <div class="modal-content">
                         <div class="modal-header">
-                            <h5 class="modal-title" id="chooseDateModalLabel">选择倒计时目标日期</h5>
+                            <h5 class="modal-title mb-0" id="chooseDateModalLabel">选择倒计时目标日期</h5>
                             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                         </div>
                         <div class="modal-body">
@@ -300,5 +300,5 @@ if (now < date) {
 </div>
 
 <br />
-<span class="badge bg-secondary">xiaocaozz.top [Version: 0.4.2.7] <a href="/history" class="text-info">更新历史</a></span>
+<span class="badge bg-secondary">xiaocaozz.top [Version: 0.4.2.8] <a href="/history" class="text-info">更新历史</a></span>
 <br />

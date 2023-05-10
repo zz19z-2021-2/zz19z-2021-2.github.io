@@ -53,79 +53,27 @@
                     <div class="badge bg-danger text" id="seconds">秒</div>
                 </div>
             </div>
-            <script>
-            // 定义文字大小函数
-            function setTextSize() {
-                // 获取屏幕宽度
-                var width = document.documentElement.clientWidth;
-                if (width < 430) { // 小屏幕
-                    for (i = 0; i < 4; i++) {
-                        document.getElementsByClassName("number")[i].style.fontSize = "42px";
-                        document.getElementsByClassName("text")[i].style.fontSize = "16px";
-                        document.getElementsByClassName("time")[i].style.width = "60px";
-                    }
-                } else { // 大屏幕
-                    for (i = 0; i < 4; i++) {
-                        document.getElementsByClassName("number")[i].style.fontSize = "60px";
-                        document.getElementsByClassName("text")[i].style.fontSize = "24px";
-                        document.getElementsByClassName("time")[i].style.width = "80px";
-                    }
-                }
-                if (width < 992) { // 小屏幕
-                    document.getElementById("bxlk-title").className = "text-center card-title mt-0 mb-0";
-                } else { // 大屏幕
-                document.getElementById("bxlk-title").className = "text-center card-title mt-3";
-                }
-            }
-            
-            // 调用函数,设置文字大小
-            window.addEventListener("resize", function(){
-                setTextSize();
-            });
-            setTextSize();
-            
-            // 目标时间目标时间2023年5月18日上午8:00
-            var countDownDate = new Date("May 18, 2023 08:00:00").getTime();
-            var days, hours, minutes;
-            
-            function countdown() {
-                // 获取当前时间 
-                var now = new Date().getTime();
-                
-                // 计算剩余时间
-                var distance = countDownDate - now;
-                
-                // 秒数需要更新
-                var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-                document.getElementById("seconds").innerHTML = seconds;
-                
-                // 其他时间只在seconds变为59的时候更新
-                if (seconds == 59) {
-                days = Math.floor(distance / (1000 * 60 * 60 * 24));
-                document.getElementById("days").innerHTML = days;
-                hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-                document.getElementById("hours").innerHTML = hours;
-                minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-                document.getElementById("minutes").innerHTML = minutes;
-                }
-            }
-            function firstTime() {
-                var now = new Date().getTime();
-                var distance = countDownDate - now;
-                days = Math.floor(distance / (1000 * 60 * 60 * 24));
-                document.getElementById("days").innerHTML = days;
-                hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-                document.getElementById("hours").innerHTML = hours;
-                minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-                document.getElementById("minutes").innerHTML = minutes;
-            }
-            // 调用函数,每秒刷新一次
-            var interval = setInterval(function() {
-                countdown();
-            }, 1000);
-            countdown()
-            firstTime()
-            </script>
+            <button type="button" class="btn btn-light btn-sm" style="position: absolute; bottom: 16px; right: 16px;" data-bs-toggle="modal" data-bs-target="#chooseDateModal">
+                修改
+            </button>
+            <div class="modal fade" id="chooseDateModal" tabindex="-1" aria-labelledby="chooseDateModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="chooseDateModalLabel">选择倒计时目标日期</h5>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                            <p id="target_date">当前目标时间：2023年5月17日 星期四8:0:0</p>
+                            <input type="datetime-local" id="dateTimePicker">
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">取消</button>
+                            <button type="button" class="btn btn-primary" onclick="changeDate()" data-bs-dismiss="modal">确定</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
     <div class="card col-lg-6" style="display:inline-block">
@@ -138,6 +86,142 @@
         </div>
     </div>
 </div>
+
+<script>
+// 定义文字大小函数
+function setTextSize() {
+    // 获取屏幕宽度
+    var width = document.documentElement.clientWidth;
+    if (width < 430) { // 小屏幕
+        for (i = 0; i < 4; i++) {
+            document.getElementsByClassName("number")[i].style.fontSize = "42px";
+            document.getElementsByClassName("text")[i].style.fontSize = "16px";
+            document.getElementsByClassName("time")[i].style.width = "60px";
+        }
+    } else { // 大屏幕
+        for (i = 0; i < 4; i++) {
+            document.getElementsByClassName("number")[i].style.fontSize = "60px";
+            document.getElementsByClassName("text")[i].style.fontSize = "24px";
+            document.getElementsByClassName("time")[i].style.width = "80px";
+        }
+    }
+    if (width < 992) { // 小屏幕
+        document.getElementById("bxlk-title").className = "text-center card-title mt-0 mb-0";
+    } else { // 大屏幕
+    document.getElementById("bxlk-title").className = "text-center card-title mt-3";
+    }
+}
+
+// 调用函数,设置文字大小
+window.addEventListener("resize", function(){
+    setTextSize();
+});
+setTextSize();
+
+// -------- 以上是响应式设计部分 --------
+// -------- 以下是倒计时部分 --------
+//
+// 目标时间2023年5月18日上午8:00
+var countDownDate = new Date("May 17, 2023 08:00:00").getTime();
+var days, hours, minutes;
+var interval;
+
+function countdown() {
+    // 获取当前时间
+    var now = new Date().getTime();
+    
+    // 计算剩余时间
+    var distance = countDownDate - now;
+    
+    if (distance >= 0) {
+        // 秒数需要更新
+        var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+        document.getElementById("seconds").innerHTML = seconds;
+        
+        // 其他时间只在seconds变为59的时候更新
+        if (seconds == 59) {
+            days = Math.floor(distance / (1000 * 60 * 60 * 24));
+            document.getElementById("days").innerHTML = days;
+            hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+            document.getElementById("hours").innerHTML = hours;
+            minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+            document.getElementById("minutes").innerHTML = minutes;
+        }
+    } else {
+        days = 0;
+        hours = 0;
+        minutes = 0;
+        seconds = 0;
+        
+        // 添加判断,如果distance小于0,清除setInterval以停止计时
+        clearInterval(interval);
+        // 添加警告框提示代码
+        var alertDiv = document.createElement("div");
+        alertDiv.className = "alert alert-warning mt-3";
+        alertDiv.innerHTML = "倒计时已经结束!";
+        document.getElementById("bxlk-title").appendChild(alertDiv);
+        
+        // 隐藏原倒计时
+        document.querySelector(".countdown").style.display = "none";
+    }
+}
+function firstTime() {
+    var now = new Date().getTime();
+    var distance = countDownDate - now;
+    if (distance >= 0) {
+        days = Math.floor(distance / (1000 * 60 * 60 * 24));
+        document.getElementById("days").innerHTML = days;
+        hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        document.getElementById("hours").innerHTML = hours;
+        minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+        document.getElementById("minutes").innerHTML = minutes;
+    } else {
+        days = 0;
+        hours = 0;
+        minutes = 0;
+        seconds = 0;
+    }
+}
+// 定义getChineseDate()函数
+function getChineseDate(dateStr) {
+    var date = new Date(dateStr);
+    var year = date.getFullYear();
+    var month = date.getMonth() + 1;
+    var day = date.getDate();
+    var week = date.getDay();
+    var weeks = ["星期日", "星期一", "星期二", "星期三", "星期四", "星期五", "星期六"];
+    var hour = date.getHours();
+    var minute = date.getMinutes();
+    var second = date.getSeconds();
+    
+    return "当前目标时间：" + year + "年" + month + "月" + day + "日 " + weeks[week] + hour + ":" + minute + ":" + second;
+}
+// 添加changeDate函数
+function changeDate() {
+    // 获取选中的日期
+    var date = document.getElementById("dateTimePicker").value;
+    countDownDate = new Date(date).getTime();
+    firstTime()
+    // 更新模态触发按钮显示的中文日期
+    document.getElementById("target_date").innerText = getChineseDate(date);
+    
+    document.querySelector(".alert").remove();
+    document.querySelector(".countdown").style.display = "block";
+    
+    clearInterval(interval);
+    interval = setInterval(function() {
+        countdown();
+    }, 1000);
+}
+// 初始化调用
+firstTime()
+countdown()
+// 调用函数,每秒刷新一次
+interval = setInterval(function() {
+    countdown();
+}, 1000);
+document.getElementById("target_date").innerText = getChineseDate("May 17, 2023 08:00:00");
+</script>
 
 # 经典诵读
 
@@ -216,5 +300,5 @@ if (now < date) {
 </div>
 
 <br />
-<span class="badge bg-secondary">xiaocaozz.top [Version: 0.4.2.5] <a href="/history" class="text-info">更新历史</a></span>
+<span class="badge bg-secondary">xiaocaozz.top [Version: 0.4.2.6] <a href="/history" class="text-info">更新历史</a></span>
 <br />

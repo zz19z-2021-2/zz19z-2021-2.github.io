@@ -1,3 +1,10 @@
+# 更新历史
+
+详细的历史记录请见[GitHub上的本网站存储库](https://github.com/zz19z-2021-2/zz19z-2021-2.github.io)。本页面不包含`Alpha`版和`0._._.X`等非正式更新。例如，`0.4.2.1`是一个非正式更新，而`0.4.2`是一个正式更新。
+
+**最后更新：2023年4月29日。**
+
+<div id="tableOfContents"></div>
 <script>
 function generateTableOfContents() {
   // 获取div容器和所有h1标题
@@ -34,14 +41,6 @@ function generateTableOfContents() {
 
 window.onload = generateTableOfContents;
 </script>
-
-# 更新历史
-
-详细的历史记录请见[GitHub上的本网站存储库](https://github.com/zz19z-2021-2/zz19z-2021-2.github.io)。本页面不包含`Alpha`版和`0._._.X`等非正式更新。例如，`0.4.2.1`是一个非正式更新，而`0.4.2`是一个正式更新。
-
-**最后更新：2023年4月29日。**
-
-<div id="tableOfContents"></div>
 
 # Version 0.3.0
 

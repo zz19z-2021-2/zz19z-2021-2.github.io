@@ -17,7 +17,7 @@
 
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      <h2 class="project-tagline mt-3">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
@@ -29,7 +29,7 @@
     <nav class="navbar navbar-expand-sm navbar-dark" style="background-image: linear-gradient(60deg, #155799, #159957);">
         <div class="container">
             <a class="navbar-brand" href="/">笑草班</a>
-            <ul class="navbar-nav">
+            <ul class="navbar-nav me-auto">
                 <li class="nav-item">
                     <a class="nav-link" href="/overview">内容总览</a>
                 </li>

@@ -10,7 +10,7 @@
             <h2 class="card-title">资料整理页面大更新！</h2>
             <p class="card-text">为了满足日益增多的学习资料，我们几乎重写了整个资料整理页面，来保证你可以方便地查找、使用资料。还等什么？快去看看全新设计的页面吧！</p>
             <div class="card-text d-grid">
-                <a type="button" class="btn btn-primary btn-block" href="/资料整理">资料整理</a>
+                <a type="button" class="btn btn-primary btn-block mb-2" href="/资料整理">资料整理</a>
             </div>
         </div>
     </div>
@@ -93,5 +93,5 @@ if (now < date) {
 </div>
 
 <br />
-<span class="badge bg-secondary">xiaocaozz.top [Version: 0.4.3 Alpha 2] <a href="/history" class="text-info">更新历史</a></span>
+<span class="badge bg-secondary">xiaocaozz.top [Version: 0.4.3 Alpha 3] <a href="/history" class="text-info">更新历史</a></span>
 <br />

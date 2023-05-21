@@ -4,12 +4,13 @@
 
 愿现在看到这里的你，在以后的学习和生活中，都能遇见更好的自己。
 
-<div class="card" style="display:inline-block">
+<div class="card bg-danger text-white">
     <div class="card-body">
-        <h2 class="card-title">资料整理页面大更新！</h2>
-        <p class="card-text">为了满足日益增多的学习资料，我们几乎重写了整个资料整理页面，来保证你可以方便地查找、使用资料。还等什么？快去看看全新设计的页面吧！</p>
+        <h2 class="card-title text-white">资料整理页面暂时关闭！</h2>
+        <p class="card-text">很抱歉，由于某些技术原因，资料整理页面暂时关闭。这种情况的持续时间将持续14天到两个月不等。非常抱歉给您带来的不便！</p>
+        <p class="card-text">与此同时，所有与OneDrive有关的服务都被暂停。我们正在尝试将所有资料迁移至飞书，并尽最大努力进行恢复，保证资料的正常访问。</p>
         <div class="card-text d-grid">
-            <a type="button" class="btn btn-primary btn-block mb-2" href="/资料整理">资料整理</a>
+            <a type="button" class="btn btn-primary btn-block mb-2 disabled" href="/资料整理">资料整理</a>
         </div>
     </div>
 </div>
@@ -91,5 +92,5 @@ if (now < date) {
 </div>
 
 <br />
-<span class="badge bg-secondary">xiaocaozz.top [Version: 0.4.3 Alpha 6] <a href="/history" class="text-info">更新历史</a></span>
+<span class="badge bg-secondary">xiaocaozz.top [Version: 0.4.3] <a href="/history" class="text-info">更新历史</a></span>
 <br />

@@ -13,7 +13,7 @@
 <div class="btn-group">
 <a type="button" href="/feedback" class="btn btn-outline-primary">反馈与帮助</a>
 <a type="button" href="/overview" class="btn btn-outline-primary">内容总览</a>
-<a type="button" href="/个人空间" class="btn btn-outline-primary disabled">个人空间</a>
+<a type="button" href="/个人空间" class="btn btn-outline-primary">个人空间</a>
 <a type="button" href="/history" class="btn btn-outline-primary">更新历史</a>
 </div>
 
@@ -38,7 +38,7 @@
             <tr>
                 <td><a style="width:100%" href="/七年级｜阅读组合训练答案｜第二册" class="btn btn-outline-primary">七年级｜阅读组合训练答案｜第二册</a></td>
                 <td><a style="width:100%" href="/八年级上册｜政治学习资料整理" class="btn btn-outline-primary">八年级上册｜政治学习资料整理</a></td>
-                <td><a style="width:100%" href="/资料整理" class="btn btn-outline-primary">资料整理</a></td>
+                <td><a style="width:100%" href="/资料整理" class="btn btn-outline-primary disabled">资料整理</a></td>
             </tr>
             <tr>
                 <td><a style="width:100%" href="/七年级上册｜期末考试优秀作文" class="btn btn-outline-primary">七年级上册｜期末考试优秀作文</a></td>

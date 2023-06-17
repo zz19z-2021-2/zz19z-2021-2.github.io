@@ -1,3 +1,10 @@
 a {
     text-decoration: none;
 }
+p {
+    text-indent: 2em;
+    text-align: justify;
+}
+* {
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}

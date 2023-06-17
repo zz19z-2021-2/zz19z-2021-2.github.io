@@ -279,3 +279,24 @@ if (path.length <= 2) {
   document.getElementById("breadcrumbs").appendChild(breadcrumbNav);
 }
 ```
+
+# Auto Adjust Layout JS
+
+```
+<script>
+    function adjustLayout() {
+        var container = document.querySelector('ol');
+        if (window.innerWidth >= 800) {
+            container.style.columnCount = '3';
+        } else if (window.innerWidth >= 500) {
+            container.style.columnCount = '2';
+        } else {
+            container.style.columnCount = '1';
+        }
+    }
+    // 初始加载时调整布局
+    window.onload = adjustLayout();
+    // 当窗口大小改变时重新调整布局
+    window.addEventListener('resize', adjustLayout);
+</script>
+```

@@ -46,5 +46,7 @@ if (path.length <= 2) {
     breadcrumbNav.style.setProperty("--bs-breadcrumb-divider", "'> '");
     breadcrumbNav.appendChild(breadcrumbList);
 
-    document.getElementById("breadcrumbs").appendChild(breadcrumbNav);
+    window.onload = function() {
+        document.getElementById("breadcrumbs").appendChild(breadcrumbNav);
+    };
 }

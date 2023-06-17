@@ -7,13 +7,18 @@
 h3 {
     margin-bottom: 0rem!important;
 }
+p {
+    text-indent: 0;
+}
 </style>
 
 超链接太乱？这里列出了我们网站的所有页面。
 
 <hr />
 
-<a type="button" href="/" class="btn btn-primary w-100 mb-0">首页</a>
+<div class="d-grid mt-3">
+<a type="button" href="/" class="btn btn-primary mb-0">首页</a>
+</div>
 
 <hr />
 

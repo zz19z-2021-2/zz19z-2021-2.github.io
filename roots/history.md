@@ -7,27 +7,6 @@
 ## 目录
 
 <ul id="tableOfContents"></ul>
-<script>
-    function generateTableOfContents() {
-        var toc = document.getElementById("tableOfContents");
-        var headers = document.querySelectorAll("h1");
-
-        if (headers.length > 0) {
-            for (var i = 2; i < headers.length; i++) {
-                var a = document.createElement("a");
-                a.href = "#" + headers[i].id;
-                a.innerText = headers[i].innerText;
-
-                var li = document.createElement("li");
-                li.appendChild(a);
-
-                toc.appendChild(li);
-            }
-        }
-    }
-
-    window.onload = generateTableOfContents();
-</script>
 
 # Version 0.3.0
 
@@ -127,7 +106,7 @@
 
 本次更新发布于2023年5月20日，重新设计了导航栏，移除了“八校联考倒计时”，并因OneDrive订阅过期，暂时暂停了[资料整理](/其他/资料整理)页面和所有由OneDrive提供的服务。此次更新大幅调整了页面的源代码形式，优化网站构建和渲染，使个人空间页面得以重新开放。
 
-**更详细的更新记录请见：[GitHub上从v0.4.2.8到v0.4.3的各文件详细对比](https://github.com/zz19z-2021-2/zz19z-2021-2.github.io/compare/7795ecba60b0279477baac4573fc31beb4af46b6...fdcbe74034cf1e62f4464cc12759f4858e96a73a?diff=split)。**
+**更详细的更新记录请见：[GitHub上从v0.4.2.8到v0.4.3的各文件详细对比](https://github.com/zz19z-2021-2/zz19z-2021-2.github.io/compare/7795ecba60b0279477baac4573fc31beb4af46b6...8cf61e64751242693163072d98bbef6b2ce42b4c)。**
 
 ## 新内容
 
@@ -151,9 +130,9 @@
 - 现在每个页面的导航栏与其顶部渐变色横幅相连，并具有类似的渐变效果。
 - 移除了[首页](/)的“八校联考倒计时”和对应的Javascript。
 - 由于OneDrive订阅即将过期，
-	- 在[首页](/)添加了提示；
-	- 暂时停用了[资料整理](/其他/资料整理)页面；
-	- 所有链接至OneDrive的按钮均被禁用。
+    - 在[首页](/)添加了提示；
+    - 暂时停用了[资料整理](/其他/资料整理)页面；
+    - 所有链接至OneDrive的按钮均被禁用。
 - 点击[个人空间](/其他/个人空间)上的“前往Ta的主页”按钮（或输入姓名后回车确认）后，新页面会在当前窗口打开了（而非在新窗口中打开）。
 
 ### 技术性
@@ -168,7 +147,9 @@
 
 # Version 0.4.4
 
-该版本的`Alpha 1`和`Alpha 2`发布于2023年6月17日，大幅调整了网站的内容路径，重写了[内容总览](/roots/overview)页面，添加了面包屑导航，新增了[八年级 / 下册 / 八校联考优秀作文](/八年级/下册/八校联考优秀作文)页面。该版本的`Alpha 3`至`Alpha 6`发布于2023年6月18日，修复了一些页面显示不正确的问题，给[七年级 / 上册 / 期末考试优秀作文](七年级/上册/期末考试优秀作文)添加了按需加载图片的功能。
+该版本发布于2023年6月18日，大幅调整了网站的内容路径，重写了[内容总览](/roots/overview)页面，添加了面包屑导航，新增了[八年级 / 下册 / 八校联考优秀作文](/八年级/下册/八校联考优秀作文)页面，给[七年级 / 上册 / 期末考试优秀作文](七年级/上册/期末考试优秀作文)添加了按需加载图片的功能。
+
+**更详细的更新记录请见：[GitHub上从v0.4.3到v0.4.4 Alpha 6的各文件详细对比](https://github.com/zz19z-2021-2/zz19z-2021-2.github.io/compare/8cf61e64751242693163072d98bbef6b2ce42b4c...3f02d43c32d7de2a625ba3d704f6377a5831d4a6)。**
 
 ## 新内容
 
@@ -198,6 +179,7 @@
 - 所有带目录的页面现在都可以自动调整目录分栏，以便充分利用屏幕空间。
 - 由于网站导航栏更改，将[八年级 / 上册 / 政治学习资料整理](/八年级/上册/政治学习资料整理)页面中，切换口诀和完整内容的按钮从胶囊修改为标签页。
 - 现在[个人空间](/其他/个人空间)页面的姓名输入框和按钮会在屏幕横向宽度不足时换行显示。
+- 现在[七年级 / 上册 / 期末考试优秀作文](七年级/上册/期末考试优秀作文)也有按需加载图片的功能了。
 
 ### 技术性
 
@@ -221,3 +203,22 @@
 - 浏览器工具栏中的标题现在是“笑草班”（修复前为`zz19z-2021-2.github.io`）。
 - [内容总览](/roots/overview)页面现在按钮和标题与分割线之间不再有无意义的空白。
 - 隐藏页面[你好](/niganma)现在也会有相同的页面头部了。
+
+<script>
+    function generateTableOfContents() {
+        var toc = document.getElementById("tableOfContents");
+        var headers = document.querySelectorAll("h1");
+        if (headers.length > 0) {
+            for (var i = 2; i < headers.length; i++) {
+                var a = document.createElement("a");
+                a.href = "#" + headers[i].id;
+                a.innerText = headers[i].innerText;
+                var li = document.createElement("li");
+                li.appendChild(a);
+
+                toc.appendChild(li);
+            }
+        }
+    }
+generateTableOfContents();
+</script>

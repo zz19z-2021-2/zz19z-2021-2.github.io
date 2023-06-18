@@ -13,5 +13,5 @@
   100% {transform: rotateY(360deg) translate(0px,0px)}
 }
 </style>
-<img class="likexuanzhuan" src="https://s1.ax1x.com/2022/12/27/zzeAp9.png" alt="旋转的路艳超.png" width=100% />
-<audio controls="controls" preload="auto" autoplay="autoplay" loop="loop"><source src="Files/likexuanzhuan.mp3" type="audio/mpeg"><source src="Files/likexuanzhuan.ogg" type="audio/ogg" />你的浏览器不支持mp3音乐格式！</audio>
+<img class="likexuanzhuan" src="https://s1.ax1x.com/2022/12/27/zzeAp9.png" alt="旋转的路艳超.png" width=100%>
+<audio controls="controls" preload="auto" autoplay="autoplay" loop="loop"><source src="Files/likexuanzhuan.mp3" type="audio/mpeg"><source src="Files/likexuanzhuan.ogg" type="audio/ogg">你的浏览器不支持mp3音乐格式！</audio>

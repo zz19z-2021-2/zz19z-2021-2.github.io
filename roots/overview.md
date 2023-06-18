@@ -74,6 +74,7 @@ p {
             <a type="button" href="/八年级/上册/数学学习资料整理" class="mb-0 btn-outline-primary btn ms-0">上册 / 数学学习资料整理</a>
             <a type="button" href="/八年级/上册/政治学习资料整理" class="btn btn-outline-primary ms-0">上册 / 政治学习资料整理</a>
             <a type="button" href="/八年级/上册/期末背书规划" class="btn btn-outline-primary ms-0">上册 / 期末背书规划</a>
+            <a type="button" href="/八年级/下册/八校联考优秀作文" class="btn btn-outline-primary ms-0">下册 / 八校联考优秀作文</a>
         </div>
     </div>
     <div class="list-group w-100 mb-3" style="display:inline-block;">

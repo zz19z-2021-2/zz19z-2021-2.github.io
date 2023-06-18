@@ -106,5 +106,5 @@ if (now < date) {
 </div>
 
 <br />
-<span style="text-indent: 0;" class="badge bg-secondary">xiaocaozz.top [Version: 0.4.4 Alpha 5] <a href="/roots/history" class="text-info">更新历史</a></span>
+<span style="text-indent: 0;" class="badge bg-secondary">xiaocaozz.top [Version: 0.4.4 Alpha 6] <a href="/roots/history" class="text-info">更新历史</a></span>
 <br />

@@ -286,9 +286,9 @@ if (path.length <= 2) {
 <script>
     function adjustLayout() {
         var container = document.querySelector('ol');
-        if (window.innerWidth >= 800) {
+        if (window.innerWidth >= 1024) {
             container.style.columnCount = '3';
-        } else if (window.innerWidth >= 500) {
+        } else if (window.innerWidth >= 750) {
             container.style.columnCount = '2';
         } else {
             container.style.columnCount = '1';

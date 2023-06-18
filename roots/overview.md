@@ -31,7 +31,7 @@ p {
 <script>
     function updateButtonLayout() {
         const buttonGroup = document.querySelector("#buttonGroup");
-        const isVerticalLayout = window.innerWidth < 420;
+        const isVerticalLayout = window.innerWidth < 672;
 
         if (isVerticalLayout) {
             buttonGroup.classList.add("btn-group-vertical");
@@ -60,50 +60,36 @@ p {
 <div id="overview_contents" style="column-count:3;">
     <div class="list-group w-100 mb-3" style="display:inline-block;">
         <h3 class="list-group-item list-group-item-primary">七年级</h3>
-        <a href="/七年级/笑草说" class="list-group-item">
-            <button type="button" class="btn btn-outline-primary w-100">笑草说</button>
-        </a>
-        <a href="/七年级/阅读组合训练答案｜第二册" class="list-group-item">
-            <button type="button" class="btn btn-outline-primary w-100">阅读组合训练答案｜第二册</button>
-        </a>
-        <a href="/七年级/上册/期末考试优秀作文" class="list-group-item">
-            <button type="button" class="btn btn-outline-primary w-100">上册 / 期末考试优秀作文</button>
-        </a>
-        <a href="/七年级/下册/两弹一星" class="list-group-item">
-            <button type="button" class="btn btn-outline-primary w-100">下册 / 两弹一星</button>
-        </a>
-        <a href="/七年级/下册/暑假英语练习" class="list-group-item">
-            <button type="button" class="btn btn-outline-primary w-100">下册 / 暑假英语练习</button>
-        </a>
+        <div class="flex-column btn-group-vertical d-flex list-group-item pt-3 pb-3">
+            <a type="button" href="/七年级/笑草说" class="mb-0 btn-outline-primary btn ms-0">笑草说</a>
+            <a type="button" href="/七年级/阅读组合训练答案｜第二册" class="btn btn-outline-primary ms-0">阅读组合训练答案｜第二册</a>
+            <a type="button" href="/七年级/上册/期末考试优秀作文" class="btn btn-outline-primary ms-0">上册 / 期末考试优秀作文</a>
+            <a type="button" href="/七年级/下册/两弹一星" class="btn btn-outline-primary ms-0">下册 / 两弹一星</a>
+            <a type="button" href="/七年级/下册/暑假英语练习" class="btn btn-outline-primary ms-0">下册 / 暑假英语练习</a>
+        </div>
     </div>
     <div class="list-group w-100 mb-3" style="display:inline-block;">
         <h3 class="list-group-item list-group-item-primary">八年级</h3>
-        <a href="/八年级/上册/数学学习资料整理" class="list-group-item">
-            <button type="button" class="btn btn-outline-primary w-100">上册 / 数学学习资料整理</button>
-        </a>
-        <a href="/八年级/上册/政治学习资料整理" class="list-group-item">
-            <button type="button" class="btn btn-outline-primary w-100">上册 / 政治学习资料整理</button>
-        </a>
-        <a href="/八年级/上册/期末背书规划" class="list-group-item">
-            <button type="button" class="btn btn-outline-primary w-100">上册 / 期末背书规划</button>
-        </a>
+        <div class="flex-column btn-group-vertical d-flex list-group-item pt-3 pb-3">
+            <a type="button" href="/八年级/上册/数学学习资料整理" class="mb-0 btn-outline-primary btn ms-0">上册 / 数学学习资料整理</a>
+            <a type="button" href="/八年级/上册/政治学习资料整理" class="btn btn-outline-primary ms-0">上册 / 政治学习资料整理</a>
+            <a type="button" href="/八年级/上册/期末背书规划" class="btn btn-outline-primary ms-0">上册 / 期末背书规划</a>
+        </div>
     </div>
     <div class="list-group w-100 mb-3" style="display:inline-block;">
         <h3 class="list-group-item list-group-item-primary">其它</h3>
-        <a href="/其他/2022元旦联欢会" class="list-group-item">
-            <button type="button" class="btn btn-outline-primary w-100">2022元旦联欢会</button>
-        </a>
-        <a href="/其他/资料整理" class="list-group-item disabled">
-            <button type="button" class="btn btn-outline-primary w-100" disabled>资料整理</button>
-        </a>
+        <div class="flex-column btn-group-vertical d-flex list-group-item pt-3 pb-3">
+            <a type="button" href="/其他/2022元旦联欢会" class="mb-0 btn-outline-primary btn ms-0">2022元旦联欢会</a>
+            <a type="button" href="/其他/资料整理" class="btn btn-outline-primary ms-0">资料整理</a>
+        </div>
     </div>
 </div>
 <script>
     function adjustLayout() {
         var container = document.getElementById("overview_contents");
-        if (window.innerWidth >= 900) {
+        if (window.innerWidth >= 950) {
             container.style.columnCount = '3';
-        } else if (window.innerWidth >= 550) {
+        } else if (window.innerWidth >= 570) {
             container.style.columnCount = '2';
         } else {
             container.style.columnCount = '1';

@@ -27,6 +27,7 @@ p {
     <a type="button" href="/roots/overview" class="btn btn-outline-primary mb-0">内容总览</a>
     <a type="button" href="/其他/个人空间" class="btn btn-outline-primary mb-0">个人空间</a>
     <a type="button" href="/roots/history" class="btn btn-outline-primary mb-0">更新历史</a>
+    <a type="button" href="/roots/backups" class="btn btn-outline-primary mb-0">网站代码备份</a>
 </div>
 <script>
     function updateButtonLayout() {

@@ -4,13 +4,14 @@
 
 愿现在看到这里的你，在以后的学习和生活中，都能遇见更好的自己。
 
-<div class="card bg-danger text-white">
-    <div class="card-body">
-        <h2 class="card-title text-white">资料整理页面暂时关闭！</h2>
-        <p class="card-text">很抱歉，由于某些技术原因，资料整理页面暂时关闭。这种情况的持续时间将持续14天到两个月不等。非常抱歉给您带来的不便！</p>
-        <p class="card-text">与此同时，所有与OneDrive有关的服务都被暂停。我们正在尝试将所有资料迁移至飞书，并尽最大努力进行恢复，保证资料的正常访问。</p>
-        <div class="card-text d-grid">
-            <a type="button" class="btn btn-primary btn-block mb-2 disabled" href="/资料整理">资料整理</a>
+<div class="alert alert-success">
+    <div>
+        <h2 class="mb-3">资料整理页面现已部分开启！</h2>
+        <p>近一个月的筹备过后，我们高兴地宣布：资料整理页面现已部分可用！</p>
+        <p>可用的服务包括资料的查看和下载，但所有与OneDrive有关的服务仍被暂停。影响的功能包括“收件箱”和“制作个人空间”。这是由于我们仍未找到能够替代OneDrive的其他云服务商，允许上传与共享文件。这种情况可能将继续维持一个月左右的时间，直至我们的账号注册完毕并再次可用。在此之前，感谢您一直以来的等待与支持。</p>
+        <p>我们将会在暑假期间进行一次大版本更新，包括对深色模式的支持等！敬请期待～</p>
+        <div class="d-grid">
+            <a class="btn btn-success" href="/其他/资料整理">前往“资料整理”页面</a>
         </div>
     </div>
 </div>
@@ -18,7 +19,6 @@
 # 经典诵读
 
 <div class="mb-3" id="activityStatus_2"></div>
-
 <script>
 var date = new Date(2023, 3, 20, 16, 10);  // 设置活动开始时间
 var endTime = new Date(2023, 3, 20, 18, 30); // 设置活动结束时间
@@ -79,7 +79,6 @@ if (now < date) {
 # 励志远足
 
 <div class="mb-3" id="activityStatus"></div>
-
 <script>
 var date = new Date(2023, 3, 14, 7, 40);  // 设置活动开始时间
 var endTime = new Date(2023, 3, 14, 16, 30); // 设置活动结束时间
@@ -106,5 +105,5 @@ if (now < date) {
 </div>
 
 <br />
-<span style="text-indent: 0;" class="badge bg-secondary">xiaocaozz.top [Version: 0.4.4] <a href="/roots/history" class="text-info">更新历史</a></span>
+<span style="text-indent: 0;" class="badge bg-secondary">xiaocaozz.top [Version: 0.4.4.1] <a href="/roots/history" class="text-info">更新历史</a></span>
 <br />

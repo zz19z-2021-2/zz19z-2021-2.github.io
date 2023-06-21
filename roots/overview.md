@@ -32,7 +32,7 @@ p {
 <script>
     function updateButtonLayout() {
         const buttonGroup = document.querySelector("#buttonGroup");
-        const isVerticalLayout = window.innerWidth < 672;
+        const isVerticalLayout = window.innerWidth < 680;
 
         if (isVerticalLayout) {
             buttonGroup.classList.add("btn-group-vertical");
@@ -82,7 +82,7 @@ p {
         <h3 class="list-group-item list-group-item-primary">其它</h3>
         <div class="flex-column btn-group-vertical d-flex list-group-item pt-3 pb-3">
             <a type="button" href="/其他/2022元旦联欢会" class="mb-0 btn-outline-primary btn ms-0">2022元旦联欢会</a>
-            <a type="button" href="/其他/资料整理" class="btn btn-outline-primary ms-0 disabled">资料整理</a>
+            <a type="button" href="/其他/资料整理" class="btn btn-outline-primary ms-0">资料整理</a>
         </div>
     </div>
 </div>

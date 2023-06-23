@@ -12,8 +12,8 @@
         <p>我们将会在暑假期间进行一次大版本更新，包括对深色模式的支持等！敬请期待～</p>
         <div class="d-grid">
             <div class="btn-group-vertical">
-                <a class="btn btn-outline-success" href="/其他/资料整理">前往“资料整理”页面</a>
-                <a class="btn btn-outline-success" href="/八年级/下册/政治学习资料整理">新页面！前往“八年级 / 下册 / 政治学习资料整理”页面</a>
+                <a class="btn btn-outline-success mb-0" href="/其他/资料整理">前往“资料整理”页面</a>
+                <a class="btn btn-outline-success ms-0" href="/八年级/下册/政治学习资料整理">新页面！前往“八年级 / 下册 / 政治学习资料整理”页面</a>
             </div>
         </div>
     </div>
@@ -108,5 +108,5 @@ if (now < date) {
 </div>
 
 <br />
-<span style="text-indent: 0;" class="badge bg-secondary">xiaocaozz.top [Version: 0.4.4.1] <a href="/roots/history" class="text-info">更新历史</a></span>
+<span style="text-indent: 0;" class="badge bg-secondary">xiaocaozz.top [Version: 0.4.4.2] <a href="/roots/history" class="text-info">更新历史</a></span>
 <br />

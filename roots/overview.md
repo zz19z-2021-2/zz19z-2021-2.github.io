@@ -25,14 +25,13 @@ p {
 <div class="btn-group" id="buttonGroup">
     <a type="button" href="/roots/feedback" class="btn btn-outline-primary mb-0">帮助 / 反馈</a>
     <a type="button" href="/roots/overview" class="btn btn-outline-primary mb-0">内容总览</a>
-    <a type="button" href="/其他/个人空间" class="btn btn-outline-primary mb-0">个人空间</a>
     <a type="button" href="/roots/history" class="btn btn-outline-primary mb-0">更新历史</a>
     <a type="button" href="/roots/backups" class="btn btn-outline-primary mb-0">网站代码备份</a>
 </div>
 <script>
     function updateButtonLayout() {
         const buttonGroup = document.querySelector("#buttonGroup");
-        const isVerticalLayout = window.innerWidth < 680;
+        const isVerticalLayout = window.innerWidth < 672;
 
         if (isVerticalLayout) {
             buttonGroup.classList.add("btn-group-vertical");
@@ -76,6 +75,7 @@ p {
             <a type="button" href="/八年级/上册/政治学习资料整理" class="btn btn-outline-primary ms-0">上册 / 政治学习资料整理</a>
             <a type="button" href="/八年级/上册/期末背书规划" class="btn btn-outline-primary ms-0">上册 / 期末背书规划</a>
             <a type="button" href="/八年级/下册/八校联考优秀作文" class="btn btn-outline-primary ms-0">下册 / 八校联考优秀作文</a>
+            <a type="button" href="/八年级/下册/政治学习资料整理" class="btn btn-outline-primary ms-0">下册 / 政治学习资料整理</a>
         </div>
     </div>
     <div class="list-group w-100 mb-3" style="display:inline-block;">
@@ -83,6 +83,7 @@ p {
         <div class="flex-column btn-group-vertical d-flex list-group-item pt-3 pb-3">
             <a type="button" href="/其他/2022元旦联欢会" class="mb-0 btn-outline-primary btn ms-0">2022元旦联欢会</a>
             <a type="button" href="/其他/资料整理" class="btn btn-outline-primary ms-0">资料整理</a>
+            <a type="button" href="/其他/个人空间" class="btn btn-outline-primary ms-0">个人空间</a>
         </div>
     </div>
 </div>

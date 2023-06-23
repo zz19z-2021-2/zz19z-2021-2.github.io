@@ -11,7 +11,10 @@
         <p>可用的服务包括资料的查看和下载，但所有与OneDrive有关的服务仍被暂停。影响的功能包括“收件箱”和“制作个人空间”。这是由于我们仍未找到能够替代OneDrive的其他云服务商，允许上传与共享文件。这种情况可能将继续维持一个月左右的时间，直至我们的账号注册完毕并再次可用。在此之前，感谢您一直以来的等待与支持。</p>
         <p>我们将会在暑假期间进行一次大版本更新，包括对深色模式的支持等！敬请期待～</p>
         <div class="d-grid">
-            <a class="btn btn-success" href="/其他/资料整理">前往“资料整理”页面</a>
+            <div class="btn-group-vertical">
+                <a class="btn btn-outline-success" href="/其他/资料整理">前往“资料整理”页面</a>
+                <a class="btn btn-outline-success" href="/八年级/下册/政治学习资料整理">新页面！前往“八年级 / 下册 / 政治学习资料整理”页面</a>
+            </div>
         </div>
     </div>
 </div>

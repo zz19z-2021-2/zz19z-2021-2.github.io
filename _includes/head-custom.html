@@ -40,7 +40,19 @@
     }
   }
 
-//   setTheme(getPreferredTheme())
+// const toggleDarkMode = () => {
+//   const darkModeToggle = document.getElementById('darkModeToggle');
+//   darkModeToggle.addEventListener('click', () => {
+//     if (document.documentElement.getAttribute('data-bs-theme') === 'dark') {
+//       setTheme('light');
+//     } else {
+//       setTheme('dark');
+//     }
+//   });
+// };
+
+  setTheme(getPreferredTheme());
+//   toggleDarkMode();
 
   const showActiveTheme = theme => {
     const activeThemeIcon = document.querySelector('.theme-icon-active use')
@@ -55,27 +67,37 @@
     activeThemeIcon.setAttribute('href', svgOfActiveBtn)
   }
 
-//   window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => {
-//     if (storedTheme !== 'light' || storedTheme !== 'dark') {
-//       setTheme(getPreferredTheme())
-//     }
-//   })
-// 
-//   window.addEventListener('DOMContentLoaded', () => {
-//     showActiveTheme(getPreferredTheme())
-// 
-//     document.querySelectorAll('[data-bs-theme-value]')
-//       .forEach(toggle => {
-//         toggle.addEventListener('click', () => {
-//           const theme = toggle.getAttribute('data-bs-theme-value')
-//           localStorage.setItem('theme', theme)
-//           setTheme(theme)
-//           showActiveTheme(theme)
-//         })
-//       })
-//   })
-})()
+  window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => {
+    if (storedTheme !== 'light' || storedTheme !== 'dark') {
+      setTheme(getPreferredTheme())
+    }
+  })
+
+  window.addEventListener('DOMContentLoaded', () => {
+    showActiveTheme(getPreferredTheme())
+
+    document.querySelectorAll('[data-bs-theme-value]')
+      .forEach(toggle => {
+        toggle.addEventListener('click', () => {
+          const theme = toggle.getAttribute('data-bs-theme-value')
+          localStorage.setItem('theme', theme)
+          setTheme(theme)
+          showActiveTheme(theme)
+        })
+      })
+  })
+})();
 </script>
+<style>
+body {
+  transition: background-color 0.3s ease;
+}
+
+.page-header,
+nav {
+  transition: background-image 0.3s ease;
+}
+</style>
 <!-- Setup Google Analytics -->
 {% include head-custom-google-analytics.html %}
 

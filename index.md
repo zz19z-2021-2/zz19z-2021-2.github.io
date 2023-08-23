@@ -52,8 +52,8 @@ if (now < jdsd_2_date) {
 
 <div class="card">
     <div class="card-body">
-        <h2 class="card-title">壮美东坡</h1>
-        <h3 class="card-title">江城子 · 密州出猎</h2>
+        <h2 class="card-title">壮美东坡</h2>
+        <h3 class="card-title">江城子 · 密州出猎</h3>
         <p class="card-text">老夫聊发少年狂，左牵黄，右擎苍，
         锦帽貂裘，千骑卷平冈。
         为报倾城随太守，亲射虎，看孙郎。</p>
@@ -61,13 +61,13 @@ if (now < jdsd_2_date) {
         持节云中，何日遣冯唐？
         会挽雕弓如满月，西北望，射天狼。</p>
         
-        <h3 class="card-title">定风波 · 莫听穿林打叶声</h2>
+        <h3 class="card-title">定风波 · 莫听穿林打叶声</h3>
         <p class="card-text">莫听穿林打叶声，何妨吟啸且徐行。
         竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生。</p>
         <p class="card-text">料峭春风吹酒醒，微冷，山头斜照却相迎。
         回首向来萧瑟处，归去，也无风雨也无晴。</p>
         
-        <h3 class="card-title">水调歌头 · 明月几时有</h2>
+        <h3 class="card-title">水调歌头 · 明月几时有</h3>
         <p class="card-text">明月几时有？把酒问青天。
         不知天上宫阙，今夕是何年。
         我欲乘风归去，又恐琼楼玉宇，高处不胜寒。
@@ -77,7 +77,7 @@ if (now < jdsd_2_date) {
         人有悲欢离合，月有阴晴圆缺，此事古难全。
         但愿人长久，千里共婵娟。</p>
         
-        <h3 class="card-title">念奴娇 · 赤壁怀古</h2>
+        <h3 class="card-title">念奴娇 · 赤壁怀古</h3>
         <p class="card-text">大江东去，浪淘尽，千古风流人物。
         故垒西边，人道是，三国周郎赤壁。
         乱石穿空，惊涛拍岸，卷起千堆雪。

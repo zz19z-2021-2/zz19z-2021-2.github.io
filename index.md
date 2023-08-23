@@ -6,13 +6,13 @@
 
 <div class="alert alert-success">
     <div>
-        <h2 class="mb-3">笑草班v0.5.0即将发布</h2>
-        <p>在我们正式步入九年级之际，我愿在此宣布：笑草班v0.5.0将在开学后一周内更新！</p>
-        <p>至此，我们的网站作为一个资源分享+博客网站，已经相当成熟。未来，还请大家善用反馈功能，多多关照呀！</p>
+        <h2 class="mb-3">笑草班v0.5.0发布</h2>
+        <p>在我们正式步入九年级之际，我愿在此宣布：笑草班v0.5.0更新正式发布！</p>
+        <p>至此，我们的网站作为一个资源分享+博客网站，已经相当成熟。未来，还请大家善用反馈功能提出建议，并多多关照呀！</p>
         <p>更新内容请见<a href="/roots/history">更新历史</a>页面。</p>
         <div class="d-grid">
             <div class="btn-group-vertical">
-                <a class="btn btn-outline-success mb-0" href="/其他/资料整理">前往“资料整理”页面</a>
+                <a class="btn btn-outline-success mb-0" href="/其他/资料整理">资料整理全部开放！现在前往“资料整理”页面</a>
 <!--                 <a class="btn btn-outline-success ms-0" href="/八年级/下册/政治学习资料整理">新页面！前往“八年级 / 下册 / 政治学习资料整理”页面</a> -->
             </div>
         </div>
@@ -123,5 +123,5 @@ if (now < jdsd_2_date) {
 </div>
 
 <br />
-<span style="text-indent: 0;" class="badge bg-secondary">xiaocaozz.top [Version: 0.4.5] <a href="/roots/history" class="text-info">更新历史</a></span>
+<span style="text-indent: 0;" class="badge bg-secondary">xiaocaozz.top [Version: 0.5.0] <a href="/roots/history" class="text-info">更新历史</a></span>
 <br />

@@ -12,8 +12,8 @@
         <p>更新内容请见<a href="/roots/history">更新历史</a>页面。</p>
         <div class="d-grid">
             <div class="btn-group-vertical">
-                <a class="btn btn-outline-success mb-0" href="/其他/资料整理">资料整理全部开放！现在前往“资料整理”页面</a>
-<!--                 <a class="btn btn-outline-success ms-0" href="/八年级/下册/政治学习资料整理">新页面！前往“八年级 / 下册 / 政治学习资料整理”页面</a> -->
+                <a class="btn btn-outline-success mb-0" href="/其他/资料整理">资料整理全部开放！前往“资料整理”页面</a>
+                <a class="btn btn-outline-success ms-0" href="/九年级/上册/政治学习资料整理">新页面！前往“九年级 / 上册 / 政治学习资料整理”页面</a>
             </div>
         </div>
     </div>
@@ -30,11 +30,11 @@ const jdsd_2_date = new Date(2023, 7, 24, 13, 00);
 const jdsd_2_endTime = new Date(2023, 7, 24, 18, 30);
 const now = new Date();
 if (now < jdsd_date) {
-  document.getElementById("jdsd").innerHTML = '<span class="badge bg-secondary">2023年4月20日｜活动准备中</span>';
+  document.getElementById("jdsd").innerHTML = '<span class="badge bg-secondary">2023年4月20日｜经典诵读准备中</span>';
 } else if (now >= jdsd_date && now <= jdsd_endTime) {
-  document.getElementById("jdsd").innerHTML = '<span class="badge bg-success">2023年4月20日｜活动进行中</span>';
+  document.getElementById("jdsd").innerHTML = '<span class="badge bg-success">2023年4月20日｜经典诵读进行中</span>';
 } else {
-  document.getElementById("jdsd").innerHTML = '<span class="badge bg-danger">2023年4月20日｜活动已结束</span>';
+  document.getElementById("jdsd").innerHTML = '<span class="badge bg-danger">2023年4月20日｜经典诵读已结束</span>';
 }
 if (now < jdsd_2_date) {
   document.getElementById("jdsd_2").innerHTML = '<span class="badge bg-secondary">2023年8月24日｜开学典礼准备中</span>';
@@ -44,9 +44,6 @@ if (now < jdsd_2_date) {
   document.getElementById("jdsd_2").innerHTML = '<span class="badge bg-danger">2023年8月24日｜开学典礼已结束</span>';
 }
 </script>
-<div class="alert alert-warning" role="alert">
-    开学典礼上我们需要再次展示《壮美东坡》经典诵读。2023年4月20日是经典诵读的时间，而8月24日是开学典礼再次展示的时间。
-</div>
 
 八年级学生经典诵读活动，咱班诵读内容如下：
 

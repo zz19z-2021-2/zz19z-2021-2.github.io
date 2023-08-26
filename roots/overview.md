@@ -79,6 +79,12 @@ p {
         </div>
     </div>
     <div class="list-group w-100 mb-3" style="display:inline-block;">
+        <h3 class="list-group-item list-group-item-primary">九年级</h3>
+        <div class="flex-column btn-group-vertical d-flex list-group-item pt-3 pb-3">
+            <a type="button" href="/九年级/上册/政治学习资料整理" class="mb-0 btn btn-outline-primary ms-0">上册 / 政治学习资料整理</a>
+        </div>
+    </div>
+    <div class="list-group w-100 mb-3" style="display:inline-block;">
         <h3 class="list-group-item list-group-item-primary">其它</h3>
         <div class="flex-column btn-group-vertical d-flex list-group-item pt-3 pb-3">
             <a type="button" href="/其他/2022元旦联欢会" class="mb-0 btn-outline-primary btn ms-0">2022元旦联欢会</a>

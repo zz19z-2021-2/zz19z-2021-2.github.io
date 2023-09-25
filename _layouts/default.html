@@ -80,8 +80,11 @@
               const pageHeader = document.querySelector('.page-header');
               const navElement = document.querySelector('nav');
               const gradientColor = theme === 'dark' ? '#0b2847, #094728' : '#155799, #159957';
+              const backgroundColor = theme === 'dark' ? '#0a3937' : '#159957';
               pageHeader.style.backgroundImage = `linear-gradient(120deg, ${gradientColor})`;
               navElement.style.backgroundImage = `linear-gradient(20deg, ${gradientColor})`;
+              pageHeader.style.backgroundColor = `${backgroundColor}`;
+              navElement.style.backgroundColor = `${backgroundColor}`;
             };
             
             setTheme(getPreferredTheme());

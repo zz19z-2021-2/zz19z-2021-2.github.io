@@ -68,14 +68,9 @@
       <p style="text-align: right;">Best regards,<br />
       Xiaocao Class</p>
       {{ content }}
-
+    
       <footer class="site-footer">
         <script src="/breadcrumbs.js"></script>
-        {% if site.github.is_project_page %}
-          <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
-        {% endif %}
-        <span class="site-footer-credits">此页面使用<a href="https://pages.github.com">GitHub Pages</a>生成。</span>
-                <script src="/breadcrumbs.js"></script>
         {% if site.github.is_project_page %}
           <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
         {% endif %}
@@ -109,8 +104,11 @@
               const pageHeader = document.querySelector('.page-header');
               const navElement = document.querySelector('nav');
               const gradientColor = theme === 'dark' ? '#0b2847, #094728' : '#155799, #159957';
+              const backgroundColor = theme === 'dark' ? '#0a3937' : '#159957';
               pageHeader.style.backgroundImage = `linear-gradient(120deg, ${gradientColor})`;
               navElement.style.backgroundImage = `linear-gradient(20deg, ${gradientColor})`;
+              pageHeader.style.backgroundColor = `${backgroundColor}`;
+              navElement.style.backgroundColor = `${backgroundColor}`;
             };
             
             setTheme(getPreferredTheme());
@@ -133,7 +131,7 @@
                 setTheme(getPreferredTheme())
               }
             })
-            
+
 //             window.addEventListener('DOMContentLoaded', () => {
 //               showActiveTheme(getPreferredTheme())
 //             

@@ -4,7 +4,7 @@
 
 文章内容的更新，并不包括在大版本的更新历史中。你可以在这个页面的后半部分找到各篇文章是在何时更新的。
 
-**本页面最后更新：2023年8月26日。**
+**本页面最后更新：2023年9月25日。**
 
 # 目录
 
@@ -15,6 +15,7 @@
 - [Version 0.4.3](/roots/history/Version_0.4.3)
 - [Version 0.4.4](/roots/history/Version_0.4.4)
 - [Version 0.5.0](/roots/history/Version_0.5.0)
+- [Version 0.5.1](/roots/history/Version_0.5.1)
 
 # 内容更新
 

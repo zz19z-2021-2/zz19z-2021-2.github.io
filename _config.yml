@@ -3,3 +3,6 @@ title: 笑草班
 description: 笑草班
 keywords: "blog"
 url: zz19z-2021-2.github.io
+
+plugins:
+    - jekyll-optional-front-matter

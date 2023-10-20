@@ -9,6 +9,7 @@ gem 'pygments.rb'
 gem 'jekyll-default-layout'
 gem 'jekyll-relative-links'
 gem 'jekyll-titles-from-headings'
+gem 'jekyll-redirect-from'
 group :jekyll_plugins do
     gem 'jekyll-optional-front-matter'
 end

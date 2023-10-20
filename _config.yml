@@ -3,16 +3,18 @@ title: 笑草班
 description: 笑草班
 keywords: "blog"
 url: zz19z-2021-2.github.io
+permalink: pretty
 
 plugins:
     - jekyll-optional-front-matter
     - jekyll-default-layout
     - jekyll-titles-from-headings
     - jekyll-relative-links
+    - jekyll-redirect-from
 
 relative_links:
     enabled:     true
-    collections: false
+    collections: true
 titles_from_headings:
     enabled:     true
     strip_title: false

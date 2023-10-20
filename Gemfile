@@ -12,5 +12,5 @@ gem 'jekyll-titles-from-headings'
 group :jekyll_plugins do
     gem 'jekyll-optional-front-matter'
 end
-plugins:
+gems:
     - jekyll-optional-front-matter

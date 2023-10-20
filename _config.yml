@@ -6,3 +6,14 @@ url: zz19z-2021-2.github.io
 
 plugins:
     - jekyll-optional-front-matter
+    - jekyll-default-layout
+    - jekyll-titles-from-headings
+    - jekyll-relative-links
+
+relative_links:
+    enabled:     true
+    collections: false
+titles_from_headings:
+    enabled:     true
+    strip_title: false
+    collections: false

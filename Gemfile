@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
 
-gem "github-pages"
-gem 'jekyll-theme-cayman'
+gem 'jekyll-theme-cayman', '~> 0.2.0'
+gem 'jekyll'
+gem 'jekyll-seo-tag'

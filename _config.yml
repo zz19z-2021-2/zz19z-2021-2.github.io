@@ -11,6 +11,7 @@ plugins:
     - jekyll-titles-from-headings
     - jekyll-relative-links
     - jekyll-redirect-from
+    - jekyll-mermaid
 
 relative_links:
     enabled:     true

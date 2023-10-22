@@ -25,114 +25,13 @@
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
       {% endif %}
+      {% include header.html %}
     </header>
-      <nav class="navbar navbar-expand navbar-dark" style="background-image: linear-gradient(60deg, #155799, #159957);">
-        <div class="container d-flex align-items-center">
-          <a class="navbar-brand" href="/">笑草班</a>
-          <ul class="navbar-nav me-auto">
-            <li class="nav-item">
-              <a class="nav-link" href="/roots/overview">内容总览</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="/其他/个人空间">个人空间</a>
-            </li>
-          </ul>
-        </div>
-      </nav>
-      <div class="container">
-        <div class="d-flex my-2 align-items-center" id="breadcrumbs"></div>
-      </div>
     <main id="content" class="main-content" role="main">
       {{ content }}
 
       <footer class="site-footer">
-        <script src="/breadcrumbs.js"></script>
-        <script type="module">
-            import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
-            mermaid.initialize({ startOnLoad: true });
-        </script>
-        {% if site.github.is_project_page %}
-          <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
-        {% endif %}
-        <span class="site-footer-credits">此页面使用<a href="https://pages.github.com">GitHub Pages</a>生成。</span>
-        <script>
-          /*!
-           * Color mode toggler for Bootstrap's docs (https://getbootstrap.com/)
-           * Copyright 2011-2022 The Bootstrap Authors
-           * Licensed under the Creative Commons Attribution 3.0 Unported License.
-           */
-          
-          (() => {
-            'use strict'
-          
-            const storedTheme = localStorage.getItem('theme')
-          
-            const getPreferredTheme = () => {
-              if (storedTheme) {
-                return storedTheme
-              }
-          
-              return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
-            }
-          
-            const setTheme = function (theme) {
-              if (theme === 'auto' && window.matchMedia('(prefers-color-scheme: dark)').matches) {
-                document.documentElement.setAttribute('data-bs-theme', 'dark');
-              } else {
-                document.documentElement.setAttribute('data-bs-theme', theme);
-              }
-              const pageHeader = document.querySelector('.page-header');
-              const navElement = document.querySelector('nav');
-              const gradientColor = theme === 'dark' ? '#0b2847, #094728' : '#155799, #159957';
-              const backgroundColor = theme === 'dark' ? '#0a3937' : '#159957';
-              pageHeader.style.backgroundImage = `linear-gradient(120deg, ${gradientColor})`;
-              navElement.style.backgroundImage = `linear-gradient(20deg, ${gradientColor})`;
-              pageHeader.style.backgroundColor = `${backgroundColor}`;
-              navElement.style.backgroundColor = `${backgroundColor}`;
-            };
-            
-            setTheme(getPreferredTheme());
-            
-            const showActiveTheme = theme => {
-              const activeThemeIcon = document.querySelector('.theme-icon-active use')
-              const btnToActive = document.querySelector(`[data-bs-theme-value="${theme}"]`)
-              const svgOfActiveBtn = btnToActive.querySelector('svg use').getAttribute('href')
-            
-              document.querySelectorAll('[data-bs-theme-value]').forEach(element => {
-                element.classList.remove('active')
-              })
-            
-              btnToActive.classList.add('active')
-              activeThemeIcon.setAttribute('href', svgOfActiveBtn)
-            }
-            
-            window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => {
-              if (storedTheme !== 'light' || storedTheme !== 'dark') {
-                setTheme(getPreferredTheme())
-              }
-            })
-            
-//             window.addEventListener('DOMContentLoaded', () => {
-//               showActiveTheme(getPreferredTheme())
-//             
-//               document.querySelectorAll('[data-bs-theme-value]')
-//                 .forEach(toggle => {
-//                   toggle.addEventListener('click', () => {
-//                     const theme = toggle.getAttribute('data-bs-theme-value')
-//                     localStorage.setItem('theme', theme)
-//                     setTheme(theme)
-//                     showActiveTheme(theme)
-//                   })
-//                 })
-//               const autoThemeButton = document.getElementById('autoThemeButton');
-//               autoThemeButton.addEventListener('click', () => {
-//                 localStorage.removeItem('theme');
-//                 setTheme(getPreferredTheme());
-//                 showActiveTheme(getPreferredTheme());
-//               });
-//             })
-          })();
-        </script>
+        {% include footer.html %}
       </footer>
     </main>
   </body>

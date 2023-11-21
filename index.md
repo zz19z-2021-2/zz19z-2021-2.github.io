@@ -6,8 +6,8 @@
 
 <div class="d-grid">
     <div class="btn-group-vertical">
-        <a class="btn btn-success mb-0" href="/其他/资料整理">全新九年级上册资料！前往“资料整理”页面</a>
-        <a class="btn btn-outline-success ms-0 mb-0" href="/九年级/上册/政治学习资料整理">新页面！前往“九年级 / 上册 / 政治学习资料整理”页面</a>
+        <a class="btn btn-outline-success mb-0" href="/其他/资料整理">全新九年级上册资料！前往“资料整理”页面</a>
+        <a class="btn btn-success ms-0 mb-0" href="/九年级/下册/政治学习资料整理">新页面！前往“九年级 / 下册 / 政治学习资料整理”页面</a>
         <a class="btn btn-outline-success ms-0 mb-0" href="/roots/overview">不知从何下手阅读本站？来“内容总览”看看吧！</a>
     </div>
 </div>

@@ -11,8 +11,22 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
+    <div style="font-size: 75%" id="js-note">
+      <p class="mb-0">如果你看到了这句话，要么</p>
+      <ul class="mb-0">
+        <li>我没调好。</li>
+        <li>你是看源代码看到的。如果是这一条，感谢你愿意这么细心来研究我的网站，抄代码也可以，但记得告诉我（邮箱huanqiu_myworld@163.com）。</li>
+        <li>【最常见】您没有允许此网站运行JavaScript。JavaScript在我们这里虽然并不很重要，正常情况下即使不启用JavaScript，网站也应能够正常访问，但某些功能无法使用（例如深色模式、页面目录等）。因此，我们在这里用横幅提示您。很抱歉该横幅无法关闭，只有您允许运行JavaScript，它才会将此横幅隐藏。您在大多数情况下都不应禁用JavaScript，至少为纯净的网站启用。这一设置通常在浏览器设置中，您可以随时更改。</li>
+      </ul>
+    <div>
   </head>
   <body>
+    <script>
+      var body = document.querySelector("body");
+      body.style.display = "none";
+      var jsnote = document.getElementById("js-note");
+      jsnote.style.display = "none";
+    </script>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
@@ -35,12 +49,4 @@
       </footer>
     </main>
   </body>
-  <div id="js-note">
-    <p>如果你看到了这句话，要么</p>
-    <ul>
-      <li>我没调好。</li>
-      <li>你是看源代码看到的。如果是这一条，感谢你愿意这么细心来研究我的网站，抄代码也可以，但记得告诉我（邮箱huanqiu_myworld@163.com）。</li>
-      <li>【最常见】你没允许此网站运行JavaScript。这一设置通常在浏览器设置中，但正常情况下不启用JavaScript网站也应能够正常访问。</li>
-    </ul>
-  <div>
 </html>

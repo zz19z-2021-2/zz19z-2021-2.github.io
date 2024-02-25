@@ -93,6 +93,14 @@ p {
             <a type="button" href="/其他/个人空间" class="btn btn-outline-primary ms-0">个人空间</a>
         </div>
     </div>
+    <div class="list-group w-100 mb-3" style="display:inline-block;">
+        <h3 class="list-group-item list-group-item-primary">制作组发布</h3>
+        <div class="flex-column btn-group-vertical d-flex list-group-item pt-3 pb-3">
+            {% for post in site.posts %}
+                <a type="button" href="{{ post.url }}" class="btn-outline-primary btn ms-0">{{ post.title }}</a>
+            {% endfor %}
+        </div>
+    </div>
 </div>
 <script>
     function adjustLayout() {

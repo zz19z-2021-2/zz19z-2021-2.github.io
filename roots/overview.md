@@ -118,4 +118,3 @@ p {
     // 当窗口大小改变时重新调整布局
     window.addEventListener('resize', adjustLayout);
 </script>
-

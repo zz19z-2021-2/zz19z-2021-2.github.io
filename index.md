@@ -10,7 +10,3 @@
         <a class="btn btn-outline-success ms-0 mb-0" href="/roots/overview">不知从何下手阅读本站？来“内容总览”看看吧！</a>
     </div>
 </div>
-
-<br />
-<span style="text-indent: 0;" class="badge bg-secondary">xiaocaozz.top [Version: 0.5.2] <a href="/roots/history" class="text-info">更新历史</a></span>
-<br />

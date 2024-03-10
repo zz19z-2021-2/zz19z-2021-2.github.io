@@ -25,7 +25,7 @@
                 display: inline-block;
             }
             </style>
-            <h2 id="bxlk-title">距离八校联考还剩</h2>
+            <h2 id="timer-title">八校联考</h2>
             <div class="countdown">
                 <div class="time">
                     <div class="number" id="days">0</div>
@@ -55,12 +55,12 @@
                             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                         </div>
                         <div class="modal-body">
-                            <p id="target_date">当前目标时间：2023年5月17日 星期四8:0:0</p>
+                            <p id="target_date">当前目标时间：2024年3月26日 星期四8:0:0</p>
                             <input type="datetime-local" id="dateTimePicker">
                         </div>
                         <div class="modal-footer">
                             <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">取消</button>
-                            <button type="button" class="btn btn-primary" onclick="changeDate()" data-bs-dismiss="modal">确定</button>
+                            <button type="button" class="btn btn-primary" onclick="timerChangeDate()" data-bs-dismiss="modal">确定</button>
                         </div>
                     </div>
                 </div>
@@ -69,10 +69,9 @@
     </div>
     <div class="card col-lg-6" style="display:inline-block">
         <div class="card-body">
-            <h2 class="card-title">资料整理页面大更新！</h2>
-            <p class="card-text">为了满足日益增多的学习资料和面对即将到来的八校联考，我们几乎重写了整个资料整理页面，来保证你可以方便地查找、使用资料。还等什么？快去看看全新设计的页面吧！</p>
+            <h2 class="card-title"></h2>
+            <p class="card-text"></p>
             <div class="card-text d-grid">
-                <a type="button" class="btn btn-primary btn-block" href="/资料整理">资料整理</a>
             </div>
         </div>
     </div>
@@ -97,9 +96,9 @@ function setTextSize() {
         }
     }
     if (width < 992) { // 小屏幕
-        document.getElementById("bxlk-title").className = "text-center card-title mt-0 mb-0";
+        document.getElementById("timer-title").className = "text-center card-title mt-0 mb-0";
     } else { // 大屏幕
-    document.getElementById("bxlk-title").className = "text-center card-title mt-3";
+    document.getElementById("timer-title").className = "text-center card-title mt-3";
     }
 }
 
@@ -112,8 +111,8 @@ setTextSize();
 // -------- 以上是响应式设计部分 --------
 // -------- 以下是倒计时部分 --------
 //
-// 目标时间2023年5月18日上午8:00
-var countDownDate = new Date("May 17, 2023 08:00:00").getTime();
+// 目标时间 年月数不变，日数+1（e.g. 目标为18日，则需要填写17）
+var countDownDate = new Date("Mar 25, 2024 08:00:00").getTime();
 var days, hours, minutes;
 var interval;
 
@@ -150,7 +149,7 @@ function countdown() {
         var alertDiv = document.createElement("div");
         alertDiv.className = "alert alert-warning mt-3";
         alertDiv.innerHTML = "倒计时已经结束!";
-        document.getElementById("bxlk-title").appendChild(alertDiv);
+        document.getElementById("timer-title").appendChild(alertDiv);
 
         // 隐藏原倒计时
         document.querySelector(".countdown").style.display = "none";
@@ -185,7 +184,7 @@ function getChineseDate(dateStr) {
     var minute = date.getMinutes();
     var second = date.getSeconds();
 
-    return "当前目标时间：" + year + "年" + month + "月" + day + "日 " + weeks[week] + hour + ":" + minute + ":" + second;
+    return year + "年" + month + "月" + day + "日 " + weeks[week] + hour + ":" + minute + ":" + second;
 }
 // 添加changeDate函数
 function changeDate() {
@@ -211,7 +210,7 @@ countdown()
 interval = setInterval(function() {
     countdown();
 }, 1000);
-document.getElementById("target_date").innerText = getChineseDate("May 17, 2023 08:00:00");
+document.getElementById("target_date").innerText = "当前目标时间：" + getChineseDate("Mar 25, 2024 08:00:00");
 </script>
 ```
 

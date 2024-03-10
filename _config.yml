@@ -4,6 +4,7 @@ description: 笑草班
 keywords: "blog"
 url: zz19z-2021-2.github.io
 permalink: /:year/:month/:day/:title/
+version: 0.6.0 Alpha
 
 plugins:
     - jekyll-optional-front-matter

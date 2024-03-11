@@ -4,13 +4,7 @@ function displayToast() {
     const toastLiveExample = document.getElementById("liveToast");
     const toastBootstrap = bootstrap.Toast.getOrCreateInstance(toastLiveExample);
 
-    toastBootstrap.show();
-
-    var time_now = Date.now();
-    // var time_now_parsed = Date.parse(time_now);
-    var time_now_elem = document.getElementById("time_now");
-    // time_now_elem.innerHTML = time_now_parsed;
-  
+    toastBootstrap.show();  
 }
 
 // ********** 计时器 **********
@@ -51,7 +45,7 @@ function timerSetTextSize() {
 // ========== 以上是响应式设计部分 ==========
 // ========== 以下是倒计时部分 ==========
 
-var countDownDate = new timerDate.getTime();
+var countDownDate = timerDate.getTime();
 var days, hours, minutes;
 var interval;
 

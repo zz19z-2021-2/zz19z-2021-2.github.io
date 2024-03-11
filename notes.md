@@ -32,6 +32,7 @@
         <a class="btn btn-outline-success ms-0 mb-0" href="/roots/overview">不知从何下手阅读本站？来“内容总览”看看吧！</a>
     </div>
 </div>
+<script src="global.js"></script>
 <style>
 .countdown {
     width: 100%;

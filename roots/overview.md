@@ -91,6 +91,7 @@ p {
             <a type="button" href="/其他/2022元旦联欢会" class="mb-0 btn-outline-primary btn ms-0">2022元旦联欢会</a>
             <a type="button" href="/其他/资料整理" class="btn btn-outline-primary ms-0">资料整理</a>
             <a type="button" href="/其他/个人空间" class="btn btn-outline-primary ms-0">个人空间</a>
+            <a type="button" href="/其他/三位数除法" class="btn btn-outline-primary ms-0">三位数除法</a>
         </div>
     </div>
     <div class="list-group w-100 mb-3" style="display:inline-block;">

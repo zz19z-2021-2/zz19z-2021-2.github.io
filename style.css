@@ -15,7 +15,7 @@ nav {
 code {
     color: var(--bs-body-color);
     font-size: 0.875em;
-    transition: 0.3s ease;
+    transition: all 0.3s ease;
 }
 [data-bs-theme=dark] code {
     color: var(--bs-body-color);

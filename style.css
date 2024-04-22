@@ -13,11 +13,14 @@ nav {
   transition: all 0.3s ease;
 }
 code {
-    color: var(--bs-body-color);
-    font-size: 0.875em;
-    transition: all 0.3s ease;
+  color: var(--bs-body-color);
+  font-size: 0.875em;
+  transition: all 0.3s ease;
 }
 [data-bs-theme=dark] code {
-    color: var(--bs-body-color);
-    background-color: var(--bs-dark-bg-subtle);
+  color: var(--bs-body-color);
+  background-color: var(--bs-dark-bg-subtle);
+}
+strong {
+  color: #f66;
 }

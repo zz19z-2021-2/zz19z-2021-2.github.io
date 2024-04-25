@@ -12,14 +12,18 @@ body {
 nav {
   transition: all 0.3s ease;
 }
+pre,
 code {
   color: var(--bs-body-color);
   font-size: 0.875em;
   transition: all 0.3s ease;
 }
-[data-bs-theme=dark] code {
+[data-bs-theme=dark] pre,code {
   color: var(--bs-body-color);
   background-color: var(--bs-dark-bg-subtle);
+}
+[data-bs-theme=dark] pre {
+  border-color: var(--bs-secondary-bg);
 }
 strong {
   color: #f66;

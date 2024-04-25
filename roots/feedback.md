@@ -20,16 +20,16 @@
 <script>
 let inboxWarning = document.getElementById("inbox-warning");
 let rootElement = document.documentElement;
-window.onload = (event) => {
+window.addEventListener('DOMContentLoaded', () => {
     if (rootElement.attributes.getNamedItem("data-bs-theme").value == "dark") {
         inboxWarning.style.display = "block";
     }
-}
+});
 window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => {
     if (rootElement.attributes.getNamedItem("data-bs-theme").value == "dark") {
         inboxWarning.style.display = "block";
     } else {
         inboxWarning.style.display = "none";
     }
-})
+});
 </script>

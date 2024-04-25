@@ -18,16 +18,18 @@
 上传到此链接上的文件会自动同步到学校电脑里，**但需要手动下载！**至于问题与建议，请在文件名中写明，谢谢！
 
 <script>
+let inboxWarning = document.getElementById("inbox-warning");
+let rootElement = document.documentElement;
 window.onload = (event) => {
-    if (document.documentElement.classList.contains("dark")) {
-        document.getElementById("inbox-warning").style.display = "block";
+    if (rootElement.attributes.getNamedItem("data-bs-theme").value == "dark") {
+        inboxWarning.style.display = "block";
     }
 }
 window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => {
-    if (document.documentElement.classList.contains("dark")) {
-        document.getElementById("inbox-warning").style.display = "block";
+    if (rootElement.attributes.getNamedItem("data-bs-theme").value == "dark") {
+        inboxWarning.style.display = "block";
     } else {
-        document.getElementById("inbox-warning").style.display = "none";
+        inboxWarning.style.display = "none";
     }
 })
 </script>

@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-bs-theme="light">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="/_includes/bootstrap.min.css" rel="stylesheet" integrity="sha512-jnSuA4Ss2PkkikSOLtYs8BlYIeeIK1h99ty4YfvRPAlzr377vr3CXDb7sb7eEEBYjDtcYj+AjBH3FLv5uSJuXg==" crossorigin="anonymous">
+    <link href="/_includes/style.css" rel="stylesheet">
+    <style>
+    .form-check-input:disabled~.form-check-label, .form-check-input[disabled]~.form-check-label, .form-check-input:disabled, .form-check-input[disabled] {
+        opacity: 1;
+        cursor: auto;
+    }
+    .building {
+        color: rgb(255,193,7);
+    }
+    .built {
+        color: rgb(25,135,84);
+    }
+    .building, .built {
+        font-weight: bolder;
+    }
+    </style>
+</head>
+<nav class="navbar navbar-expand bg-body-tertiary mb-3">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="/">建设十九</a>
+        <div class="navbar-nav me-auto">
+            <a class="nav-link" href="/">首页</a>
+            <a class="nav-link" href="/resources_explanation.html">资源包</a>
+        </div>
+        <a class="navbar-brand" href="https://www.xiaocaozz.top">笑草班</a>
+    </div>
+</nav>
+<body class="container mt-3">
+<script src="/_includes/set_color_theme.js"></script>
+<main>
+
+    <h1 class="mb-3">欢迎来到建设十九服务器</h1>
+    <div class="alert alert-success d-flex align-items-center" role="alert">
+        <div>
+            <strong>🟢<a href="https://zh.minecraft.wiki/w/棘巧试炼">Minecraft 1.21 棘巧试炼</a>［<a href="https://www.minecraft.net/en-us/article/play-tricky-trials-update-today">官方网站（英文）</a>］已于2024年6月13日发布。</strong>由于基岩版玩家大多数会更新至最新版本，服务器也将会在所有模组均完成更新后升级到最新版本<del>（虽然地图建筑大概率没什么变化）</del>。因此，现在服务器仅允许<a class="link-footnote" href="#服务器信息">部分基岩版版本</a>加入。
+        </div>
+    </div>
+    <p>这里是建设十九服务器，是笑草班秘密组织的一项在<a href="https://zh.minecraft.wiki">Minecraft</a>中重建<a href="https://zzsd19cjzx.com">郑州市第十九初级中学</a>的项目。这里提供了建设十九服务器的绝大多数信息，至少没有哪里比这里还要详细！😃</p>
+    <p><span class="fw-bold">建筑师们！</span>如果你们看到了这个页面，说明服务器一切正常且正在运行！快去建造吧！</p>
+    
+    
+    <h2 id="服务器信息">服务器信息</h2>
+    <p>我们使用的Minecraft版本为<a href="https://zh.minecraft.wiki/w/Java版1.20.4">Java版1.20.4</a>，服务器IP即为不带端口号的当前地址（<code class="user-select-all">mc.xiaocaozz.top</code>），无模组安装要求，但也接受带模组的客户端加入。服务端使用<a href="https://fabricmc.net">Fabric</a>，主要模组为<a href="https://modrinth.com/plugin/worldedit">WorldEdit</a>。<a class="link-footnote" href="#推荐模组">推荐模组见下</a>，绝大多数为优化模组。</p>
+    <p>如果你没有Java版，得益于<a href="https://modrinth.com/mod/geyser">Geyser兼容层</a>，<a href="https://zh.minecraft.wiki/w/基岩版">基岩版</a>玩家也可以加入游戏，但游戏版本必须为<a href="https://zh.minecraft.wiki/w/基岩版1.20.40">1.20.40</a>到<a href="https://zh.minecraft.wiki/w/基岩版1.20.80">1.20.80</a>。服务器IP同为当前地址（<code class="user-select-all">mc.xiaocaozz.top</code>），端口号默认即可（<code class="user-select-all">19132</code>）。</p>
+    
+    
+    <h3>To-do</h3>
+    <a href="/notes.html" class="btn btn-primary mb-3">去看看我们在用的命令</a>
+    <div class="mb-3 form-check">
+        <input class="form-check-input" type="checkbox" id="garden" disabled checked>
+        <label class="form-check-label built" for="garden">小花园</label><br />
+        
+        <input class="form-check-input" type="checkbox" id="office" disabled checked>
+        <label class="form-check-label built" for="office">办公楼</label><br />
+        
+        <input class="form-check-input" type="checkbox" id="basement" disabled checked>
+        <label class="form-check-label built" for="basement">地下室</label><br />
+        
+        <input class="form-check-input" type="checkbox" id="northern_gate" disabled checked>
+        <label class="form-check-label built" for="northern_gate">北门</label><br />
+        
+        <input class="form-check-input" type="checkbox" id="eastern_gate" disabled checked>
+        <label class="form-check-label built" for="eastern_gate">东门</label><br />
+        
+        <input class="form-check-input" type="checkbox" id="learning_center" disabled checked>
+        <label class="form-check-label built" for="learning_center">学术交流中心</label><br />
+        
+        <input class="form-check-input" type="checkbox" id="volleyball" disabled checked>
+        <label class="form-check-label built" for="volleyball">排球场</label><br />
+        
+        <input class="form-check-input" type="checkbox" id="dormitory" disabled checked>
+        <label class="form-check-label built" for="dormitory">宿舍楼</label><br />
+        
+        <input class="form-check-input" type="checkbox" id="restroom_w" disabled checked>
+        <label class="form-check-label built" for="restroom_w">西厕所</label><br />
+        
+        <input class="form-check-input" type="checkbox" id="learning_hall" disabled checked>
+        <label class="form-check-label built" for="learning_hall">大学堂</label><br />
+        
+        <input class="form-check-input" type="checkbox" id="playground" disabled checked>
+        <label class="form-check-label built" for="playground">操场</label><br />
+        
+        <input class="form-check-input" type="checkbox" id="soccer" disabled checked>
+        <label class="form-check-label built" for="soccer">足球场</label><br />
+        
+        <input class="form-check-input" type="checkbox" id="science_center" disabled checked>
+        <label class="form-check-label built" for="science_center">科教中心</label><br />
+        
+        <input class="form-check-input" type="checkbox" id="lab" disabled checked>
+        <label class="form-check-label built" for="lab">实验室</label><br />
+    </div>
+    
+    
+    <h2>游戏实景</h2>
+    <p>得益于BlueMap（<a href="https://modrinth.com/plugin/bluemap">官方网站</a>），我们得以在浏览器中直接看到建设工作的进度！一定要去好好探索，至少找到一个第一人称视角的功能！</p>
+    <a class="btn btn-primary w-100 mb-3" href="http://mc.xiaocaozz.top:8100">通过BlueMap在浏览器探索服务器！</a>
+    
+    
+    <h2>资源下载</h2>
+    
+    <h3>服务器资源包</h3>
+    <p>我们的服务器提供自定义<a href="https://zh.minecraft.wiki/w/资源包">资源包</a>，这是为了使游戏看上去与现实更加相似。如果你不想使用或性能不允许，可以在进入服务器时选择不加载。<strong>但请了解，自定义资源包并没有大幅度改动。你可以<a href="/resources_explanation.html">稍后</a>了解详情。</strong></p>
+    <p>尽管游戏内会自动下载，你仍可以直接<a href="/Downloads/resourcepack.zip" class="link-success">下载完整的服务器资源包</a>。</p>
+    <a class="btn btn-primary w-100 mb-3" href="/resources_explanation.html">了解资源包详情</a>
+    
+    <h3 id="推荐模组">推荐模组</h3>
+    <p>模组加载器使用<a href="https://fabricmc.net">Fabric Loader</a>最新版即可，并将<a href="/Downloads/mods.zip" class="link-success">下载的<code>mods.zip</code></a><span class="fw-bold">全部解压后的文件</span>移入<code>mods</code>文件夹。</p>
+    <p>如果你使用<a href="https://afdian.net/p/0164034c016c11ebafcb52540025c377">PCL2</a>或其他类似的第三方启动器，安装Fabric Loader时请取消<a href="https://modrinth.com/mod/fabric-api">Fabric API</a>的自动下载，否则会导致模组重复。</p>
+</main>
+
+<footer>
+    <hr />
+    <p class="text-body-secondary">本网页使用<a href="https://getbootstrap.com">Bootstrap 5</a>前端框架制作。</p>
+    <script src="/_includes/bootstrap.bundle.min.js" integrity="sha512-7Pi/otdlbbCR+LnW+F7PwFcSDJOuUJB3OxtEHbg4vSMvzvJjde4Po1v4BR9Gdc9aXNUNFVUY+SK51wWT8WF0Gg==" crossorigin="anonymous"></script>
+</footer>
+</body>
+</html>

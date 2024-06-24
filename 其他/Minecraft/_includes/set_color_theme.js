@@ -1,21 +1,3 @@
-<nav class="navbar navbar-expand navbar-dark" style="background-image: linear-gradient(60deg, #155799, #159957);">
-  <div class="container d-flex align-items-center">
-    <a class="navbar-brand" href="/">笑草班</a>
-    <ul class="navbar-nav me-auto">
-      <li class="nav-item">
-        <a class="nav-link" href="/roots/overview">内容总览</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="/其他/个人空间">个人空间</a>
-      </li>
-    </ul>
-    <a class="navbar-brand" href="http://mc.xiaocaozz.top:8000">建设十九</a>
-  </div>
-</nav>
-<div class="container">
-  <div class="d-flex my-2 align-items-center" id="breadcrumbs"></div>
-</div>
-<script>
   /*!
    * Color mode toggler for Bootstrap's docs (https://getbootstrap.com/)
    * Copyright 2011-2022 The Bootstrap Authors
@@ -41,14 +23,6 @@
       } else {
         document.documentElement.setAttribute('data-bs-theme', theme);
       }
-      const pageHeader = document.querySelector('.page-header');
-      const navElement = document.querySelector('nav');
-      const gradientColor = theme === 'dark' ? '#0b2847, #094728' : '#155799, #159957';
-      const backgroundColor = theme === 'dark' ? '#0a3937' : '#159957';
-      pageHeader.style.backgroundImage = `linear-gradient(120deg, ${gradientColor})`;
-      navElement.style.backgroundImage = `linear-gradient(20deg, ${gradientColor})`;
-      pageHeader.style.backgroundColor = `${backgroundColor}`;
-      navElement.style.backgroundColor = `${backgroundColor}`;
     };
     
     setTheme(getPreferredTheme());
@@ -92,4 +66,3 @@
 //       });
 //     })
   })();
-</script>

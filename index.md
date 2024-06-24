@@ -1,7 +1,7 @@
 # 欢迎
 
 <div class="alert alert-success" role="alert">
-    <h3 class="alert-heading">我们毕业啦！</h4>
+    <h3 class="alert-heading">我们毕业啦！</h3>
     <p>作为毕业礼物，我们想留下一个能够跨越时间、空间的数据——<a href="https://zh.minecraft.wiki">Minecraft</a>世界！有了它，你能够随时随地回忆美好的初中时光！</p>
     <a class="btn btn-success w-100" href="http://mc.xiaocaozz.top:8000">前往Minecraft服务器分站了解更多！</a>
     <p>请注意：由于此网页与服务器互通，有时该网页可能无法打开，请耐心等待。你亦可选择：</p>

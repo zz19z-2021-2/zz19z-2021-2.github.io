@@ -3,7 +3,7 @@
 <div class="alert alert-success" role="alert">
     <h3 class="alert-heading">我们毕业啦！</h3>
     <p>作为毕业礼物，我们想留下一个能够跨越时间、空间的数据——<a href="https://zh.minecraft.wiki">Minecraft</a>世界！有了它，你便能够随时随地回忆美好的初中时光！导航栏右侧亦有前往分服务器的链接。</p>
-    <a class="btn btn-success w-100" href="https://mc.xiaocaozz.top">前往Minecraft服务器分站了解更多！</a>
+    <a class="btn btn-success w-100 mb-0" href="https://mc.xiaocaozz.top">前往Minecraft服务器分站了解更多！</a>
 </div>
 <div class="alert alert-warning" role="alert">
     <h3 class="alert-heading text-danger">关于网站的未来</h3>
